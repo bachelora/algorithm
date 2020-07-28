@@ -3,7 +3,7 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>id</key>
+		<key>iD</key>
 		<string>0</string>
 		<key>title</key>
 		<string>Array</string>
@@ -11,7 +11,7 @@
 		<string>5</string>
 	</dict>
 	<dict>
-		<key>id</key>
+		<key>iD</key>
 		<string>1</string>
 		<key>title</key>
 		<string>string</string>
