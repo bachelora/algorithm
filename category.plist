@@ -8,15 +8,7 @@
 		<key>imageUrl</key>
 		<string>https://www.amazon.com/images/I/81hCytKTUTL.jpg</string>
 		<key>feature</key>
-		<string>
-			4.7-inch Retina HD display
-			Water and dust resistant (1 meter for up to 30 minutes, IP67)
-			12MP Wide camera; Portrait mode, Portrait Lighting, Depth Control, next-generation Smart HDR, and 4K video
-			7MP front camera with Portrait mode, Portrait Lighting, and Depth Control
-			Touch ID for secure authentication and Apple Pay
-			A13 Bionic chip with third-generation Neural Engine
-			Fast-charge capable
-		</string>
+		<string>00</string>
 		<key>price</key>
 		<string>399.00</string>
 		<key>brand</key>
@@ -29,15 +21,7 @@
 		<key>imageUrl</key>
 		<string>https://www.amazon.com/images/I/81FH2j7EnJL._AC_SX522_.jpg</string>
 		<key>feature</key>
-		<string>
-			12.9-inch edge-to-edge Liquid Retina display with ProMotion, True Tone, and P3 wide color
-			A12Z Bionic chip with Neural Engine
-			12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner
-			7MP TrueDepth front camera
-			Face ID for secure authentication and Apple Pay
-			Four speaker audio and five studio-quality microphones
-			802.11ax Wi-Fi 6
-		</string>
+		<string>00</string>
 		<key>price</key>
 		<string>949.00</string>
 		<key>brand</key>
@@ -50,37 +34,11 @@
 		<key>imageUrl</key>
 		<string>https://www.amazon.com/images/I/610bDV2ZmcL._AC_SY445_.jpg</string>
 		<key>feature</key>
-		<string>
-			11-inch edge-to-edge Liquid Retina display with ProMotion, True Tone, and P3 wide color
-			A12Z Bionic chip with Neural Engine
-			12MP Wide camera, 10MP Ultra Wide camera, and LiDAR Scanner
-			7MP TrueDepth front camera
-			Face ID for secure authentication and Apple Pay
-			Four speaker audio and five studio-quality microphones
-			802.11ax Wi-Fi 6
-		</string>
+		<string>00</string>
 		<key>price</key>
 		<string>615.00</string>
 		<key>brand</key>
 		<string>Apple</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Huawei P30 Pro 128GB+8GB RAM (VOG-L29) 40MP LTE Factory Unlocked GSM Smartphone (International Version, No Warranty in the US) (Aurora)</string>
-		<key>imageUrl</key>
-		<string>https://www.amazon.com/images/I/61XM1qbUPUL._AC_SX679_.jpg</string>
-		<key>feature</key>
-		<string>
-			3G HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - 4G LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 6(900), 7(2600), 8(900), 9(1800), 12(700), 17(700), 18(800), 19(800), 20(800), 26(850), 28(700), 32(1500), 34(2000), 38(2600), 39(1900), 40(2300) - Hybrid Dual SIM (Nano-SIM, dual stand-by) > (ensure to check compatibility with your carrier before purchase)
-			6.47 inches 1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density) - Android 9.0 + EMUI 9.0 - IP68 dust/water resistant - Front/back glass, aluminum frame
-			128GB + 8GB RAM - NM (Nano Memory), up to 256GB (uses SIM 2) - Non-removable Li-Po 4200 mAh battery - Hisilicon Kirin 980 Octa-core 2.6GHz
-			Rear Camera: 40 MP, f/1.6, 27mm (wide) + 20 MP, f/2.2, 16mm (ultrawide) + Periscope 8 MP, f/3.4, 125mm (telephoto) - Front Camera: 32 MP, f/2.0, (wide) - Video: 2160p@30fps
-			Unlocked cellphones are compatible with most of the GSM carrier ( Like T-Mobile or AT&T ) but please be aware that are not compatible with CDMA carriers ( Like Sprint or Verizon Wireless for example )
-		</string>
-		<key>price</key>
-		<string>239.00</string>
-		<key>brand</key>
-		<string>Huawei</string>
 	</dict>
 </array>
 </plist>
