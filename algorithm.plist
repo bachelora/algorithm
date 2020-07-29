@@ -185,5 +185,201 @@
                 <key>category</key>
 		<string>array</string>
 	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>44</string>
+		<key>title</key>
+		<string>Wildcard Matching</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/wildcard-matching/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>32</string>
+		<key>title</key>
+		<string>Longest Valid Parentheses</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/longest-valid-parentheses/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>30</string>
+		<key>title</key>
+		<string>Substring with Concatenation of All Words</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/substring-with-concatenation-of-all-words/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>12</string>
+		<key>title</key>
+		<string>Integer to Roman</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/integer-to-roman/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>10</string>
+		<key>title</key>
+		<string>Regular Expression Matching</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/regular-expression-matching/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>8</string>
+		<key>title</key>
+		<string>String to Integer (atoi)</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/string-to-integer-atoi/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>6</string>
+		<key>title</key>
+		<string>ZigZag Conversion</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/zigzag-conversion/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>6</string>
+		<key>title</key>
+		<string>ZigZag Conversion</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/zigzag-conversion/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>5</string>
+		<key>title</key>
+		<string>Longest Palindromic Substring</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/longest-palindromic-substring/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>3</string>
+		<key>title</key>
+		<string>Longest Substring Without Repeating Characters</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/longest-substring-without-repeating-characters/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>214</string>
+		<key>title</key>
+		<string>Shortest Palindrome</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/shortest-palindrome/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>43</string>
+		<key>title</key>
+		<string>Multiply Strings</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/multiply-strings/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>49<string>
+		<key>title</key>
+		<string>Group Anagrams</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/group-anagrams/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+       <dict>
+                <key>difficulty</key>
+		<string>Easy</string>
+		<key>iD</key>
+		<string>58<string>
+		<key>title</key>
+		<string>Length of Last Word</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/length-of-last-word/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
 </array>
 </plist>
