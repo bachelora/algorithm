@@ -3,7 +3,7 @@
 <plist version="1.0">
 <array>
 	<dict>
-    <key>difficulty</key>
+                <key>difficulty</key>
 		<string>Easy</string>
 		<key>iD</key>
 		<string>1</string>
@@ -11,13 +11,13 @@
 		<string>Two Sum</string>
 		<key>question</key>
 		<string>https://leetcode.com/problems/two-sum/</string>
-    <key>answer</key>
+                <key>answer</key>
 		<string></string>
-    <key>category</key>
+                <key>category</key>
 		<string>array</string>
 	</dict>
 	<dict>
-    <key>difficulty</key>
+                <key>difficulty</key>
 		<string>Medium</string>
 		<key>iD</key>
 		<string>11</string>
@@ -25,9 +25,9 @@
 		<string>Container With Most Water</string>
 		<key>question</key>
 		<string>https://leetcode.com/problems/container-with-most-water/</string>
-    <key>answer</key>
+                <key>answer</key>
 		<string></string>
-    <key>category</key>
+                <key>category</key>
 		<string>array</string>
 	</dict>
   
