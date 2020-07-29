@@ -271,13 +271,13 @@
 	</dict>
 	<dict>
                 <key>difficulty</key>
-		<string>Medium</string>
+		<string>Hard</string>
 		<key>iD</key>
-		<string>6</string>
+		<string>72</string>
 		<key>title</key>
-		<string>ZigZag Conversion</string>
+		<string>Edit Distance</string>
 		<key>question</key>
-		<string>https://leetcode.com/problems/zigzag-conversion/</string>
+		<string>https://leetcode.com/problems/edit-distance/</string>
                 <key>answer</key>
 		<string></string>
                 <key>category</key>
@@ -376,6 +376,34 @@
 		<string>Length of Last Word</string>
 		<key>question</key>
 		<string>https://leetcode.com/problems/length-of-last-word/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>22</string>
+		<key>title</key>
+		<string>Generate Parentheses</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/generate-parentheses/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>string</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>71</string>
+		<key>title</key>
+		<string>Simplify Path</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/simplify-path/</string>
                 <key>answer</key>
 		<string></string>
                 <key>category</key>
