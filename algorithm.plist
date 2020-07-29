@@ -357,7 +357,7 @@
                 <key>difficulty</key>
 		<string>Medium</string>
 		<key>iD</key>
-		<string>49<string>
+		<string>49</string>
 		<key>title</key>
 		<string>Group Anagrams</string>
 		<key>question</key>
@@ -371,7 +371,7 @@
                 <key>difficulty</key>
 		<string>Easy</string>
 		<key>iD</key>
-		<string>58<string>
+		<string>58</string>
 		<key>title</key>
 		<string>Length of Last Word</string>
 		<key>question</key>
