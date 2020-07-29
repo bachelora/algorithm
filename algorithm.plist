@@ -18,6 +18,20 @@
 	</dict>
 	<dict>
                 <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>4</string>
+		<key>title</key>
+		<string>Median of Two Sorted Arrays</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/median-of-two-sorted-arrays/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
 		<string>Medium</string>
 		<key>iD</key>
 		<string>11</string>
@@ -31,5 +45,75 @@
 		<string>array</string>
 	</dict>
   
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>41</string>
+		<key>title</key>
+		<string>First Missing Positive</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/first-missing-positive/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>18</string>
+		<key>title</key>
+		<string>4Sum</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/4sum/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Easy</string>
+		<key>iD</key>
+		<string>26</string>
+		<key>title</key>
+		<string>Remove Duplicates from Sorted Array</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/remove-duplicates-from-sorted-array/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>57</string>
+		<key>title</key>
+		<string>Insert Interval</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/insert-interval/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>59</string>
+		<key>title</key>
+		<string>Spiral Matrix II</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/spiral-matrix-ii/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
 </array>
 </plist>
