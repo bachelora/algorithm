@@ -115,5 +115,75 @@
                 <key>category</key>
 		<string>array</string>
 	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>84</string>
+		<key>title</key>
+		<string>Largest Rectangle in Histogram</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/largest-rectangle-in-histogram/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Medium</string>
+		<key>iD</key>
+		<string>152</string>
+		<key>title</key>
+		<string>Maximum Product Subarray</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/maximum-product-subarray/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>128</string>
+		<key>title</key>
+		<string>Longest Consecutive Sequence</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/longest-consecutive-sequence/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>126</string>
+		<key>title</key>
+		<string>Word Ladder II</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/word-ladder-ii/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
+	<dict>
+                <key>difficulty</key>
+		<string>Hard</string>
+		<key>iD</key>
+		<string>123</string>
+		<key>title</key>
+		<string>Best Time to Buy and Sell Stock III</string>
+		<key>question</key>
+		<string>https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/</string>
+                <key>answer</key>
+		<string></string>
+                <key>category</key>
+		<string>array</string>
+	</dict>
 </array>
 </plist>
