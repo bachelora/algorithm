@@ -8,15 +8,9 @@
 		<key>title</key>
 		<string>Array</string>
 		<key>total</key>
-		<string>13</string>
-	</dict>
-	<dict>
-		<key>iD</key>
-		<string>1</string>
-		<key>title</key>
-		<string>string</string>
-		<key>total</key>
-		<string>16</string>
+		<string>274</string>
+		<key>url</key>
+		<string>https://raw.githubusercontent.com/bachelora/algorithm/master/array.json</string>
 	</dict>
 </array>
 </plist>
