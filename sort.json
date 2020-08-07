@@ -1,0 +1,346 @@
+[
+  {
+    "acceptance" : "39.3%",
+    "difficulty" : "Medium",
+    "title" : "Merge Intervals",
+    "iD" : "56",
+    "url" : "https:\/\/leetcode.com\/problems\/merge-intervals"
+  },
+  {
+    "acceptance" : "33.5%",
+    "difficulty" : "Hard",
+    "title" : "Insert Interval",
+    "iD" : "57",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-interval"
+  },
+  {
+    "acceptance" : "47.3%",
+    "difficulty" : "Medium",
+    "title" : "Sort Colors",
+    "iD" : "75",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-colors"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Medium",
+    "title" : "Insertion Sort List",
+    "iD" : "147",
+    "url" : "https:\/\/leetcode.com\/problems\/insertion-sort-list"
+  },
+  {
+    "acceptance" : "42.3%",
+    "difficulty" : "Medium",
+    "title" : "Sort List",
+    "iD" : "148",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-list"
+  },
+  {
+    "acceptance" : "35.4%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Gap",
+    "iD" : "164",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-gap"
+  },
+  {
+    "acceptance" : "28.7%",
+    "difficulty" : "Medium",
+    "title" : "Largest Number",
+    "iD" : "179",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-number"
+  },
+  {
+    "acceptance" : "20.9%",
+    "difficulty" : "Medium",
+    "title" : "Contains Duplicate III",
+    "iD" : "220",
+    "url" : "https:\/\/leetcode.com\/problems\/contains-duplicate-iii"
+  },
+  {
+    "acceptance" : "56.8%",
+    "difficulty" : "Easy",
+    "title" : "Valid Anagram",
+    "iD" : "242",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-anagram"
+  },
+  {
+    "acceptance" : "35.9%",
+    "difficulty" : "Medium",
+    "title" : "H-Index",
+    "iD" : "274",
+    "url" : "https:\/\/leetcode.com\/problems\/h-index"
+  },
+  {
+    "acceptance" : "41.5%",
+    "difficulty" : "Hard",
+    "title" : "Count of Smaller Numbers After Self",
+    "iD" : "315",
+    "url" : "https:\/\/leetcode.com\/problems\/count-of-smaller-numbers-after-self"
+  },
+  {
+    "acceptance" : "29.9%",
+    "difficulty" : "Medium",
+    "title" : "Wiggle Sort II",
+    "iD" : "324",
+    "url" : "https:\/\/leetcode.com\/problems\/wiggle-sort-ii"
+  },
+  {
+    "acceptance" : "35.1%",
+    "difficulty" : "Hard",
+    "title" : "Count of Range Sum",
+    "iD" : "327",
+    "url" : "https:\/\/leetcode.com\/problems\/count-of-range-sum"
+  },
+  {
+    "acceptance" : "62.4%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays",
+    "iD" : "349",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays II",
+    "iD" : "350",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays-ii"
+  },
+  {
+    "acceptance" : "25.2%",
+    "difficulty" : "Hard",
+    "title" : "Reverse Pairs",
+    "iD" : "493",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-pairs"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Word in Dictionary through Deleting",
+    "iD" : "524",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-word-in-dictionary-through-deleting"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Medium",
+    "title" : "Reorganize String",
+    "iD" : "767",
+    "url" : "https:\/\/leetcode.com\/problems\/reorganize-string"
+  },
+  {
+    "acceptance" : "42.4%",
+    "difficulty" : "Medium",
+    "title" : "Car Fleet",
+    "iD" : "853",
+    "url" : "https:\/\/leetcode.com\/problems\/car-fleet"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "Random Pick with Blacklist",
+    "iD" : "710",
+    "url" : "https:\/\/leetcode.com\/problems\/random-pick-with-blacklist"
+  },
+  {
+    "acceptance" : "69.2%",
+    "difficulty" : "Easy",
+    "title" : "Sort Array By Parity II",
+    "iD" : "922",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-array-by-parity-ii"
+  },
+  {
+    "acceptance" : "67.5%",
+    "difficulty" : "Medium",
+    "title" : "Pancake Sorting",
+    "iD" : "969",
+    "url" : "https:\/\/leetcode.com\/problems\/pancake-sorting"
+  },
+  {
+    "acceptance" : "63.8%",
+    "difficulty" : "Medium",
+    "title" : "K Closest Points to Origin",
+    "iD" : "973",
+    "url" : "https:\/\/leetcode.com\/problems\/k-closest-points-to-origin"
+  },
+  {
+    "acceptance" : "57.6%",
+    "difficulty" : "Easy",
+    "title" : "Largest Perimeter Triangle",
+    "iD" : "976",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-perimeter-triangle"
+  },
+  {
+    "acceptance" : "65.7%",
+    "difficulty" : "Easy",
+    "title" : "Matrix Cells in Distance Order",
+    "iD" : "1030",
+    "url" : "https:\/\/leetcode.com\/problems\/matrix-cells-in-distance-order"
+  },
+  {
+    "acceptance" : "43.2%",
+    "difficulty" : "Medium",
+    "title" : "Distant Barcodes",
+    "iD" : "1054",
+    "url" : "https:\/\/leetcode.com\/problems\/distant-barcodes"
+  },
+  {
+    "acceptance" : "67.7%",
+    "difficulty" : "Easy",
+    "title" : "Relative Sort Array",
+    "iD" : "1122",
+    "url" : "https:\/\/leetcode.com\/problems\/relative-sort-array"
+  },
+  {
+    "acceptance" : "78.4%",
+    "difficulty" : "Medium",
+    "title" : "Sort the Matrix Diagonally",
+    "iD" : "1329",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-the-matrix-diagonally"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Profit in Job Scheduling",
+    "iD" : "1235",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-profit-in-job-scheduling"
+  },
+  {
+    "acceptance" : "76.1%",
+    "difficulty" : "Medium",
+    "title" : "All Elements in Two Binary Search Trees",
+    "iD" : "1305",
+    "url" : "https:\/\/leetcode.com\/problems\/all-elements-in-two-binary-search-trees"
+  },
+  {
+    "acceptance" : "54.6%",
+    "difficulty" : "Medium",
+    "title" : "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "iD" : "1333",
+    "url" : "https:\/\/leetcode.com\/problems\/filter-restaurants-by-vegan-friendly-price-and-distance"
+  },
+  {
+    "acceptance" : "68.6%",
+    "difficulty" : "Easy",
+    "title" : "Sort Integers by The Number of 1 Bits",
+    "iD" : "1356",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-integers-by-the-number-of-1-bits"
+  },
+  {
+    "acceptance" : "75.6%",
+    "difficulty" : "Easy",
+    "title" : "Increasing Decreasing String",
+    "iD" : "1370",
+    "url" : "https:\/\/leetcode.com\/problems\/increasing-decreasing-string"
+  },
+  {
+    "acceptance" : "30.5%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Number of Events That Can Be Attended",
+    "iD" : "1353",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-events-that-can-be-attended"
+  },
+  {
+    "acceptance" : "52.0%",
+    "difficulty" : "Medium",
+    "title" : "Rank Teams by Votes",
+    "iD" : "1366",
+    "url" : "https:\/\/leetcode.com\/problems\/rank-teams-by-votes"
+  },
+  {
+    "acceptance" : "70.2%",
+    "difficulty" : "Medium",
+    "title" : "Sort Integers by The Power Value",
+    "iD" : "1387",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-integers-by-the-power-value"
+  },
+  {
+    "acceptance" : "31.8%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Performance of a Team",
+    "iD" : "1383",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-performance-of-a-team"
+  },
+  {
+    "acceptance" : "70.8%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Subsequence in Non-Increasing Order",
+    "iD" : "1403",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-subsequence-in-non-increasing-order"
+  },
+  {
+    "acceptance" : "42.3%",
+    "difficulty" : "Medium",
+    "title" : "Diagonal Traverse II",
+    "iD" : "1424",
+    "url" : "https:\/\/leetcode.com\/problems\/diagonal-traverse-ii"
+  },
+  {
+    "acceptance" : "54.8%",
+    "difficulty" : "Medium",
+    "title" : "Rearrange Words in a Sentence",
+    "iD" : "1451",
+    "url" : "https:\/\/leetcode.com\/problems\/rearrange-words-in-a-sentence"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Medium",
+    "title" : "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "iD" : "1452",
+    "url" : "https:\/\/leetcode.com\/problems\/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list"
+  },
+  {
+    "acceptance" : "57.0%",
+    "difficulty" : "Medium",
+    "title" : "The k Strongest Values in an Array",
+    "iD" : "1471",
+    "url" : "https:\/\/leetcode.com\/problems\/the-k-strongest-values-in-an-array"
+  },
+  {
+    "acceptance" : "70.3%",
+    "difficulty" : "Easy",
+    "title" : "Average Salary Excluding the Minimum and Maximum Salary",
+    "iD" : "1491",
+    "url" : "https:\/\/leetcode.com\/problems\/average-salary-excluding-the-minimum-and-maximum-salary"
+  },
+  {
+    "acceptance" : "53.7%",
+    "difficulty" : "Medium",
+    "title" : "Least Number of Unique Integers after K Removals",
+    "iD" : "1481",
+    "url" : "https:\/\/leetcode.com\/problems\/least-number-of-unique-integers-after-k-removals"
+  },
+  {
+    "acceptance" : "68.8%",
+    "difficulty" : "Medium",
+    "title" : "Range Sum of Sorted Subarray Sums",
+    "iD" : "1508",
+    "url" : "https:\/\/leetcode.com\/problems\/range-sum-of-sorted-subarray-sums"
+  },
+  {
+    "acceptance" : "51.0%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "iD" : "1509",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-difference-between-largest-and-smallest-value-in-three-moves"
+  },
+  {
+    "acceptance" : "36.7%",
+    "difficulty" : "Medium",
+    "title" : "Number of Subsequences That Satisfy the Given Sum Condition",
+    "iD" : "1498",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-subsequences-that-satisfy-the-given-sum-condition"
+  },
+  {
+    "acceptance" : "73.5%",
+    "difficulty" : "Easy",
+    "title" : "Can Make Arithmetic Progression From Sequence",
+    "iD" : "1502",
+    "url" : "https:\/\/leetcode.com\/problems\/can-make-arithmetic-progression-from-sequence"
+  },
+  {
+    "acceptance" : "86.1%",
+    "difficulty" : "Easy",
+    "title" : "Shuffle String",
+    "iD" : "1528",
+    "url" : "https:\/\/leetcode.com\/problems\/shuffle-string"
+  }
+]
+

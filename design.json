@@ -1,0 +1,213 @@
+[
+  {
+    "acceptance" : "33.1%",
+    "difficulty" : "Medium",
+    "title" : "LRU Cache",
+    "iD" : "146",
+    "url" : "https:\/\/leetcode.com\/problems\/lru-cache"
+  },
+  {
+    "acceptance" : "44.4%",
+    "difficulty" : "Easy",
+    "title" : "Min Stack",
+    "iD" : "155",
+    "url" : "https:\/\/leetcode.com\/problems\/min-stack"
+  },
+  {
+    "acceptance" : "56.5%",
+    "difficulty" : "Medium",
+    "title" : "Binary Search Tree Iterator",
+    "iD" : "173",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-search-tree-iterator"
+  },
+  {
+    "acceptance" : "49.3%",
+    "difficulty" : "Medium",
+    "title" : "Implement Trie (Prefix Tree)",
+    "iD" : "208",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-trie-prefix-tree"
+  },
+  {
+    "acceptance" : "38.0%",
+    "difficulty" : "Medium",
+    "title" : "Add and Search Word - Data structure design",
+    "iD" : "211",
+    "url" : "https:\/\/leetcode.com\/problems\/add-and-search-word-data-structure-design"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Easy",
+    "title" : "Implement Stack using Queues",
+    "iD" : "225",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-stack-using-queues"
+  },
+  {
+    "acceptance" : "49.5%",
+    "difficulty" : "Easy",
+    "title" : "Implement Queue using Stacks",
+    "iD" : "232",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-queue-using-stacks"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Peeking Iterator",
+    "iD" : "284",
+    "url" : "https:\/\/leetcode.com\/problems\/peeking-iterator"
+  },
+  {
+    "acceptance" : "44.3%",
+    "difficulty" : "Hard",
+    "title" : "Find Median from Data Stream",
+    "iD" : "295",
+    "url" : "https:\/\/leetcode.com\/problems\/find-median-from-data-stream"
+  },
+  {
+    "acceptance" : "47.4%",
+    "difficulty" : "Hard",
+    "title" : "Serialize and Deserialize Binary Tree",
+    "iD" : "297",
+    "url" : "https:\/\/leetcode.com\/problems\/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "acceptance" : "52.9%",
+    "difficulty" : "Medium",
+    "title" : "Flatten Nested List Iterator",
+    "iD" : "341",
+    "url" : "https:\/\/leetcode.com\/problems\/flatten-nested-list-iterator"
+  },
+  {
+    "acceptance" : "30.3%",
+    "difficulty" : "Medium",
+    "title" : "Design Twitter",
+    "iD" : "355",
+    "url" : "https:\/\/leetcode.com\/problems\/design-twitter"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Insert Delete GetRandom O(1)",
+    "iD" : "380",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-delete-getrandom-o1"
+  },
+  {
+    "acceptance" : "34.1%",
+    "difficulty" : "Hard",
+    "title" : "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "iD" : "381",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-delete-getrandom-o1-duplicates-allowed"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "All O`one Data Structure",
+    "iD" : "432",
+    "url" : "https:\/\/leetcode.com\/problems\/all-oone-data-structure"
+  },
+  {
+    "acceptance" : "34.2%",
+    "difficulty" : "Hard",
+    "title" : "LFU Cache",
+    "iD" : "460",
+    "url" : "https:\/\/leetcode.com\/problems\/lfu-cache"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Easy",
+    "title" : "Design HashSet",
+    "iD" : "705",
+    "url" : "https:\/\/leetcode.com\/problems\/design-hashset"
+  },
+  {
+    "acceptance" : "61.3%",
+    "difficulty" : "Easy",
+    "title" : "Design HashMap",
+    "iD" : "706",
+    "url" : "https:\/\/leetcode.com\/problems\/design-hashmap"
+  },
+  {
+    "acceptance" : "24.5%",
+    "difficulty" : "Medium",
+    "title" : "Design Linked List",
+    "iD" : "707",
+    "url" : "https:\/\/leetcode.com\/problems\/design-linked-list"
+  },
+  {
+    "acceptance" : "52.7%",
+    "difficulty" : "Medium",
+    "title" : "Design Circular Deque",
+    "iD" : "641",
+    "url" : "https:\/\/leetcode.com\/problems\/design-circular-deque"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Medium",
+    "title" : "Design Circular Queue",
+    "iD" : "622",
+    "url" : "https:\/\/leetcode.com\/problems\/design-circular-queue"
+  },
+  {
+    "acceptance" : "68.1%",
+    "difficulty" : "Medium",
+    "title" : "Iterator for Combination",
+    "iD" : "1286",
+    "url" : "https:\/\/leetcode.com\/problems\/iterator-for-combination"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Hard",
+    "title" : "Dinner Plate Stacks",
+    "iD" : "1172",
+    "url" : "https:\/\/leetcode.com\/problems\/dinner-plate-stacks"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Hard",
+    "title" : "Design Skiplist",
+    "iD" : "1206",
+    "url" : "https:\/\/leetcode.com\/problems\/design-skiplist"
+  },
+  {
+    "acceptance" : "66.0%",
+    "difficulty" : "Medium",
+    "title" : "Apply Discount Every n Orders",
+    "iD" : "1357",
+    "url" : "https:\/\/leetcode.com\/problems\/apply-discount-every-n-orders"
+  },
+  {
+    "acceptance" : "29.0%",
+    "difficulty" : "Medium",
+    "title" : "Tweet Counts Per Frequency",
+    "iD" : "1348",
+    "url" : "https:\/\/leetcode.com\/problems\/tweet-counts-per-frequency"
+  },
+  {
+    "acceptance" : "43.6%",
+    "difficulty" : "Medium",
+    "title" : "Product of the Last K Numbers",
+    "iD" : "1352",
+    "url" : "https:\/\/leetcode.com\/problems\/product-of-the-last-k-numbers"
+  },
+  {
+    "acceptance" : "74.7%",
+    "difficulty" : "Medium",
+    "title" : "Design a Stack With Increment Operation",
+    "iD" : "1381",
+    "url" : "https:\/\/leetcode.com\/problems\/design-a-stack-with-increment-operation"
+  },
+  {
+    "acceptance" : "64.6%",
+    "difficulty" : "Medium",
+    "title" : "Design Underground System",
+    "iD" : "1396",
+    "url" : "https:\/\/leetcode.com\/problems\/design-underground-system"
+  },
+  {
+    "acceptance" : "64.4%",
+    "difficulty" : "Medium",
+    "title" : "Design Browser History",
+    "iD" : "1472",
+    "url" : "https:\/\/leetcode.com\/problems\/design-browser-history"
+  }
+]
+

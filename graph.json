@@ -1,0 +1,248 @@
+[
+  {
+    "acceptance" : "34.7%",
+    "difficulty" : "Medium",
+    "title" : "Clone Graph",
+    "iD" : "133",
+    "url" : "https:\/\/leetcode.com\/problems\/clone-graph"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule",
+    "iD" : "207",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule"
+  },
+  {
+    "acceptance" : "40.7%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule II",
+    "iD" : "210",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule-ii"
+  },
+  {
+    "acceptance" : "32.3%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Height Trees",
+    "iD" : "310",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-height-trees"
+  },
+  {
+    "acceptance" : "36.7%",
+    "difficulty" : "Medium",
+    "title" : "Reconstruct Itinerary",
+    "iD" : "332",
+    "url" : "https:\/\/leetcode.com\/problems\/reconstruct-itinerary"
+  },
+  {
+    "acceptance" : "51.6%",
+    "difficulty" : "Medium",
+    "title" : "Evaluate Division",
+    "iD" : "399",
+    "url" : "https:\/\/leetcode.com\/problems\/evaluate-division"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Medium",
+    "title" : "Redundant Connection",
+    "iD" : "684",
+    "url" : "https:\/\/leetcode.com\/problems\/redundant-connection"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "Redundant Connection II",
+    "iD" : "685",
+    "url" : "https:\/\/leetcode.com\/problems\/redundant-connection-ii"
+  },
+  {
+    "acceptance" : "44.9%",
+    "difficulty" : "Medium",
+    "title" : "Network Delay Time",
+    "iD" : "743",
+    "url" : "https:\/\/leetcode.com\/problems\/network-delay-time"
+  },
+  {
+    "acceptance" : "54.3%",
+    "difficulty" : "Hard",
+    "title" : "Couples Holding Hands",
+    "iD" : "765",
+    "url" : "https:\/\/leetcode.com\/problems\/couples-holding-hands"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Is Graph Bipartite?",
+    "iD" : "785",
+    "url" : "https:\/\/leetcode.com\/problems\/is-graph-bipartite"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Medium",
+    "title" : "Find Eventual Safe States",
+    "iD" : "802",
+    "url" : "https:\/\/leetcode.com\/problems\/find-eventual-safe-states"
+  },
+  {
+    "acceptance" : "38.6%",
+    "difficulty" : "Hard",
+    "title" : "Similar String Groups",
+    "iD" : "839",
+    "url" : "https:\/\/leetcode.com\/problems\/similar-string-groups"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Medium",
+    "title" : "Keys and Rooms",
+    "iD" : "841",
+    "url" : "https:\/\/leetcode.com\/problems\/keys-and-rooms"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Hard",
+    "title" : "K-Similar Strings",
+    "iD" : "854",
+    "url" : "https:\/\/leetcode.com\/problems\/k-similar-strings"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Medium",
+    "title" : "Possible Bipartition",
+    "iD" : "886",
+    "url" : "https:\/\/leetcode.com\/problems\/possible-bipartition"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimize Malware Spread II",
+    "iD" : "928",
+    "url" : "https:\/\/leetcode.com\/problems\/minimize-malware-spread-ii"
+  },
+  {
+    "acceptance" : "66.2%",
+    "difficulty" : "Medium",
+    "title" : "Regions Cut By Slashes",
+    "iD" : "959",
+    "url" : "https:\/\/leetcode.com\/problems\/regions-cut-by-slashes"
+  },
+  {
+    "acceptance" : "44.9%",
+    "difficulty" : "Medium",
+    "title" : "Satisfiability of Equality Equations",
+    "iD" : "990",
+    "url" : "https:\/\/leetcode.com\/problems\/satisfiability-of-equality-equations"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Hard",
+    "title" : "Number of Squareful Arrays",
+    "iD" : "996",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-squareful-arrays"
+  },
+  {
+    "acceptance" : "50.1%",
+    "difficulty" : "Easy",
+    "title" : "Find the Town Judge",
+    "iD" : "997",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-town-judge"
+  },
+  {
+    "acceptance" : "72.2%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Level Sum of a Binary Tree",
+    "iD" : "1161",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-level-sum-of-a-binary-tree"
+  },
+  {
+    "acceptance" : "43.4%",
+    "difficulty" : "Medium",
+    "title" : "As Far from Land as Possible",
+    "iD" : "1162",
+    "url" : "https:\/\/leetcode.com\/problems\/as-far-from-land-as-possible"
+  },
+  {
+    "acceptance" : "48.5%",
+    "difficulty" : "Easy",
+    "title" : "Flower Planting With No Adjacent",
+    "iD" : "1042",
+    "url" : "https:\/\/leetcode.com\/problems\/flower-planting-with-no-adjacent"
+  },
+  {
+    "acceptance" : "65.2%",
+    "difficulty" : "Medium",
+    "title" : "Partition Array for Maximum Sum",
+    "iD" : "1043",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-array-for-maximum-sum"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Medium",
+    "title" : "Shortest Path with Alternating Colors",
+    "iD" : "1129",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-with-alternating-colors"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Validate Binary Tree Nodes",
+    "iD" : "1361",
+    "url" : "https:\/\/leetcode.com\/problems\/validate-binary-tree-nodes"
+  },
+  {
+    "acceptance" : "47.6%",
+    "difficulty" : "Hard",
+    "title" : "Sort Items by Groups Respecting Dependencies",
+    "iD" : "1203",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-items-by-groups-respecting-dependencies"
+  },
+  {
+    "acceptance" : "36.5%",
+    "difficulty" : "Medium",
+    "title" : "Path with Maximum Probability",
+    "iD" : "1514",
+    "url" : "https:\/\/leetcode.com\/problems\/path-with-maximum-probability"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Medium",
+    "title" : "Count Servers that Communicate",
+    "iD" : "1267",
+    "url" : "https:\/\/leetcode.com\/problems\/count-servers-that-communicate"
+  },
+  {
+    "acceptance" : "60.5%",
+    "difficulty" : "Medium",
+    "title" : "Jump Game III",
+    "iD" : "1306",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game-iii"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Medium",
+    "title" : "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "iD" : "1334",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance"
+  },
+  {
+    "acceptance" : "70.2%",
+    "difficulty" : "Medium",
+    "title" : "Sort Integers by The Power Value",
+    "iD" : "1387",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-integers-by-the-power-value"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule IV",
+    "iD" : "1462",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule-iv"
+  },
+  {
+    "acceptance" : "32.2%",
+    "difficulty" : "Hard",
+    "title" : "Parallel Courses II",
+    "iD" : "1494",
+    "url" : "https:\/\/leetcode.com\/problems\/parallel-courses-ii"
+  }
+]
+

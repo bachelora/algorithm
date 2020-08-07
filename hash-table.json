@@ -1,0 +1,710 @@
+[
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Easy",
+    "title" : "Two Sum",
+    "iD" : "1",
+    "url" : "https:\/\/leetcode.com\/problems\/two-sum"
+  },
+  {
+    "acceptance" : "30.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Substring Without Repeating Characters",
+    "iD" : "3",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-substring-without-repeating-characters"
+  },
+  {
+    "acceptance" : "33.6%",
+    "difficulty" : "Medium",
+    "title" : "4Sum",
+    "iD" : "18",
+    "url" : "https:\/\/leetcode.com\/problems\/4sum"
+  },
+  {
+    "acceptance" : "25.4%",
+    "difficulty" : "Hard",
+    "title" : "Substring with Concatenation of All Words",
+    "iD" : "30",
+    "url" : "https:\/\/leetcode.com\/problems\/substring-with-concatenation-of-all-words"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Valid Sudoku",
+    "iD" : "36",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-sudoku"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Hard",
+    "title" : "Sudoku Solver",
+    "iD" : "37",
+    "url" : "https:\/\/leetcode.com\/problems\/sudoku-solver"
+  },
+  {
+    "acceptance" : "56.8%",
+    "difficulty" : "Medium",
+    "title" : "Group Anagrams",
+    "iD" : "49",
+    "url" : "https:\/\/leetcode.com\/problems\/group-anagrams"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Window Substring",
+    "iD" : "76",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-window-substring"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Hard",
+    "title" : "Maximal Rectangle",
+    "iD" : "85",
+    "url" : "https:\/\/leetcode.com\/problems\/maximal-rectangle"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Inorder Traversal",
+    "iD" : "94",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-inorder-traversal"
+  },
+  {
+    "acceptance" : "65.5%",
+    "difficulty" : "Easy",
+    "title" : "Single Number",
+    "iD" : "136",
+    "url" : "https:\/\/leetcode.com\/problems\/single-number"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Copy List with Random Pointer",
+    "iD" : "138",
+    "url" : "https:\/\/leetcode.com\/problems\/copy-list-with-random-pointer"
+  },
+  {
+    "acceptance" : "16.9%",
+    "difficulty" : "Hard",
+    "title" : "Max Points on a Line",
+    "iD" : "149",
+    "url" : "https:\/\/leetcode.com\/problems\/max-points-on-a-line"
+  },
+  {
+    "acceptance" : "21.6%",
+    "difficulty" : "Medium",
+    "title" : "Fraction to Recurring Decimal",
+    "iD" : "166",
+    "url" : "https:\/\/leetcode.com\/problems\/fraction-to-recurring-decimal"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Medium",
+    "title" : "Repeated DNA Sequences",
+    "iD" : "187",
+    "url" : "https:\/\/leetcode.com\/problems\/repeated-dna-sequences"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Easy",
+    "title" : "Happy Number",
+    "iD" : "202",
+    "url" : "https:\/\/leetcode.com\/problems\/happy-number"
+  },
+  {
+    "acceptance" : "31.4%",
+    "difficulty" : "Easy",
+    "title" : "Count Primes",
+    "iD" : "204",
+    "url" : "https:\/\/leetcode.com\/problems\/count-primes"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Easy",
+    "title" : "Isomorphic Strings",
+    "iD" : "205",
+    "url" : "https:\/\/leetcode.com\/problems\/isomorphic-strings"
+  },
+  {
+    "acceptance" : "56.0%",
+    "difficulty" : "Easy",
+    "title" : "Contains Duplicate",
+    "iD" : "217",
+    "url" : "https:\/\/leetcode.com\/problems\/contains-duplicate"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Easy",
+    "title" : "Contains Duplicate II",
+    "iD" : "219",
+    "url" : "https:\/\/leetcode.com\/problems\/contains-duplicate-ii"
+  },
+  {
+    "acceptance" : "56.8%",
+    "difficulty" : "Easy",
+    "title" : "Valid Anagram",
+    "iD" : "242",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-anagram"
+  },
+  {
+    "acceptance" : "35.9%",
+    "difficulty" : "Medium",
+    "title" : "H-Index",
+    "iD" : "274",
+    "url" : "https:\/\/leetcode.com\/problems\/h-index"
+  },
+  {
+    "acceptance" : "37.0%",
+    "difficulty" : "Easy",
+    "title" : "Word Pattern",
+    "iD" : "290",
+    "url" : "https:\/\/leetcode.com\/problems\/word-pattern"
+  },
+  {
+    "acceptance" : "42.4%",
+    "difficulty" : "Easy",
+    "title" : "Bulls and Cows",
+    "iD" : "299",
+    "url" : "https:\/\/leetcode.com\/problems\/bulls-and-cows"
+  },
+  {
+    "acceptance" : "33.7%",
+    "difficulty" : "Hard",
+    "title" : "Palindrome Pairs",
+    "iD" : "336",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-pairs"
+  },
+  {
+    "acceptance" : "61.2%",
+    "difficulty" : "Medium",
+    "title" : "Top K Frequent Elements",
+    "iD" : "347",
+    "url" : "https:\/\/leetcode.com\/problems\/top-k-frequent-elements"
+  },
+  {
+    "acceptance" : "62.4%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays",
+    "iD" : "349",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays II",
+    "iD" : "350",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays-ii"
+  },
+  {
+    "acceptance" : "30.3%",
+    "difficulty" : "Medium",
+    "title" : "Design Twitter",
+    "iD" : "355",
+    "url" : "https:\/\/leetcode.com\/problems\/design-twitter"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Insert Delete GetRandom O(1)",
+    "iD" : "380",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-delete-getrandom-o1"
+  },
+  {
+    "acceptance" : "34.1%",
+    "difficulty" : "Hard",
+    "title" : "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "iD" : "381",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-delete-getrandom-o1-duplicates-allowed"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Easy",
+    "title" : "First Unique Character in a String",
+    "iD" : "387",
+    "url" : "https:\/\/leetcode.com\/problems\/first-unique-character-in-a-string"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Easy",
+    "title" : "Find the Difference",
+    "iD" : "389",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-difference"
+  },
+  {
+    "acceptance" : "50.3%",
+    "difficulty" : "Easy",
+    "title" : "Longest Palindrome",
+    "iD" : "409",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-palindrome"
+  },
+  {
+    "acceptance" : "43.3%",
+    "difficulty" : "Medium",
+    "title" : "Find All Anagrams in a String",
+    "iD" : "438",
+    "url" : "https:\/\/leetcode.com\/problems\/find-all-anagrams-in-a-string"
+  },
+  {
+    "acceptance" : "51.8%",
+    "difficulty" : "Easy",
+    "title" : "Number of Boomerangs",
+    "iD" : "447",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-boomerangs"
+  },
+  {
+    "acceptance" : "63.0%",
+    "difficulty" : "Medium",
+    "title" : "Sort Characters By Frequency",
+    "iD" : "451",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-characters-by-frequency"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "4Sum II",
+    "iD" : "454",
+    "url" : "https:\/\/leetcode.com\/problems\/4sum-ii"
+  },
+  {
+    "acceptance" : "65.6%",
+    "difficulty" : "Easy",
+    "title" : "Island Perimeter",
+    "iD" : "463",
+    "url" : "https:\/\/leetcode.com\/problems\/island-perimeter"
+  },
+  {
+    "acceptance" : "64.7%",
+    "difficulty" : "Easy",
+    "title" : "Keyboard Row",
+    "iD" : "500",
+    "url" : "https:\/\/leetcode.com\/problems\/keyboard-row"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Medium",
+    "title" : "Most Frequent Subtree Sum",
+    "iD" : "508",
+    "url" : "https:\/\/leetcode.com\/problems\/most-frequent-subtree-sum"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Medium",
+    "title" : "Contiguous Array",
+    "iD" : "525",
+    "url" : "https:\/\/leetcode.com\/problems\/contiguous-array"
+  },
+  {
+    "acceptance" : "79.8%",
+    "difficulty" : "Medium",
+    "title" : "Encode and Decode TinyURL",
+    "iD" : "535",
+    "url" : "https:\/\/leetcode.com\/problems\/encode-and-decode-tinyurl"
+  },
+  {
+    "acceptance" : "50.0%",
+    "difficulty" : "Medium",
+    "title" : "Brick Wall",
+    "iD" : "554",
+    "url" : "https:\/\/leetcode.com\/problems\/brick-wall"
+  },
+  {
+    "acceptance" : "43.8%",
+    "difficulty" : "Medium",
+    "title" : "Subarray Sum Equals K",
+    "iD" : "560",
+    "url" : "https:\/\/leetcode.com\/problems\/subarray-sum-equals-k"
+  },
+  {
+    "acceptance" : "61.4%",
+    "difficulty" : "Easy",
+    "title" : "Distribute Candies",
+    "iD" : "575",
+    "url" : "https:\/\/leetcode.com\/problems\/distribute-candies"
+  },
+  {
+    "acceptance" : "46.6%",
+    "difficulty" : "Easy",
+    "title" : "Longest Harmonious Subsequence",
+    "iD" : "594",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-harmonious-subsequence"
+  },
+  {
+    "acceptance" : "50.7%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Index Sum of Two Lists",
+    "iD" : "599",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-index-sum-of-two-lists"
+  },
+  {
+    "acceptance" : "59.5%",
+    "difficulty" : "Medium",
+    "title" : "Find Duplicate File in System",
+    "iD" : "609",
+    "url" : "https:\/\/leetcode.com\/problems\/find-duplicate-file-in-system"
+  },
+  {
+    "acceptance" : "52.4%",
+    "difficulty" : "Hard",
+    "title" : "Smallest Range Covering Elements from K Lists",
+    "iD" : "632",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "acceptance" : "42.1%",
+    "difficulty" : "Easy",
+    "title" : "Set Mismatch",
+    "iD" : "645",
+    "url" : "https:\/\/leetcode.com\/problems\/set-mismatch"
+  },
+  {
+    "acceptance" : "56.5%",
+    "difficulty" : "Medium",
+    "title" : "Replace Words",
+    "iD" : "648",
+    "url" : "https:\/\/leetcode.com\/problems\/replace-words"
+  },
+  {
+    "acceptance" : "54.5%",
+    "difficulty" : "Medium",
+    "title" : "Implement Magic Dictionary",
+    "iD" : "676",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-magic-dictionary"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Easy",
+    "title" : "Employee Importance",
+    "iD" : "690",
+    "url" : "https:\/\/leetcode.com\/problems\/employee-importance"
+  },
+  {
+    "acceptance" : "51.8%",
+    "difficulty" : "Medium",
+    "title" : "Top K Frequent Words",
+    "iD" : "692",
+    "url" : "https:\/\/leetcode.com\/problems\/top-k-frequent-words"
+  },
+  {
+    "acceptance" : "49.3%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Length of Repeated Subarray",
+    "iD" : "718",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-length-of-repeated-subarray"
+  },
+  {
+    "acceptance" : "48.2%",
+    "difficulty" : "Easy",
+    "title" : "Longest Word in Dictionary",
+    "iD" : "720",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-word-in-dictionary"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Hard",
+    "title" : "Number of Atoms",
+    "iD" : "726",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-atoms"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Medium",
+    "title" : "Daily Temperatures",
+    "iD" : "739",
+    "url" : "https:\/\/leetcode.com\/problems\/daily-temperatures"
+  },
+  {
+    "acceptance" : "56.7%",
+    "difficulty" : "Easy",
+    "title" : "Shortest Completing Word",
+    "iD" : "748",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-completing-word"
+  },
+  {
+    "acceptance" : "47.9%",
+    "difficulty" : "Hard",
+    "title" : "Basic Calculator IV",
+    "iD" : "770",
+    "url" : "https:\/\/leetcode.com\/problems\/basic-calculator-iv"
+  },
+  {
+    "acceptance" : "86.3%",
+    "difficulty" : "Easy",
+    "title" : "Jewels and Stones",
+    "iD" : "771",
+    "url" : "https:\/\/leetcode.com\/problems\/jewels-and-stones"
+  },
+  {
+    "acceptance" : "54.5%",
+    "difficulty" : "Medium",
+    "title" : "Rabbits in Forest",
+    "iD" : "781",
+    "url" : "https:\/\/leetcode.com\/problems\/rabbits-in-forest"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Easy",
+    "title" : "Design HashSet",
+    "iD" : "705",
+    "url" : "https:\/\/leetcode.com\/problems\/design-hashset"
+  },
+  {
+    "acceptance" : "61.3%",
+    "difficulty" : "Easy",
+    "title" : "Design HashMap",
+    "iD" : "706",
+    "url" : "https:\/\/leetcode.com\/problems\/design-hashmap"
+  },
+  {
+    "acceptance" : "69.8%",
+    "difficulty" : "Easy",
+    "title" : "Subdomain Visit Count",
+    "iD" : "811",
+    "url" : "https:\/\/leetcode.com\/problems\/subdomain-visit-count"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "Random Pick with Blacklist",
+    "iD" : "710",
+    "url" : "https:\/\/leetcode.com\/problems\/random-pick-with-blacklist"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Easy",
+    "title" : "Uncommon Words from Two Sentences",
+    "iD" : "884",
+    "url" : "https:\/\/leetcode.com\/problems\/uncommon-words-from-two-sentences"
+  },
+  {
+    "acceptance" : "60.6%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Frequency Stack",
+    "iD" : "895",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-frequency-stack"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Medium",
+    "title" : "Binary Subarrays With Sum",
+    "iD" : "930",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-subarrays-with-sum"
+  },
+  {
+    "acceptance" : "51.8%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Area Rectangle",
+    "iD" : "939",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-area-rectangle"
+  },
+  {
+    "acceptance" : "54.1%",
+    "difficulty" : "Easy",
+    "title" : "Verifying an Alien Dictionary",
+    "iD" : "953",
+    "url" : "https:\/\/leetcode.com\/problems\/verifying-an-alien-dictionary"
+  },
+  {
+    "acceptance" : "35.5%",
+    "difficulty" : "Medium",
+    "title" : "Array of Doubled Pairs",
+    "iD" : "954",
+    "url" : "https:\/\/leetcode.com\/problems\/array-of-doubled-pairs"
+  },
+  {
+    "acceptance" : "40.8%",
+    "difficulty" : "Medium",
+    "title" : "Prison Cells After N Days",
+    "iD" : "957",
+    "url" : "https:\/\/leetcode.com\/problems\/prison-cells-after-n-days"
+  },
+  {
+    "acceptance" : "73.7%",
+    "difficulty" : "Easy",
+    "title" : "N-Repeated Element in Size 2N Array",
+    "iD" : "961",
+    "url" : "https:\/\/leetcode.com\/problems\/n-repeated-element-in-size-2n-array"
+  },
+  {
+    "acceptance" : "47.2%",
+    "difficulty" : "Medium",
+    "title" : "Vowel Spellchecker",
+    "iD" : "966",
+    "url" : "https:\/\/leetcode.com\/problems\/vowel-spellchecker"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Easy",
+    "title" : "Powerful Integers",
+    "iD" : "970",
+    "url" : "https:\/\/leetcode.com\/problems\/powerful-integers"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Medium",
+    "title" : "Subarray Sums Divisible by K",
+    "iD" : "974",
+    "url" : "https:\/\/leetcode.com\/problems\/subarray-sums-divisible-by-k"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "Time Based Key-Value Store",
+    "iD" : "981",
+    "url" : "https:\/\/leetcode.com\/problems\/time-based-key-value-store"
+  },
+  {
+    "acceptance" : "35.6%",
+    "difficulty" : "Medium",
+    "title" : "Vertical Order Traversal of a Binary Tree",
+    "iD" : "987",
+    "url" : "https:\/\/leetcode.com\/problems\/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Hard",
+    "title" : "Subarrays with K Different Integers",
+    "iD" : "992",
+    "url" : "https:\/\/leetcode.com\/problems\/subarrays-with-k-different-integers"
+  },
+  {
+    "acceptance" : "35.8%",
+    "difficulty" : "Hard",
+    "title" : "Grid Illumination",
+    "iD" : "1001",
+    "url" : "https:\/\/leetcode.com\/problems\/grid-illumination"
+  },
+  {
+    "acceptance" : "67.6%",
+    "difficulty" : "Easy",
+    "title" : "Find Common Characters",
+    "iD" : "1002",
+    "url" : "https:\/\/leetcode.com\/problems\/find-common-characters"
+  },
+  {
+    "acceptance" : "67.5%",
+    "difficulty" : "Easy",
+    "title" : "Find Words That Can Be Formed by Characters",
+    "iD" : "1160",
+    "url" : "https:\/\/leetcode.com\/problems\/find-words-that-can-be-formed-by-characters"
+  },
+  {
+    "acceptance" : "32.0%",
+    "difficulty" : "Hard",
+    "title" : "Longest Duplicate Substring",
+    "iD" : "1044",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-duplicate-substring"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Medium",
+    "title" : "Longest String Chain",
+    "iD" : "1048",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-string-chain"
+  },
+  {
+    "acceptance" : "60.8%",
+    "difficulty" : "Medium",
+    "title" : "Flip Columns For Maximum Number of Equal Rows",
+    "iD" : "1072",
+    "url" : "https:\/\/leetcode.com\/problems\/flip-columns-for-maximum-number-of-equal-rows"
+  },
+  {
+    "acceptance" : "64.7%",
+    "difficulty" : "Easy",
+    "title" : "Occurrences After Bigram",
+    "iD" : "1078",
+    "url" : "https:\/\/leetcode.com\/problems\/occurrences-after-bigram"
+  },
+  {
+    "acceptance" : "58.8%",
+    "difficulty" : "Medium",
+    "title" : "Largest Values From Labels",
+    "iD" : "1090",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-values-from-labels"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Alphabet Board Path",
+    "iD" : "1138",
+    "url" : "https:\/\/leetcode.com\/problems\/alphabet-board-path"
+  },
+  {
+    "acceptance" : "37.9%",
+    "difficulty" : "Hard",
+    "title" : "Number of Valid Words for Each Puzzle",
+    "iD" : "1178",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-valid-words-for-each-puzzle"
+  },
+  {
+    "acceptance" : "61.2%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Number of Balloons",
+    "iD" : "1189",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-balloons"
+  },
+  {
+    "acceptance" : "71.6%",
+    "difficulty" : "Easy",
+    "title" : "Unique Number of Occurrences",
+    "iD" : "1207",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-number-of-occurrences"
+  },
+  {
+    "acceptance" : "33.5%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Equal Frequency",
+    "iD" : "1224",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-equal-frequency"
+  },
+  {
+    "acceptance" : "74.3%",
+    "difficulty" : "Medium",
+    "title" : "Find Elements in a Contaminated Binary Tree",
+    "iD" : "1261",
+    "url" : "https:\/\/leetcode.com\/problems\/find-elements-in-a-contaminated-binary-tree"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Get Watched Videos by Your Friends",
+    "iD" : "1311",
+    "url" : "https:\/\/leetcode.com\/problems\/get-watched-videos-by-your-friends"
+  },
+  {
+    "acceptance" : "85.6%",
+    "difficulty" : "Easy",
+    "title" : "How Many Numbers Are Smaller Than the Current Number",
+    "iD" : "1365",
+    "url" : "https:\/\/leetcode.com\/problems\/how-many-numbers-are-smaller-than-the-current-number"
+  },
+  {
+    "acceptance" : "65.6%",
+    "difficulty" : "Medium",
+    "title" : "Display Table of Food Orders in a Restaurant",
+    "iD" : "1418",
+    "url" : "https:\/\/leetcode.com\/problems\/display-table-of-food-orders-in-a-restaurant"
+  },
+  {
+    "acceptance" : "29.2%",
+    "difficulty" : "Medium",
+    "title" : "Making File Names Unique",
+    "iD" : "1487",
+    "url" : "https:\/\/leetcode.com\/problems\/making-file-names-unique"
+  },
+  {
+    "acceptance" : "25.3%",
+    "difficulty" : "Medium",
+    "title" : "Avoid Flood in The City",
+    "iD" : "1488",
+    "url" : "https:\/\/leetcode.com\/problems\/avoid-flood-in-the-city"
+  },
+  {
+    "acceptance" : "88.7%",
+    "difficulty" : "Easy",
+    "title" : "Number of Good Pairs",
+    "iD" : "1512",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-good-pairs"
+  }
+]
+

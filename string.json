@@ -1,0 +1,1102 @@
+
+[
+  {
+    "acceptance" : "30.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Substring Without Repeating Characters",
+    "iD" : "3",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-substring-without-repeating-characters"
+  },
+  {
+    "acceptance" : "29.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Palindromic Substring",
+    "iD" : "5",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-palindromic-substring"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "ZigZag Conversion",
+    "iD" : "6",
+    "url" : "https:\/\/leetcode.com\/problems\/zigzag-conversion"
+  },
+  {
+    "acceptance" : "15.4%",
+    "difficulty" : "Medium",
+    "title" : "String to Integer (atoi)",
+    "iD" : "8",
+    "url" : "https:\/\/leetcode.com\/problems\/string-to-integer-atoi"
+  },
+  {
+    "acceptance" : "26.8%",
+    "difficulty" : "Hard",
+    "title" : "Regular Expression Matching",
+    "iD" : "10",
+    "url" : "https:\/\/leetcode.com\/problems\/regular-expression-matching"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Medium",
+    "title" : "Integer to Roman",
+    "iD" : "12",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-to-roman"
+  },
+  {
+    "acceptance" : "55.7%",
+    "difficulty" : "Easy",
+    "title" : "Roman to Integer",
+    "iD" : "13",
+    "url" : "https:\/\/leetcode.com\/problems\/roman-to-integer"
+  },
+  {
+    "acceptance" : "35.4%",
+    "difficulty" : "Easy",
+    "title" : "Longest Common Prefix",
+    "iD" : "14",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-common-prefix"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Letter Combinations of a Phone Number",
+    "iD" : "17",
+    "url" : "https:\/\/leetcode.com\/problems\/letter-combinations-of-a-phone-number"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Easy",
+    "title" : "Valid Parentheses",
+    "iD" : "20",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-parentheses"
+  },
+  {
+    "acceptance" : "62.6%",
+    "difficulty" : "Medium",
+    "title" : "Generate Parentheses",
+    "iD" : "22",
+    "url" : "https:\/\/leetcode.com\/problems\/generate-parentheses"
+  },
+  {
+    "acceptance" : "34.5%",
+    "difficulty" : "Easy",
+    "title" : "Implement strStr()",
+    "iD" : "28",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-strstr"
+  },
+  {
+    "acceptance" : "25.4%",
+    "difficulty" : "Hard",
+    "title" : "Substring with Concatenation of All Words",
+    "iD" : "30",
+    "url" : "https:\/\/leetcode.com\/problems\/substring-with-concatenation-of-all-words"
+  },
+  {
+    "acceptance" : "28.3%",
+    "difficulty" : "Hard",
+    "title" : "Longest Valid Parentheses",
+    "iD" : "32",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-valid-parentheses"
+  },
+  {
+    "acceptance" : "44.6%",
+    "difficulty" : "Easy",
+    "title" : "Count and Say",
+    "iD" : "38",
+    "url" : "https:\/\/leetcode.com\/problems\/count-and-say"
+  },
+  {
+    "acceptance" : "33.9%",
+    "difficulty" : "Medium",
+    "title" : "Multiply Strings",
+    "iD" : "43",
+    "url" : "https:\/\/leetcode.com\/problems\/multiply-strings"
+  },
+  {
+    "acceptance" : "24.7%",
+    "difficulty" : "Hard",
+    "title" : "Wildcard Matching",
+    "iD" : "44",
+    "url" : "https:\/\/leetcode.com\/problems\/wildcard-matching"
+  },
+  {
+    "acceptance" : "56.8%",
+    "difficulty" : "Medium",
+    "title" : "Group Anagrams",
+    "iD" : "49",
+    "url" : "https:\/\/leetcode.com\/problems\/group-anagrams"
+  },
+  {
+    "acceptance" : "32.6%",
+    "difficulty" : "Easy",
+    "title" : "Length of Last Word",
+    "iD" : "58",
+    "url" : "https:\/\/leetcode.com\/problems\/length-of-last-word"
+  },
+  {
+    "acceptance" : "15.3%",
+    "difficulty" : "Hard",
+    "title" : "Valid Number",
+    "iD" : "65",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-number"
+  },
+  {
+    "acceptance" : "45.2%",
+    "difficulty" : "Easy",
+    "title" : "Add Binary",
+    "iD" : "67",
+    "url" : "https:\/\/leetcode.com\/problems\/add-binary"
+  },
+  {
+    "acceptance" : "27.7%",
+    "difficulty" : "Hard",
+    "title" : "Text Justification",
+    "iD" : "68",
+    "url" : "https:\/\/leetcode.com\/problems\/text-justification"
+  },
+  {
+    "acceptance" : "32.6%",
+    "difficulty" : "Medium",
+    "title" : "Simplify Path",
+    "iD" : "71",
+    "url" : "https:\/\/leetcode.com\/problems\/simplify-path"
+  },
+  {
+    "acceptance" : "44.8%",
+    "difficulty" : "Hard",
+    "title" : "Edit Distance",
+    "iD" : "72",
+    "url" : "https:\/\/leetcode.com\/problems\/edit-distance"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Window Substring",
+    "iD" : "76",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-window-substring"
+  },
+  {
+    "acceptance" : "33.7%",
+    "difficulty" : "Hard",
+    "title" : "Scramble String",
+    "iD" : "87",
+    "url" : "https:\/\/leetcode.com\/problems\/scramble-string"
+  },
+  {
+    "acceptance" : "24.6%",
+    "difficulty" : "Medium",
+    "title" : "Decode Ways",
+    "iD" : "91",
+    "url" : "https:\/\/leetcode.com\/problems\/decode-ways"
+  },
+  {
+    "acceptance" : "35.5%",
+    "difficulty" : "Medium",
+    "title" : "Restore IP Addresses",
+    "iD" : "93",
+    "url" : "https:\/\/leetcode.com\/problems\/restore-ip-addresses"
+  },
+  {
+    "acceptance" : "31.5%",
+    "difficulty" : "Hard",
+    "title" : "Interleaving String",
+    "iD" : "97",
+    "url" : "https:\/\/leetcode.com\/problems\/interleaving-string"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Hard",
+    "title" : "Distinct Subsequences",
+    "iD" : "115",
+    "url" : "https:\/\/leetcode.com\/problems\/distinct-subsequences"
+  },
+  {
+    "acceptance" : "36.6%",
+    "difficulty" : "Easy",
+    "title" : "Valid Palindrome",
+    "iD" : "125",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-palindrome"
+  },
+  {
+    "acceptance" : "22.1%",
+    "difficulty" : "Hard",
+    "title" : "Word Ladder II",
+    "iD" : "126",
+    "url" : "https:\/\/leetcode.com\/problems\/word-ladder-ii"
+  },
+  {
+    "acceptance" : "21.9%",
+    "difficulty" : "Medium",
+    "title" : "Reverse Words in a String",
+    "iD" : "151",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-words-in-a-string"
+  },
+  {
+    "acceptance" : "27.4%",
+    "difficulty" : "Medium",
+    "title" : "Compare Version Numbers",
+    "iD" : "165",
+    "url" : "https:\/\/leetcode.com\/problems\/compare-version-numbers"
+  },
+  {
+    "acceptance" : "29.8%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Palindrome",
+    "iD" : "214",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-palindrome"
+  },
+  {
+    "acceptance" : "36.9%",
+    "difficulty" : "Medium",
+    "title" : "Basic Calculator II",
+    "iD" : "227",
+    "url" : "https:\/\/leetcode.com\/problems\/basic-calculator-ii"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Integer to English Words",
+    "iD" : "273",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-to-english-words"
+  },
+  {
+    "acceptance" : "33.7%",
+    "difficulty" : "Hard",
+    "title" : "Palindrome Pairs",
+    "iD" : "336",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-pairs"
+  },
+  {
+    "acceptance" : "68.5%",
+    "difficulty" : "Easy",
+    "title" : "Reverse String",
+    "iD" : "344",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-string"
+  },
+  {
+    "acceptance" : "44.2%",
+    "difficulty" : "Easy",
+    "title" : "Reverse Vowels of a String",
+    "iD" : "345",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-vowels-of-a-string"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Easy",
+    "title" : "Ransom Note",
+    "iD" : "383",
+    "url" : "https:\/\/leetcode.com\/problems\/ransom-note"
+  },
+  {
+    "acceptance" : "33.8%",
+    "difficulty" : "Medium",
+    "title" : "Mini Parser",
+    "iD" : "385",
+    "url" : "https:\/\/leetcode.com\/problems\/mini-parser"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Easy",
+    "title" : "First Unique Character in a String",
+    "iD" : "387",
+    "url" : "https:\/\/leetcode.com\/problems\/first-unique-character-in-a-string"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Easy",
+    "title" : "Add Strings",
+    "iD" : "415",
+    "url" : "https:\/\/leetcode.com\/problems\/add-strings"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Easy",
+    "title" : "Number of Segments in a String",
+    "iD" : "434",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-segments-in-a-string"
+  },
+  {
+    "acceptance" : "41.3%",
+    "difficulty" : "Easy",
+    "title" : "String Compression",
+    "iD" : "443",
+    "url" : "https:\/\/leetcode.com\/problems\/string-compression"
+  },
+  {
+    "acceptance" : "42.2%",
+    "difficulty" : "Easy",
+    "title" : "Repeated Substring Pattern",
+    "iD" : "459",
+    "url" : "https:\/\/leetcode.com\/problems\/repeated-substring-pattern"
+  },
+  {
+    "acceptance" : "24.0%",
+    "difficulty" : "Medium",
+    "title" : "Validate IP Address",
+    "iD" : "468",
+    "url" : "https:\/\/leetcode.com\/problems\/validate-ip-address"
+  },
+  {
+    "acceptance" : "54.4%",
+    "difficulty" : "Easy",
+    "title" : "Detect Capital",
+    "iD" : "520",
+    "url" : "https:\/\/leetcode.com\/problems\/detect-capital"
+  },
+  {
+    "acceptance" : "57.6%",
+    "difficulty" : "Easy",
+    "title" : "Longest Uncommon Subsequence I ",
+    "iD" : "521",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-uncommon-subsequence-i"
+  },
+  {
+    "acceptance" : "34.0%",
+    "difficulty" : "Medium",
+    "title" : "Longest Uncommon Subsequence II",
+    "iD" : "522",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-uncommon-subsequence-ii"
+  },
+  {
+    "acceptance" : "67.4%",
+    "difficulty" : "Medium",
+    "title" : "Complex Number Multiplication",
+    "iD" : "537",
+    "url" : "https:\/\/leetcode.com\/problems\/complex-number-multiplication"
+  },
+  {
+    "acceptance" : "51.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Time Difference",
+    "iD" : "539",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-time-difference"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Easy",
+    "title" : "Reverse String II",
+    "iD" : "541",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-string-ii"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Easy",
+    "title" : "Student Attendance Record I",
+    "iD" : "551",
+    "url" : "https:\/\/leetcode.com\/problems\/student-attendance-record-i"
+  },
+  {
+    "acceptance" : "56.7%",
+    "difficulty" : "Medium",
+    "title" : "Optimal Division",
+    "iD" : "553",
+    "url" : "https:\/\/leetcode.com\/problems\/optimal-division"
+  },
+  {
+    "acceptance" : "31.7%",
+    "difficulty" : "Medium",
+    "title" : "Next Greater Element III",
+    "iD" : "556",
+    "url" : "https:\/\/leetcode.com\/problems\/next-greater-element-iii"
+  },
+  {
+    "acceptance" : "69.8%",
+    "difficulty" : "Easy",
+    "title" : "Reverse Words in a String III",
+    "iD" : "557",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-words-in-a-string-iii"
+  },
+  {
+    "acceptance" : "19.7%",
+    "difficulty" : "Hard",
+    "title" : "Find the Closest Palindrome",
+    "iD" : "564",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-closest-palindrome"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Medium",
+    "title" : "Delete Operation for Two Strings",
+    "iD" : "583",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-operation-for-two-strings"
+  },
+  {
+    "acceptance" : "34.3%",
+    "difficulty" : "Hard",
+    "title" : "Tag Validator",
+    "iD" : "591",
+    "url" : "https:\/\/leetcode.com\/problems\/tag-validator"
+  },
+  {
+    "acceptance" : "54.1%",
+    "difficulty" : "Easy",
+    "title" : "Construct String from Binary Tree",
+    "iD" : "606",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-string-from-binary-tree"
+  },
+  {
+    "acceptance" : "59.5%",
+    "difficulty" : "Medium",
+    "title" : "Find Duplicate File in System",
+    "iD" : "609",
+    "url" : "https:\/\/leetcode.com\/problems\/find-duplicate-file-in-system"
+  },
+  {
+    "acceptance" : "52.4%",
+    "difficulty" : "Hard",
+    "title" : "Smallest Range Covering Elements from K Lists",
+    "iD" : "632",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "acceptance" : "60.6%",
+    "difficulty" : "Medium",
+    "title" : "Palindromic Substrings",
+    "iD" : "647",
+    "url" : "https:\/\/leetcode.com\/problems\/palindromic-substrings"
+  },
+  {
+    "acceptance" : "73.5%",
+    "difficulty" : "Easy",
+    "title" : "Robot Return to Origin",
+    "iD" : "657",
+    "url" : "https:\/\/leetcode.com\/problems\/robot-return-to-origin"
+  },
+  {
+    "acceptance" : "31.0%",
+    "difficulty" : "Medium",
+    "title" : "Valid Parenthesis String",
+    "iD" : "678",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-parenthesis-string"
+  },
+  {
+    "acceptance" : "36.6%",
+    "difficulty" : "Easy",
+    "title" : "Valid Palindrome II",
+    "iD" : "680",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-palindrome-ii"
+  },
+  {
+    "acceptance" : "32.3%",
+    "difficulty" : "Easy",
+    "title" : "Repeated String Match",
+    "iD" : "686",
+    "url" : "https:\/\/leetcode.com\/problems\/repeated-string-match"
+  },
+  {
+    "acceptance" : "56.0%",
+    "difficulty" : "Easy",
+    "title" : "Count Binary Substrings",
+    "iD" : "696",
+    "url" : "https:\/\/leetcode.com\/problems\/count-binary-substrings"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Medium",
+    "title" : "Remove Comments",
+    "iD" : "722",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-comments"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Count Different Palindromic Subsequences",
+    "iD" : "730",
+    "url" : "https:\/\/leetcode.com\/problems\/count-different-palindromic-subsequences"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Hard",
+    "title" : "Parse Lisp Expression",
+    "iD" : "736",
+    "url" : "https:\/\/leetcode.com\/problems\/parse-lisp-expression"
+  },
+  {
+    "acceptance" : "79.3%",
+    "difficulty" : "Easy",
+    "title" : "To Lower Case",
+    "iD" : "709",
+    "url" : "https:\/\/leetcode.com\/problems\/to-lower-case"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Hard",
+    "title" : "Special Binary String",
+    "iD" : "761",
+    "url" : "https:\/\/leetcode.com\/problems\/special-binary-string"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Medium",
+    "title" : "Reorganize String",
+    "iD" : "767",
+    "url" : "https:\/\/leetcode.com\/problems\/reorganize-string"
+  },
+  {
+    "acceptance" : "47.9%",
+    "difficulty" : "Hard",
+    "title" : "Basic Calculator IV",
+    "iD" : "770",
+    "url" : "https:\/\/leetcode.com\/problems\/basic-calculator-iv"
+  },
+  {
+    "acceptance" : "57.1%",
+    "difficulty" : "Easy",
+    "title" : "Rotated Digits",
+    "iD" : "788",
+    "url" : "https:\/\/leetcode.com\/problems\/rotated-digits"
+  },
+  {
+    "acceptance" : "65.7%",
+    "difficulty" : "Medium",
+    "title" : "Custom Sort String",
+    "iD" : "791",
+    "url" : "https:\/\/leetcode.com\/problems\/custom-sort-string"
+  },
+  {
+    "acceptance" : "77.0%",
+    "difficulty" : "Easy",
+    "title" : "Unique Morse Code Words",
+    "iD" : "804",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-morse-code-words"
+  },
+  {
+    "acceptance" : "47.1%",
+    "difficulty" : "Medium",
+    "title" : "Expressive Words",
+    "iD" : "809",
+    "url" : "https:\/\/leetcode.com\/problems\/expressive-words"
+  },
+  {
+    "acceptance" : "47.2%",
+    "difficulty" : "Medium",
+    "title" : "Ambiguous Coordinates",
+    "iD" : "816",
+    "url" : "https:\/\/leetcode.com\/problems\/ambiguous-coordinates"
+  },
+  {
+    "acceptance" : "44.8%",
+    "difficulty" : "Easy",
+    "title" : "Most Common Word",
+    "iD" : "819",
+    "url" : "https:\/\/leetcode.com\/problems\/most-common-word"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Easy",
+    "title" : "Goat Latin",
+    "iD" : "824",
+    "url" : "https:\/\/leetcode.com\/problems\/goat-latin"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Medium",
+    "title" : "Masking Personal Information",
+    "iD" : "831",
+    "url" : "https:\/\/leetcode.com\/problems\/masking-personal-information"
+  },
+  {
+    "acceptance" : "50.3%",
+    "difficulty" : "Medium",
+    "title" : "Find And Replace in String",
+    "iD" : "833",
+    "url" : "https:\/\/leetcode.com\/problems\/find-and-replace-in-string"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Split Array into Fibonacci Sequence",
+    "iD" : "842",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-into-fibonacci-sequence"
+  },
+  {
+    "acceptance" : "44.6%",
+    "difficulty" : "Medium",
+    "title" : "Shifting Letters",
+    "iD" : "848",
+    "url" : "https:\/\/leetcode.com\/problems\/shifting-letters"
+  },
+  {
+    "acceptance" : "60.4%",
+    "difficulty" : "Medium",
+    "title" : "Score of Parentheses",
+    "iD" : "856",
+    "url" : "https:\/\/leetcode.com\/problems\/score-of-parentheses"
+  },
+  {
+    "acceptance" : "27.4%",
+    "difficulty" : "Easy",
+    "title" : "Buddy Strings",
+    "iD" : "859",
+    "url" : "https:\/\/leetcode.com\/problems\/buddy-strings"
+  },
+  {
+    "acceptance" : "73.4%",
+    "difficulty" : "Medium",
+    "title" : "Find and Replace Pattern",
+    "iD" : "890",
+    "url" : "https:\/\/leetcode.com\/problems\/find-and-replace-pattern"
+  },
+  {
+    "acceptance" : "66.5%",
+    "difficulty" : "Easy",
+    "title" : "Groups of Special-Equivalent Strings",
+    "iD" : "893",
+    "url" : "https:\/\/leetcode.com\/problems\/groups-of-special-equivalent-strings"
+  },
+  {
+    "acceptance" : "52.1%",
+    "difficulty" : "Hard",
+    "title" : "Orderly Queue",
+    "iD" : "899",
+    "url" : "https:\/\/leetcode.com\/problems\/orderly-queue"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Medium",
+    "title" : "Word Subsets",
+    "iD" : "916",
+    "url" : "https:\/\/leetcode.com\/problems\/word-subsets"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Easy",
+    "title" : "Reverse Only Letters",
+    "iD" : "917",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-only-letters"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Easy",
+    "title" : "Long Pressed Name",
+    "iD" : "925",
+    "url" : "https:\/\/leetcode.com\/problems\/long-pressed-name"
+  },
+  {
+    "acceptance" : "67.4%",
+    "difficulty" : "Easy",
+    "title" : "Unique Email Addresses",
+    "iD" : "929",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-email-addresses"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Hard",
+    "title" : "Stamping The Sequence",
+    "iD" : "936",
+    "url" : "https:\/\/leetcode.com\/problems\/stamping-the-sequence"
+  },
+  {
+    "acceptance" : "54.4%",
+    "difficulty" : "Easy",
+    "title" : "Reorder Data in Log Files",
+    "iD" : "937",
+    "url" : "https:\/\/leetcode.com\/problems\/reorder-data-in-log-files"
+  },
+  {
+    "acceptance" : "47.2%",
+    "difficulty" : "Medium",
+    "title" : "Vowel Spellchecker",
+    "iD" : "966",
+    "url" : "https:\/\/leetcode.com\/problems\/vowel-spellchecker"
+  },
+  {
+    "acceptance" : "55.2%",
+    "difficulty" : "Medium",
+    "title" : "Check If Word Is Valid After Substitutions",
+    "iD" : "1003",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-word-is-valid-after-substitutions"
+  },
+  {
+    "acceptance" : "58.9%",
+    "difficulty" : "Medium",
+    "title" : "Binary String With Substrings Representing 1 To N",
+    "iD" : "1016",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-string-with-substrings-representing-1-to-n"
+  },
+  {
+    "acceptance" : "57.0%",
+    "difficulty" : "Medium",
+    "title" : "Camelcase Matching",
+    "iD" : "1023",
+    "url" : "https:\/\/leetcode.com\/problems\/camelcase-matching"
+  },
+  {
+    "acceptance" : "33.8%",
+    "difficulty" : "Hard",
+    "title" : "Last Substring in Lexicographical Order",
+    "iD" : "1163",
+    "url" : "https:\/\/leetcode.com\/problems\/last-substring-in-lexicographical-order"
+  },
+  {
+    "acceptance" : "53.0%",
+    "difficulty" : "Easy",
+    "title" : "Greatest Common Divisor of Strings",
+    "iD" : "1071",
+    "url" : "https:\/\/leetcode.com\/problems\/greatest-common-divisor-of-strings"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Medium",
+    "title" : "Smallest Subsequence of Distinct Characters",
+    "iD" : "1081",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-subsequence-of-distinct-characters"
+  },
+  {
+    "acceptance" : "62.2%",
+    "difficulty" : "Hard",
+    "title" : "Brace Expansion II",
+    "iD" : "1096",
+    "url" : "https:\/\/leetcode.com\/problems\/brace-expansion-ii"
+  },
+  {
+    "acceptance" : "58.5%",
+    "difficulty" : "Hard",
+    "title" : "Parsing A Boolean Expression",
+    "iD" : "1106",
+    "url" : "https:\/\/leetcode.com\/problems\/parsing-a-boolean-expression"
+  },
+  {
+    "acceptance" : "87.5%",
+    "difficulty" : "Easy",
+    "title" : "Defanging an IP Address",
+    "iD" : "1108",
+    "url" : "https:\/\/leetcode.com\/problems\/defanging-an-ip-address"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Alphabet Board Path",
+    "iD" : "1138",
+    "url" : "https:\/\/leetcode.com\/problems\/alphabet-board-path"
+  },
+  {
+    "acceptance" : "46.4%",
+    "difficulty" : "Hard",
+    "title" : "Distinct Echo Substrings",
+    "iD" : "1316",
+    "url" : "https:\/\/leetcode.com\/problems\/distinct-echo-substrings"
+  },
+  {
+    "acceptance" : "43.3%",
+    "difficulty" : "Medium",
+    "title" : "Break a Palindrome",
+    "iD" : "1328",
+    "url" : "https:\/\/leetcode.com\/problems\/break-a-palindrome"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Medium",
+    "title" : "Swap For Longest Repeated Character Substring",
+    "iD" : "1156",
+    "url" : "https:\/\/leetcode.com\/problems\/swap-for-longest-repeated-character-substring"
+  },
+  {
+    "acceptance" : "31.2%",
+    "difficulty" : "Medium",
+    "title" : "Invalid Transactions",
+    "iD" : "1169",
+    "url" : "https:\/\/leetcode.com\/problems\/invalid-transactions"
+  },
+  {
+    "acceptance" : "58.6%",
+    "difficulty" : "Easy",
+    "title" : "Compare Strings by Frequency of the Smallest Character",
+    "iD" : "1170",
+    "url" : "https:\/\/leetcode.com\/problems\/compare-strings-by-frequency-of-the-smallest-character"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Medium",
+    "title" : "Can Make Palindrome from Substring",
+    "iD" : "1177",
+    "url" : "https:\/\/leetcode.com\/problems\/can-make-palindrome-from-substring"
+  },
+  {
+    "acceptance" : "60.5%",
+    "difficulty" : "Easy",
+    "title" : "Reformat Date",
+    "iD" : "1507",
+    "url" : "https:\/\/leetcode.com\/problems\/reformat-date"
+  },
+  {
+    "acceptance" : "61.2%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Number of Balloons",
+    "iD" : "1189",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-balloons"
+  },
+  {
+    "acceptance" : "83.2%",
+    "difficulty" : "Easy",
+    "title" : "Split a String in Balanced Strings",
+    "iD" : "1221",
+    "url" : "https:\/\/leetcode.com\/problems\/split-a-string-in-balanced-strings"
+  },
+  {
+    "acceptance" : "59.5%",
+    "difficulty" : "Medium",
+    "title" : "Remove Sub-Folders from the Filesystem",
+    "iD" : "1233",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-sub-folders-from-the-filesystem"
+  },
+  {
+    "acceptance" : "33.3%",
+    "difficulty" : "Medium",
+    "title" : "Replace the Substring for Balanced String",
+    "iD" : "1234",
+    "url" : "https:\/\/leetcode.com\/problems\/replace-the-substring-for-balanced-string"
+  },
+  {
+    "acceptance" : "60.0%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Swaps to Make Strings Equal",
+    "iD" : "1247",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-swaps-to-make-strings-equal"
+  },
+  {
+    "acceptance" : "62.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Remove to Make Valid Parentheses",
+    "iD" : "1249",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-remove-to-make-valid-parentheses"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Medium",
+    "title" : "Search Suggestions System",
+    "iD" : "1268",
+    "url" : "https:\/\/leetcode.com\/problems\/search-suggestions-system"
+  },
+  {
+    "acceptance" : "47.2%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Number of Occurrences of a Substring",
+    "iD" : "1297",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-occurrences-of-a-substring"
+  },
+  {
+    "acceptance" : "76.7%",
+    "difficulty" : "Easy",
+    "title" : "Decrypt String from Alphabet to Integer Mapping",
+    "iD" : "1309",
+    "url" : "https:\/\/leetcode.com\/problems\/decrypt-string-from-alphabet-to-integer-mapping"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Get Watched Videos by Your Friends",
+    "iD" : "1311",
+    "url" : "https:\/\/leetcode.com\/problems\/get-watched-videos-by-your-friends"
+  },
+  {
+    "acceptance" : "58.0%",
+    "difficulty" : "Medium",
+    "title" : "Print Words Vertically",
+    "iD" : "1324",
+    "url" : "https:\/\/leetcode.com\/problems\/print-words-vertically"
+  },
+  {
+    "acceptance" : "60.0%",
+    "difficulty" : "Easy",
+    "title" : "Remove Palindromic Subsequences",
+    "iD" : "1332",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-palindromic-subsequences"
+  },
+  {
+    "acceptance" : "58.0%",
+    "difficulty" : "Medium",
+    "title" : "Number of Substrings Containing All Three Characters",
+    "iD" : "1358",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-substrings-containing-all-three-characters"
+  },
+  {
+    "acceptance" : "74.6%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Number of Steps to Make Two Strings Anagram",
+    "iD" : "1347",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-steps-to-make-two-strings-anagram"
+  },
+  {
+    "acceptance" : "75.6%",
+    "difficulty" : "Easy",
+    "title" : "Increasing Decreasing String",
+    "iD" : "1370",
+    "url" : "https:\/\/leetcode.com\/problems\/increasing-decreasing-string"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Medium",
+    "title" : "Find the Longest Substring Containing Vowels in Even Counts",
+    "iD" : "1371",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-longest-substring-containing-vowels-in-even-counts"
+  },
+  {
+    "acceptance" : "75.4%",
+    "difficulty" : "Easy",
+    "title" : "Generate a String With Characters That Have Odd Counts",
+    "iD" : "1374",
+    "url" : "https:\/\/leetcode.com\/problems\/generate-a-string-with-characters-that-have-odd-counts"
+  },
+  {
+    "acceptance" : "40.0%",
+    "difficulty" : "Hard",
+    "title" : "Longest Happy Prefix",
+    "iD" : "1392",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-happy-prefix"
+  },
+  {
+    "acceptance" : "50.3%",
+    "difficulty" : "Medium",
+    "title" : "Number of Steps to Reduce a Number in Binary Representation to One",
+    "iD" : "1404",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+  },
+  {
+    "acceptance" : "61.4%",
+    "difficulty" : "Easy",
+    "title" : "String Matching in an Array",
+    "iD" : "1408",
+    "url" : "https:\/\/leetcode.com\/problems\/string-matching-in-an-array"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "HTML Entity Parser",
+    "iD" : "1410",
+    "url" : "https:\/\/leetcode.com\/problems\/html-entity-parser"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Medium",
+    "title" : "Max Difference You Can Get From Changing an Integer",
+    "iD" : "1432",
+    "url" : "https:\/\/leetcode.com\/problems\/max-difference-you-can-get-from-changing-an-integer"
+  },
+  {
+    "acceptance" : "65.7%",
+    "difficulty" : "Medium",
+    "title" : "Check If a String Can Break Another String",
+    "iD" : "1433",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-a-string-can-break-another-string"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Easy",
+    "title" : "Reformat The String",
+    "iD" : "1417",
+    "url" : "https:\/\/leetcode.com\/problems\/reformat-the-string"
+  },
+  {
+    "acceptance" : "46.3%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Number of Frogs Croaking",
+    "iD" : "1419",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-frogs-croaking"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Score After Splitting a String",
+    "iD" : "1422",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-score-after-splitting-a-string"
+  },
+  {
+    "acceptance" : "60.4%",
+    "difficulty" : "Easy",
+    "title" : "Consecutive Characters",
+    "iD" : "1446",
+    "url" : "https:\/\/leetcode.com\/problems\/consecutive-characters"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Form Largest Integer With Digits That Add up to Target",
+    "iD" : "1449",
+    "url" : "https:\/\/leetcode.com\/problems\/form-largest-integer-with-digits-that-add-up-to-target"
+  },
+  {
+    "acceptance" : "77.2%",
+    "difficulty" : "Easy",
+    "title" : "Destination City",
+    "iD" : "1436",
+    "url" : "https:\/\/leetcode.com\/problems\/destination-city"
+  },
+  {
+    "acceptance" : "44.6%",
+    "difficulty" : "Medium",
+    "title" : "Check If a String Contains All Binary Codes of Size K",
+    "iD" : "1461",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-a-string-contains-all-binary-codes-of-size-k"
+  },
+  {
+    "acceptance" : "54.8%",
+    "difficulty" : "Medium",
+    "title" : "Rearrange Words in a Sentence",
+    "iD" : "1451",
+    "url" : "https:\/\/leetcode.com\/problems\/rearrange-words-in-a-sentence"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Medium",
+    "title" : "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "iD" : "1452",
+    "url" : "https:\/\/leetcode.com\/problems\/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list"
+  },
+  {
+    "acceptance" : "64.7%",
+    "difficulty" : "Easy",
+    "title" : "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "iD" : "1455",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence"
+  },
+  {
+    "acceptance" : "52.3%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Number of Vowels in a Substring of Given Length",
+    "iD" : "1456",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-vowels-in-a-substring-of-given-length"
+  },
+  {
+    "acceptance" : "29.2%",
+    "difficulty" : "Medium",
+    "title" : "Making File Names Unique",
+    "iD" : "1487",
+    "url" : "https:\/\/leetcode.com\/problems\/making-file-names-unique"
+  },
+  {
+    "acceptance" : "55.9%",
+    "difficulty" : "Easy",
+    "title" : "Path Crossing",
+    "iD" : "1496",
+    "url" : "https:\/\/leetcode.com\/problems\/path-crossing"
+  },
+  {
+    "acceptance" : "70.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Good Ways to Split a String",
+    "iD" : "1525",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-good-ways-to-split-a-string"
+  },
+  {
+    "acceptance" : "40.4%",
+    "difficulty" : "Medium",
+    "title" : "Number of Substrings With Only 1s",
+    "iD" : "1513",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-substrings-with-only-1s"
+  },
+  {
+    "acceptance" : "28.5%",
+    "difficulty" : "Hard",
+    "title" : "String Compression II",
+    "iD" : "1531",
+    "url" : "https:\/\/leetcode.com\/problems\/string-compression-ii"
+  },
+  {
+    "acceptance" : "70.5%",
+    "difficulty" : "Medium",
+    "title" : "Bulb Switcher IV",
+    "iD" : "1529",
+    "url" : "https:\/\/leetcode.com\/problems\/bulb-switcher-iv"
+  }
+]

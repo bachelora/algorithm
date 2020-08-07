@@ -1,0 +1,381 @@
+[
+  {
+    "acceptance" : "30.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Substring Without Repeating Characters",
+    "iD" : "3",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-substring-without-repeating-characters"
+  },
+  {
+    "acceptance" : "50.8%",
+    "difficulty" : "Medium",
+    "title" : "Container With Most Water",
+    "iD" : "11",
+    "url" : "https:\/\/leetcode.com\/problems\/container-with-most-water"
+  },
+  {
+    "acceptance" : "26.8%",
+    "difficulty" : "Medium",
+    "title" : "3Sum",
+    "iD" : "15",
+    "url" : "https:\/\/leetcode.com\/problems\/3sum"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Medium",
+    "title" : "3Sum Closest",
+    "iD" : "16",
+    "url" : "https:\/\/leetcode.com\/problems\/3sum-closest"
+  },
+  {
+    "acceptance" : "33.6%",
+    "difficulty" : "Medium",
+    "title" : "4Sum",
+    "iD" : "18",
+    "url" : "https:\/\/leetcode.com\/problems\/4sum"
+  },
+  {
+    "acceptance" : "35.2%",
+    "difficulty" : "Medium",
+    "title" : "Remove Nth Node From End of List",
+    "iD" : "19",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-nth-node-from-end-of-list"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Easy",
+    "title" : "Remove Duplicates from Sorted Array",
+    "iD" : "26",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-duplicates-from-sorted-array"
+  },
+  {
+    "acceptance" : "48.2%",
+    "difficulty" : "Easy",
+    "title" : "Remove Element",
+    "iD" : "27",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-element"
+  },
+  {
+    "acceptance" : "34.5%",
+    "difficulty" : "Easy",
+    "title" : "Implement strStr()",
+    "iD" : "28",
+    "url" : "https:\/\/leetcode.com\/problems\/implement-strstr"
+  },
+  {
+    "acceptance" : "25.4%",
+    "difficulty" : "Hard",
+    "title" : "Substring with Concatenation of All Words",
+    "iD" : "30",
+    "url" : "https:\/\/leetcode.com\/problems\/substring-with-concatenation-of-all-words"
+  },
+  {
+    "acceptance" : "48.8%",
+    "difficulty" : "Hard",
+    "title" : "Trapping Rain Water",
+    "iD" : "42",
+    "url" : "https:\/\/leetcode.com\/problems\/trapping-rain-water"
+  },
+  {
+    "acceptance" : "30.0%",
+    "difficulty" : "Medium",
+    "title" : "Rotate List",
+    "iD" : "61",
+    "url" : "https:\/\/leetcode.com\/problems\/rotate-list"
+  },
+  {
+    "acceptance" : "47.3%",
+    "difficulty" : "Medium",
+    "title" : "Sort Colors",
+    "iD" : "75",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-colors"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Window Substring",
+    "iD" : "76",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-window-substring"
+  },
+  {
+    "acceptance" : "43.9%",
+    "difficulty" : "Medium",
+    "title" : "Remove Duplicates from Sorted Array II",
+    "iD" : "80",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-duplicates-from-sorted-array-ii"
+  },
+  {
+    "acceptance" : "41.4%",
+    "difficulty" : "Medium",
+    "title" : "Partition List",
+    "iD" : "86",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-list"
+  },
+  {
+    "acceptance" : "39.4%",
+    "difficulty" : "Easy",
+    "title" : "Merge Sorted Array",
+    "iD" : "88",
+    "url" : "https:\/\/leetcode.com\/problems\/merge-sorted-array"
+  },
+  {
+    "acceptance" : "36.6%",
+    "difficulty" : "Easy",
+    "title" : "Valid Palindrome",
+    "iD" : "125",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-palindrome"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Easy",
+    "title" : "Linked List Cycle",
+    "iD" : "141",
+    "url" : "https:\/\/leetcode.com\/problems\/linked-list-cycle"
+  },
+  {
+    "acceptance" : "37.3%",
+    "difficulty" : "Medium",
+    "title" : "Linked List Cycle II",
+    "iD" : "142",
+    "url" : "https:\/\/leetcode.com\/problems\/linked-list-cycle-ii"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Easy",
+    "title" : "Two Sum II - Input array is sorted",
+    "iD" : "167",
+    "url" : "https:\/\/leetcode.com\/problems\/two-sum-ii-input-array-is-sorted"
+  },
+  {
+    "acceptance" : "38.1%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Size Subarray Sum",
+    "iD" : "209",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-size-subarray-sum"
+  },
+  {
+    "acceptance" : "39.2%",
+    "difficulty" : "Easy",
+    "title" : "Palindrome Linked List",
+    "iD" : "234",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-linked-list"
+  },
+  {
+    "acceptance" : "57.8%",
+    "difficulty" : "Easy",
+    "title" : "Move Zeroes",
+    "iD" : "283",
+    "url" : "https:\/\/leetcode.com\/problems\/move-zeroes"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Medium",
+    "title" : "Find the Duplicate Number",
+    "iD" : "287",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-duplicate-number"
+  },
+  {
+    "acceptance" : "68.5%",
+    "difficulty" : "Easy",
+    "title" : "Reverse String",
+    "iD" : "344",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-string"
+  },
+  {
+    "acceptance" : "44.2%",
+    "difficulty" : "Easy",
+    "title" : "Reverse Vowels of a String",
+    "iD" : "345",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-vowels-of-a-string"
+  },
+  {
+    "acceptance" : "62.4%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays",
+    "iD" : "349",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Easy",
+    "title" : "Intersection of Two Arrays II",
+    "iD" : "350",
+    "url" : "https:\/\/leetcode.com\/problems\/intersection-of-two-arrays-ii"
+  },
+  {
+    "acceptance" : "46.9%",
+    "difficulty" : "Medium",
+    "title" : "Longest Repeating Character Replacement",
+    "iD" : "424",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-repeating-character-replacement"
+  },
+  {
+    "acceptance" : "29.4%",
+    "difficulty" : "Medium",
+    "title" : "Circular Array Loop",
+    "iD" : "457",
+    "url" : "https:\/\/leetcode.com\/problems\/circular-array-loop"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Word in Dictionary through Deleting",
+    "iD" : "524",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-word-in-dictionary-through-deleting"
+  },
+  {
+    "acceptance" : "31.5%",
+    "difficulty" : "Easy",
+    "title" : "K-diff Pairs in an Array",
+    "iD" : "532",
+    "url" : "https:\/\/leetcode.com\/problems\/k-diff-pairs-in-an-array"
+  },
+  {
+    "acceptance" : "44.4%",
+    "difficulty" : "Medium",
+    "title" : "Permutation in String",
+    "iD" : "567",
+    "url" : "https:\/\/leetcode.com\/problems\/permutation-in-string"
+  },
+  {
+    "acceptance" : "52.4%",
+    "difficulty" : "Hard",
+    "title" : "Smallest Range Covering Elements from K Lists",
+    "iD" : "632",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-covering-elements-from-k-lists"
+  },
+  {
+    "acceptance" : "39.1%",
+    "difficulty" : "Medium",
+    "title" : "Subarray Product Less Than K",
+    "iD" : "713",
+    "url" : "https:\/\/leetcode.com\/problems\/subarray-product-less-than-k"
+  },
+  {
+    "acceptance" : "76.0%",
+    "difficulty" : "Medium",
+    "title" : "Partition Labels",
+    "iD" : "763",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-labels"
+  },
+  {
+    "acceptance" : "38.5%",
+    "difficulty" : "Medium",
+    "title" : "Most Profit Assigning Work",
+    "iD" : "826",
+    "url" : "https:\/\/leetcode.com\/problems\/most-profit-assigning-work"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Hard",
+    "title" : "Count Unique Characters of All Substrings of a Given String",
+    "iD" : "828",
+    "url" : "https:\/\/leetcode.com\/problems\/count-unique-characters-of-all-substrings-of-a-given-string"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Push Dominoes",
+    "iD" : "838",
+    "url" : "https:\/\/leetcode.com\/problems\/push-dominoes"
+  },
+  {
+    "acceptance" : "46.4%",
+    "difficulty" : "Easy",
+    "title" : "Backspace String Compare",
+    "iD" : "844",
+    "url" : "https:\/\/leetcode.com\/problems\/backspace-string-compare"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Medium",
+    "title" : "Longest Mountain in Array",
+    "iD" : "845",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-mountain-in-array"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Boats to Save People",
+    "iD" : "881",
+    "url" : "https:\/\/leetcode.com\/problems\/boats-to-save-people"
+  },
+  {
+    "acceptance" : "42.5%",
+    "difficulty" : "Medium",
+    "title" : "Fruit Into Baskets",
+    "iD" : "904",
+    "url" : "https:\/\/leetcode.com\/problems\/fruit-into-baskets"
+  },
+  {
+    "acceptance" : "35.7%",
+    "difficulty" : "Medium",
+    "title" : "3Sum With Multiplicity",
+    "iD" : "923",
+    "url" : "https:\/\/leetcode.com\/problems\/3sum-with-multiplicity"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Easy",
+    "title" : "Long Pressed Name",
+    "iD" : "925",
+    "url" : "https:\/\/leetcode.com\/problems\/long-pressed-name"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Medium",
+    "title" : "Binary Subarrays With Sum",
+    "iD" : "930",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-subarrays-with-sum"
+  },
+  {
+    "acceptance" : "72.2%",
+    "difficulty" : "Easy",
+    "title" : "Squares of a Sorted Array",
+    "iD" : "977",
+    "url" : "https:\/\/leetcode.com\/problems\/squares-of-a-sorted-array"
+  },
+  {
+    "acceptance" : "67.3%",
+    "difficulty" : "Medium",
+    "title" : "Interval List Intersections",
+    "iD" : "986",
+    "url" : "https:\/\/leetcode.com\/problems\/interval-list-intersections"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Hard",
+    "title" : "Subarrays with K Different Integers",
+    "iD" : "992",
+    "url" : "https:\/\/leetcode.com\/problems\/subarrays-with-k-different-integers"
+  },
+  {
+    "acceptance" : "59.1%",
+    "difficulty" : "Medium",
+    "title" : "Max Consecutive Ones III",
+    "iD" : "1004",
+    "url" : "https:\/\/leetcode.com\/problems\/max-consecutive-ones-iii"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Medium",
+    "title" : "Statistics from a Large Sample",
+    "iD" : "1093",
+    "url" : "https:\/\/leetcode.com\/problems\/statistics-from-a-large-sample"
+  },
+  {
+    "acceptance" : "33.3%",
+    "difficulty" : "Medium",
+    "title" : "Replace the Substring for Balanced String",
+    "iD" : "1234",
+    "url" : "https:\/\/leetcode.com\/problems\/replace-the-substring-for-balanced-string"
+  },
+  {
+    "acceptance" : "56.4%",
+    "difficulty" : "Medium",
+    "title" : "Count Number of Nice Subarrays",
+    "iD" : "1248",
+    "url" : "https:\/\/leetcode.com\/problems\/count-number-of-nice-subarrays"
+  }
+]
+

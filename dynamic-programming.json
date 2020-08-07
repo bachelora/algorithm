@@ -1,0 +1,1319 @@
+[
+  {
+    "acceptance" : "29.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Palindromic Substring",
+    "iD" : "5",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-palindromic-substring"
+  },
+  {
+    "acceptance" : "26.8%",
+    "difficulty" : "Hard",
+    "title" : "Regular Expression Matching",
+    "iD" : "10",
+    "url" : "https:\/\/leetcode.com\/problems\/regular-expression-matching"
+  },
+  {
+    "acceptance" : "28.3%",
+    "difficulty" : "Hard",
+    "title" : "Longest Valid Parentheses",
+    "iD" : "32",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-valid-parentheses"
+  },
+  {
+    "acceptance" : "24.7%",
+    "difficulty" : "Hard",
+    "title" : "Wildcard Matching",
+    "iD" : "44",
+    "url" : "https:\/\/leetcode.com\/problems\/wildcard-matching"
+  },
+  {
+    "acceptance" : "46.5%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Subarray",
+    "iD" : "53",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-subarray"
+  },
+  {
+    "acceptance" : "54.1%",
+    "difficulty" : "Medium",
+    "title" : "Unique Paths",
+    "iD" : "62",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-paths"
+  },
+  {
+    "acceptance" : "34.5%",
+    "difficulty" : "Medium",
+    "title" : "Unique Paths II",
+    "iD" : "63",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-paths-ii"
+  },
+  {
+    "acceptance" : "54.4%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Path Sum",
+    "iD" : "64",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-path-sum"
+  },
+  {
+    "acceptance" : "47.7%",
+    "difficulty" : "Easy",
+    "title" : "Climbing Stairs",
+    "iD" : "70",
+    "url" : "https:\/\/leetcode.com\/problems\/climbing-stairs"
+  },
+  {
+    "acceptance" : "44.8%",
+    "difficulty" : "Hard",
+    "title" : "Edit Distance",
+    "iD" : "72",
+    "url" : "https:\/\/leetcode.com\/problems\/edit-distance"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Hard",
+    "title" : "Maximal Rectangle",
+    "iD" : "85",
+    "url" : "https:\/\/leetcode.com\/problems\/maximal-rectangle"
+  },
+  {
+    "acceptance" : "33.7%",
+    "difficulty" : "Hard",
+    "title" : "Scramble String",
+    "iD" : "87",
+    "url" : "https:\/\/leetcode.com\/problems\/scramble-string"
+  },
+  {
+    "acceptance" : "24.6%",
+    "difficulty" : "Medium",
+    "title" : "Decode Ways",
+    "iD" : "91",
+    "url" : "https:\/\/leetcode.com\/problems\/decode-ways"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Medium",
+    "title" : "Unique Binary Search Trees II",
+    "iD" : "95",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-binary-search-trees-ii"
+  },
+  {
+    "acceptance" : "52.8%",
+    "difficulty" : "Medium",
+    "title" : "Unique Binary Search Trees",
+    "iD" : "96",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-binary-search-trees"
+  },
+  {
+    "acceptance" : "31.5%",
+    "difficulty" : "Hard",
+    "title" : "Interleaving String",
+    "iD" : "97",
+    "url" : "https:\/\/leetcode.com\/problems\/interleaving-string"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Hard",
+    "title" : "Distinct Subsequences",
+    "iD" : "115",
+    "url" : "https:\/\/leetcode.com\/problems\/distinct-subsequences"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Medium",
+    "title" : "Triangle",
+    "iD" : "120",
+    "url" : "https:\/\/leetcode.com\/problems\/triangle"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Easy",
+    "title" : "Best Time to Buy and Sell Stock",
+    "iD" : "121",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock"
+  },
+  {
+    "acceptance" : "37.4%",
+    "difficulty" : "Hard",
+    "title" : "Best Time to Buy and Sell Stock III",
+    "iD" : "123",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-iii"
+  },
+  {
+    "acceptance" : "30.2%",
+    "difficulty" : "Hard",
+    "title" : "Palindrome Partitioning II",
+    "iD" : "132",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-partitioning-ii"
+  },
+  {
+    "acceptance" : "40.0%",
+    "difficulty" : "Medium",
+    "title" : "Word Break",
+    "iD" : "139",
+    "url" : "https:\/\/leetcode.com\/problems\/word-break"
+  },
+  {
+    "acceptance" : "32.6%",
+    "difficulty" : "Hard",
+    "title" : "Word Break II",
+    "iD" : "140",
+    "url" : "https:\/\/leetcode.com\/problems\/word-break-ii"
+  },
+  {
+    "acceptance" : "31.7%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Product Subarray",
+    "iD" : "152",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-product-subarray"
+  },
+  {
+    "acceptance" : "32.3%",
+    "difficulty" : "Hard",
+    "title" : "Dungeon Game",
+    "iD" : "174",
+    "url" : "https:\/\/leetcode.com\/problems\/dungeon-game"
+  },
+  {
+    "acceptance" : "28.0%",
+    "difficulty" : "Hard",
+    "title" : "Best Time to Buy and Sell Stock IV",
+    "iD" : "188",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-iv"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Easy",
+    "title" : "House Robber",
+    "iD" : "198",
+    "url" : "https:\/\/leetcode.com\/problems\/house-robber"
+  },
+  {
+    "acceptance" : "36.5%",
+    "difficulty" : "Medium",
+    "title" : "House Robber II",
+    "iD" : "213",
+    "url" : "https:\/\/leetcode.com\/problems\/house-robber-ii"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Medium",
+    "title" : "Maximal Square",
+    "iD" : "221",
+    "url" : "https:\/\/leetcode.com\/problems\/maximal-square"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Medium",
+    "title" : "Ugly Number II",
+    "iD" : "264",
+    "url" : "https:\/\/leetcode.com\/problems\/ugly-number-ii"
+  },
+  {
+    "acceptance" : "47.3%",
+    "difficulty" : "Medium",
+    "title" : "Perfect Squares",
+    "iD" : "279",
+    "url" : "https:\/\/leetcode.com\/problems\/perfect-squares"
+  },
+  {
+    "acceptance" : "42.6%",
+    "difficulty" : "Medium",
+    "title" : "Longest Increasing Subsequence",
+    "iD" : "300",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-increasing-subsequence"
+  },
+  {
+    "acceptance" : "44.7%",
+    "difficulty" : "Easy",
+    "title" : "Range Sum Query - Immutable",
+    "iD" : "303",
+    "url" : "https:\/\/leetcode.com\/problems\/range-sum-query-immutable"
+  },
+  {
+    "acceptance" : "38.5%",
+    "difficulty" : "Medium",
+    "title" : "Range Sum Query 2D - Immutable",
+    "iD" : "304",
+    "url" : "https:\/\/leetcode.com\/problems\/range-sum-query-2d-immutable"
+  },
+  {
+    "acceptance" : "47.4%",
+    "difficulty" : "Medium",
+    "title" : "Best Time to Buy and Sell Stock with Cooldown",
+    "iD" : "309",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-with-cooldown"
+  },
+  {
+    "acceptance" : "51.7%",
+    "difficulty" : "Hard",
+    "title" : "Burst Balloons",
+    "iD" : "312",
+    "url" : "https:\/\/leetcode.com\/problems\/burst-balloons"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Create Maximum Number",
+    "iD" : "321",
+    "url" : "https:\/\/leetcode.com\/problems\/create-maximum-number"
+  },
+  {
+    "acceptance" : "35.4%",
+    "difficulty" : "Medium",
+    "title" : "Coin Change",
+    "iD" : "322",
+    "url" : "https:\/\/leetcode.com\/problems\/coin-change"
+  },
+  {
+    "acceptance" : "69.5%",
+    "difficulty" : "Medium",
+    "title" : "Counting Bits",
+    "iD" : "338",
+    "url" : "https:\/\/leetcode.com\/problems\/counting-bits"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Medium",
+    "title" : "Integer Break",
+    "iD" : "343",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-break"
+  },
+  {
+    "acceptance" : "35.6%",
+    "difficulty" : "Hard",
+    "title" : "Russian Doll Envelopes",
+    "iD" : "354",
+    "url" : "https:\/\/leetcode.com\/problems\/russian-doll-envelopes"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Count Numbers with Unique Digits",
+    "iD" : "357",
+    "url" : "https:\/\/leetcode.com\/problems\/count-numbers-with-unique-digits"
+  },
+  {
+    "acceptance" : "37.3%",
+    "difficulty" : "Hard",
+    "title" : "Max Sum of Rectangle No Larger Than K",
+    "iD" : "363",
+    "url" : "https:\/\/leetcode.com\/problems\/max-sum-of-rectangle-no-larger-than-k"
+  },
+  {
+    "acceptance" : "38.1%",
+    "difficulty" : "Medium",
+    "title" : "Largest Divisible Subset",
+    "iD" : "368",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-divisible-subset"
+  },
+  {
+    "acceptance" : "40.3%",
+    "difficulty" : "Medium",
+    "title" : "Guess Number Higher or Lower II",
+    "iD" : "375",
+    "url" : "https:\/\/leetcode.com\/problems\/guess-number-higher-or-lower-ii"
+  },
+  {
+    "acceptance" : "39.6%",
+    "difficulty" : "Medium",
+    "title" : "Wiggle Subsequence",
+    "iD" : "376",
+    "url" : "https:\/\/leetcode.com\/problems\/wiggle-subsequence"
+  },
+  {
+    "acceptance" : "45.3%",
+    "difficulty" : "Medium",
+    "title" : "Combination Sum IV",
+    "iD" : "377",
+    "url" : "https:\/\/leetcode.com\/problems\/combination-sum-iv"
+  },
+  {
+    "acceptance" : "49.2%",
+    "difficulty" : "Easy",
+    "title" : "Is Subsequence",
+    "iD" : "392",
+    "url" : "https:\/\/leetcode.com\/problems\/is-subsequence"
+  },
+  {
+    "acceptance" : "39.7%",
+    "difficulty" : "Hard",
+    "title" : "Frog Jump",
+    "iD" : "403",
+    "url" : "https:\/\/leetcode.com\/problems\/frog-jump"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Hard",
+    "title" : "Split Array Largest Sum",
+    "iD" : "410",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-largest-sum"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Medium",
+    "title" : "Arithmetic Slices",
+    "iD" : "413",
+    "url" : "https:\/\/leetcode.com\/problems\/arithmetic-slices"
+  },
+  {
+    "acceptance" : "43.6%",
+    "difficulty" : "Medium",
+    "title" : "Partition Equal Subset Sum",
+    "iD" : "416",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-equal-subset-sum"
+  },
+  {
+    "acceptance" : "32.7%",
+    "difficulty" : "Hard",
+    "title" : "Arithmetic Slices II - Subsequence",
+    "iD" : "446",
+    "url" : "https:\/\/leetcode.com\/problems\/arithmetic-slices-ii-subsequence"
+  },
+  {
+    "acceptance" : "28.8%",
+    "difficulty" : "Medium",
+    "title" : "Can I Win",
+    "iD" : "464",
+    "url" : "https:\/\/leetcode.com\/problems\/can-i-win"
+  },
+  {
+    "acceptance" : "28.2%",
+    "difficulty" : "Hard",
+    "title" : "Count The Repetitions",
+    "iD" : "466",
+    "url" : "https:\/\/leetcode.com\/problems\/count-the-repetitions"
+  },
+  {
+    "acceptance" : "35.6%",
+    "difficulty" : "Medium",
+    "title" : "Unique Substrings in Wraparound String",
+    "iD" : "467",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-substrings-in-wraparound-string"
+  },
+  {
+    "acceptance" : "43.6%",
+    "difficulty" : "Hard",
+    "title" : "Concatenated Words",
+    "iD" : "472",
+    "url" : "https:\/\/leetcode.com\/problems\/concatenated-words"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Medium",
+    "title" : "Ones and Zeroes",
+    "iD" : "474",
+    "url" : "https:\/\/leetcode.com\/problems\/ones-and-zeroes"
+  },
+  {
+    "acceptance" : "47.9%",
+    "difficulty" : "Medium",
+    "title" : "Predict the Winner",
+    "iD" : "486",
+    "url" : "https:\/\/leetcode.com\/problems\/predict-the-winner"
+  },
+  {
+    "acceptance" : "46.3%",
+    "difficulty" : "Medium",
+    "title" : "Target Sum",
+    "iD" : "494",
+    "url" : "https:\/\/leetcode.com\/problems\/target-sum"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Hard",
+    "title" : "Freedom Trail",
+    "iD" : "514",
+    "url" : "https:\/\/leetcode.com\/problems\/freedom-trail"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "Longest Palindromic Subsequence",
+    "iD" : "516",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-palindromic-subsequence"
+  },
+  {
+    "acceptance" : "38.3%",
+    "difficulty" : "Hard",
+    "title" : "Super Washing Machines",
+    "iD" : "517",
+    "url" : "https:\/\/leetcode.com\/problems\/super-washing-machines"
+  },
+  {
+    "acceptance" : "24.6%",
+    "difficulty" : "Medium",
+    "title" : "Continuous Subarray Sum",
+    "iD" : "523",
+    "url" : "https:\/\/leetcode.com\/problems\/continuous-subarray-sum"
+  },
+  {
+    "acceptance" : "42.6%",
+    "difficulty" : "Hard",
+    "title" : "Remove Boxes",
+    "iD" : "546",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-boxes"
+  },
+  {
+    "acceptance" : "36.7%",
+    "difficulty" : "Hard",
+    "title" : "Student Attendance Record II",
+    "iD" : "552",
+    "url" : "https:\/\/leetcode.com\/problems\/student-attendance-record-ii"
+  },
+  {
+    "acceptance" : "35.1%",
+    "difficulty" : "Medium",
+    "title" : "Out of Boundary Paths",
+    "iD" : "576",
+    "url" : "https:\/\/leetcode.com\/problems\/out-of-boundary-paths"
+  },
+  {
+    "acceptance" : "34.0%",
+    "difficulty" : "Hard",
+    "title" : "Non-negative Integers without Consecutive Ones",
+    "iD" : "600",
+    "url" : "https:\/\/leetcode.com\/problems\/non-negative-integers-without-consecutive-ones"
+  },
+  {
+    "acceptance" : "31.1%",
+    "difficulty" : "Hard",
+    "title" : "K Inverse Pairs Array",
+    "iD" : "629",
+    "url" : "https:\/\/leetcode.com\/problems\/k-inverse-pairs-array"
+  },
+  {
+    "acceptance" : "51.5%",
+    "difficulty" : "Medium",
+    "title" : "Shopping Offers",
+    "iD" : "638",
+    "url" : "https:\/\/leetcode.com\/problems\/shopping-offers"
+  },
+  {
+    "acceptance" : "26.6%",
+    "difficulty" : "Hard",
+    "title" : "Decode Ways II",
+    "iD" : "639",
+    "url" : "https:\/\/leetcode.com\/problems\/decode-ways-ii"
+  },
+  {
+    "acceptance" : "51.8%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Length of Pair Chain",
+    "iD" : "646",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-length-of-pair-chain"
+  },
+  {
+    "acceptance" : "60.6%",
+    "difficulty" : "Medium",
+    "title" : "Palindromic Substrings",
+    "iD" : "647",
+    "url" : "https:\/\/leetcode.com\/problems\/palindromic-substrings"
+  },
+  {
+    "acceptance" : "49.1%",
+    "difficulty" : "Medium",
+    "title" : "2 Keys Keyboard",
+    "iD" : "650",
+    "url" : "https:\/\/leetcode.com\/problems\/2-keys-keyboard"
+  },
+  {
+    "acceptance" : "40.1%",
+    "difficulty" : "Hard",
+    "title" : "Strange Printer",
+    "iD" : "664",
+    "url" : "https:\/\/leetcode.com\/problems\/strange-printer"
+  },
+  {
+    "acceptance" : "35.7%",
+    "difficulty" : "Medium",
+    "title" : "Number of Longest Increasing Subsequence",
+    "iD" : "673",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-longest-increasing-subsequence"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Medium",
+    "title" : "Knight Probability in Chessboard",
+    "iD" : "688",
+    "url" : "https:\/\/leetcode.com\/problems\/knight-probability-in-chessboard"
+  },
+  {
+    "acceptance" : "46.3%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "iD" : "689",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-sum-of-3-non-overlapping-subarrays"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Hard",
+    "title" : "Stickers to Spell Word",
+    "iD" : "691",
+    "url" : "https:\/\/leetcode.com\/problems\/stickers-to-spell-word"
+  },
+  {
+    "acceptance" : "45.0%",
+    "difficulty" : "Medium",
+    "title" : "Partition to K Equal Sum Subsets",
+    "iD" : "698",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-to-k-equal-sum-subsets"
+  },
+  {
+    "acceptance" : "58.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum ASCII Delete Sum for Two Strings",
+    "iD" : "712",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-ascii-delete-sum-for-two-strings"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Medium",
+    "title" : "Best Time to Buy and Sell Stock with Transaction Fee",
+    "iD" : "714",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-with-transaction-fee"
+  },
+  {
+    "acceptance" : "49.3%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Length of Repeated Subarray",
+    "iD" : "718",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-length-of-repeated-subarray"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Count Different Palindromic Subsequences",
+    "iD" : "730",
+    "url" : "https:\/\/leetcode.com\/problems\/count-different-palindromic-subsequences"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Delete and Earn",
+    "iD" : "740",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-and-earn"
+  },
+  {
+    "acceptance" : "33.9%",
+    "difficulty" : "Hard",
+    "title" : "Cherry Pickup",
+    "iD" : "741",
+    "url" : "https:\/\/leetcode.com\/problems\/cherry-pickup"
+  },
+  {
+    "acceptance" : "50.3%",
+    "difficulty" : "Easy",
+    "title" : "Min Cost Climbing Stairs",
+    "iD" : "746",
+    "url" : "https:\/\/leetcode.com\/problems\/min-cost-climbing-stairs"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Medium",
+    "title" : "Largest Plus Sign",
+    "iD" : "764",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-plus-sign"
+  },
+  {
+    "acceptance" : "39.3%",
+    "difficulty" : "Medium",
+    "title" : "Cheapest Flights Within K Stops",
+    "iD" : "787",
+    "url" : "https:\/\/leetcode.com\/problems\/cheapest-flights-within-k-stops"
+  },
+  {
+    "acceptance" : "39.2%",
+    "difficulty" : "Medium",
+    "title" : "Domino and Tromino Tiling",
+    "iD" : "790",
+    "url" : "https:\/\/leetcode.com\/problems\/domino-and-tromino-tiling"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Swaps To Make Sequences Increasing",
+    "iD" : "801",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-swaps-to-make-sequences-increasing"
+  },
+  {
+    "acceptance" : "39.9%",
+    "difficulty" : "Medium",
+    "title" : "Soup Servings",
+    "iD" : "808",
+    "url" : "https:\/\/leetcode.com\/problems\/soup-servings"
+  },
+  {
+    "acceptance" : "49.9%",
+    "difficulty" : "Medium",
+    "title" : "Largest Sum of Averages",
+    "iD" : "813",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-sum-of-averages"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Hard",
+    "title" : "Race Car",
+    "iD" : "818",
+    "url" : "https:\/\/leetcode.com\/problems\/race-car"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Medium",
+    "title" : "New 21 Game",
+    "iD" : "837",
+    "url" : "https:\/\/leetcode.com\/problems\/new-21-game"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Push Dominoes",
+    "iD" : "838",
+    "url" : "https:\/\/leetcode.com\/problems\/push-dominoes"
+  },
+  {
+    "acceptance" : "51.9%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Path Visiting All Nodes",
+    "iD" : "847",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-visiting-all-nodes"
+  },
+  {
+    "acceptance" : "31.4%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Number of Refueling Stops",
+    "iD" : "871",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-refueling-stops"
+  },
+  {
+    "acceptance" : "48.0%",
+    "difficulty" : "Medium",
+    "title" : "Length of Longest Fibonacci Subsequence",
+    "iD" : "873",
+    "url" : "https:\/\/leetcode.com\/problems\/length-of-longest-fibonacci-subsequence"
+  },
+  {
+    "acceptance" : "64.8%",
+    "difficulty" : "Medium",
+    "title" : "Stone Game",
+    "iD" : "877",
+    "url" : "https:\/\/leetcode.com\/problems\/stone-game"
+  },
+  {
+    "acceptance" : "39.7%",
+    "difficulty" : "Hard",
+    "title" : "Profitable Schemes",
+    "iD" : "879",
+    "url" : "https:\/\/leetcode.com\/problems\/profitable-schemes"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Super Egg Drop",
+    "iD" : "887",
+    "url" : "https:\/\/leetcode.com\/problems\/super-egg-drop"
+  },
+  {
+    "acceptance" : "34.8%",
+    "difficulty" : "Medium",
+    "title" : "Bitwise ORs of Subarrays",
+    "iD" : "898",
+    "url" : "https:\/\/leetcode.com\/problems\/bitwise-ors-of-subarrays"
+  },
+  {
+    "acceptance" : "31.5%",
+    "difficulty" : "Hard",
+    "title" : "Numbers At Most N Given Digit Set",
+    "iD" : "902",
+    "url" : "https:\/\/leetcode.com\/problems\/numbers-at-most-n-given-digit-set"
+  },
+  {
+    "acceptance" : "49.6%",
+    "difficulty" : "Hard",
+    "title" : "Valid Permutations for DI Sequence",
+    "iD" : "903",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-permutations-for-di-sequence"
+  },
+  {
+    "acceptance" : "46.5%",
+    "difficulty" : "Hard",
+    "title" : "Number of Music Playlists",
+    "iD" : "920",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-music-playlists"
+  },
+  {
+    "acceptance" : "62.4%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Falling Path Sum",
+    "iD" : "931",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-falling-path-sum"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Medium",
+    "title" : "Knight Dialer",
+    "iD" : "935",
+    "url" : "https:\/\/leetcode.com\/problems\/knight-dialer"
+  },
+  {
+    "acceptance" : "41.4%",
+    "difficulty" : "Hard",
+    "title" : "Distinct Subsequences II",
+    "iD" : "940",
+    "url" : "https:\/\/leetcode.com\/problems\/distinct-subsequences-ii"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Hard",
+    "title" : "Find the Shortest Superstring",
+    "iD" : "943",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-shortest-superstring"
+  },
+  {
+    "acceptance" : "39.7%",
+    "difficulty" : "Hard",
+    "title" : "Tallest Billboard",
+    "iD" : "956",
+    "url" : "https:\/\/leetcode.com\/problems\/tallest-billboard"
+  },
+  {
+    "acceptance" : "53.6%",
+    "difficulty" : "Hard",
+    "title" : "Delete Columns to Make Sorted III",
+    "iD" : "960",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-columns-to-make-sorted-iii"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Hard",
+    "title" : "Least Operators to Express Number",
+    "iD" : "964",
+    "url" : "https:\/\/leetcode.com\/problems\/least-operators-to-express-number"
+  },
+  {
+    "acceptance" : "39.4%",
+    "difficulty" : "Medium",
+    "title" : "Numbers With Same Consecutive Differences",
+    "iD" : "967",
+    "url" : "https:\/\/leetcode.com\/problems\/numbers-with-same-consecutive-differences"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Cameras",
+    "iD" : "968",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-cameras"
+  },
+  {
+    "acceptance" : "42.3%",
+    "difficulty" : "Hard",
+    "title" : "Odd Even Jump",
+    "iD" : "975",
+    "url" : "https:\/\/leetcode.com\/problems\/odd-even-jump"
+  },
+  {
+    "acceptance" : "46.6%",
+    "difficulty" : "Medium",
+    "title" : "Longest Turbulent Subarray",
+    "iD" : "978",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-turbulent-subarray"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Hard",
+    "title" : "Triples with Bitwise AND Equal To Zero",
+    "iD" : "982",
+    "url" : "https:\/\/leetcode.com\/problems\/triples-with-bitwise-and-equal-to-zero"
+  },
+  {
+    "acceptance" : "60.4%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Cost For Tickets",
+    "iD" : "983",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-cost-for-tickets"
+  },
+  {
+    "acceptance" : "39.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Cost to Merge Stones",
+    "iD" : "1000",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-cost-to-merge-stones"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Hard",
+    "title" : "Numbers With Repeated Digits",
+    "iD" : "1012",
+    "url" : "https:\/\/leetcode.com\/problems\/numbers-with-repeated-digits"
+  },
+  {
+    "acceptance" : "49.1%",
+    "difficulty" : "Medium",
+    "title" : "Video Stitching",
+    "iD" : "1024",
+    "url" : "https:\/\/leetcode.com\/problems\/video-stitching"
+  },
+  {
+    "acceptance" : "66.4%",
+    "difficulty" : "Easy",
+    "title" : "Divisor Game",
+    "iD" : "1025",
+    "url" : "https:\/\/leetcode.com\/problems\/divisor-game"
+  },
+  {
+    "acceptance" : "53.5%",
+    "difficulty" : "Medium",
+    "title" : "Longest Arithmetic Sequence",
+    "iD" : "1027",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-arithmetic-sequence"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Score Triangulation of Polygon",
+    "iD" : "1039",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-score-triangulation-of-polygon"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Medium",
+    "title" : "Longest String Chain",
+    "iD" : "1048",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-string-chain"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Medium",
+    "title" : "Last Stone Weight II",
+    "iD" : "1049",
+    "url" : "https:\/\/leetcode.com\/problems\/last-stone-weight-ii"
+  },
+  {
+    "acceptance" : "59.1%",
+    "difficulty" : "Hard",
+    "title" : "Number of Submatrices That Sum to Target",
+    "iD" : "1074",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-submatrices-that-sum-to-target"
+  },
+  {
+    "acceptance" : "51.6%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Common Supersequence ",
+    "iD" : "1092",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-common-supersequence"
+  },
+  {
+    "acceptance" : "58.1%",
+    "difficulty" : "Medium",
+    "title" : "Filling Bookcase Shelves",
+    "iD" : "1105",
+    "url" : "https:\/\/leetcode.com\/problems\/filling-bookcase-shelves"
+  },
+  {
+    "acceptance" : "46.5%",
+    "difficulty" : "Hard",
+    "title" : "Smallest Sufficient Team",
+    "iD" : "1125",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-sufficient-team"
+  },
+  {
+    "acceptance" : "60.9%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Falling Path Sum II",
+    "iD" : "1289",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-falling-path-sum-ii"
+  },
+  {
+    "acceptance" : "66.1%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Cost Tree From Leaf Values",
+    "iD" : "1130",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-cost-tree-from-leaf-values"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Hard",
+    "title" : "Number of Paths with Max Score",
+    "iD" : "1301",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-paths-with-max-score"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Largest 1-Bordered Square",
+    "iD" : "1139",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-1-bordered-square"
+  },
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Medium",
+    "title" : "Stone Game II",
+    "iD" : "1140",
+    "url" : "https:\/\/leetcode.com\/problems\/stone-game-ii"
+  },
+  {
+    "acceptance" : "73.8%",
+    "difficulty" : "Medium",
+    "title" : "Matrix Block Sum",
+    "iD" : "1314",
+    "url" : "https:\/\/leetcode.com\/problems\/matrix-block-sum"
+  },
+  {
+    "acceptance" : "58.4%",
+    "difficulty" : "Medium",
+    "title" : "Longest Common Subsequence",
+    "iD" : "1143",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-common-subsequence"
+  },
+  {
+    "acceptance" : "58.5%",
+    "difficulty" : "Hard",
+    "title" : "Longest Chunked Palindrome Decomposition",
+    "iD" : "1147",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-chunked-palindrome-decomposition"
+  },
+  {
+    "acceptance" : "49.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Dice Rolls With Target Sum",
+    "iD" : "1155",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-dice-rolls-with-target-sum"
+  },
+  {
+    "acceptance" : "33.5%",
+    "difficulty" : "Hard",
+    "title" : "Largest Multiple of Three",
+    "iD" : "1363",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-multiple-of-three"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Hard",
+    "title" : "Constrained Subsequence Sum",
+    "iD" : "1425",
+    "url" : "https:\/\/leetcode.com\/problems\/constrained-subsequence-sum"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Subarray Sum with One Deletion",
+    "iD" : "1186",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-subarray-sum-with-one-deletion"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Make Array Strictly Increasing",
+    "iD" : "1187",
+    "url" : "https:\/\/leetcode.com\/problems\/make-array-strictly-increasing"
+  },
+  {
+    "acceptance" : "27.6%",
+    "difficulty" : "Hard",
+    "title" : "Kth Ancestor of a Tree Node",
+    "iD" : "1483",
+    "url" : "https:\/\/leetcode.com\/problems\/kth-ancestor-of-a-tree-node"
+  },
+  {
+    "acceptance" : "25.9%",
+    "difficulty" : "Medium",
+    "title" : "K-Concatenation Maximum Sum",
+    "iD" : "1191",
+    "url" : "https:\/\/leetcode.com\/problems\/k-concatenation-maximum-sum"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Longest Happy String",
+    "iD" : "1405",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-happy-string"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Medium",
+    "title" : "Longest Arithmetic Subsequence of Given Difference",
+    "iD" : "1218",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-arithmetic-subsequence-of-given-difference"
+  },
+  {
+    "acceptance" : "53.9%",
+    "difficulty" : "Hard",
+    "title" : "Count Vowels Permutation",
+    "iD" : "1220",
+    "url" : "https:\/\/leetcode.com\/problems\/count-vowels-permutation"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Dice Roll Simulation",
+    "iD" : "1223",
+    "url" : "https:\/\/leetcode.com\/problems\/dice-roll-simulation"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Profit in Job Scheduling",
+    "iD" : "1235",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-profit-in-job-scheduling"
+  },
+  {
+    "acceptance" : "50.1%",
+    "difficulty" : "Hard",
+    "title" : "Tiling a Rectangle with the Fewest Squares",
+    "iD" : "1240",
+    "url" : "https:\/\/leetcode.com\/problems\/tiling-a-rectangle-with-the-fewest-squares"
+  },
+  {
+    "acceptance" : "61.0%",
+    "difficulty" : "Medium",
+    "title" : "Airplane Seat Assignment Probability",
+    "iD" : "1227",
+    "url" : "https:\/\/leetcode.com\/problems\/airplane-seat-assignment-probability"
+  },
+  {
+    "acceptance" : "47.6%",
+    "difficulty" : "Medium",
+    "title" : "Greatest Sum Divisible by Three",
+    "iD" : "1262",
+    "url" : "https:\/\/leetcode.com\/problems\/greatest-sum-divisible-by-three"
+  },
+  {
+    "acceptance" : "43.2%",
+    "difficulty" : "Hard",
+    "title" : "Number of Ways to Stay in the Same Place After Some Steps",
+    "iD" : "1269",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-ways-to-stay-in-the-same-place-after-some-steps"
+  },
+  {
+    "acceptance" : "73.1%",
+    "difficulty" : "Medium",
+    "title" : "Count Square Submatrices with All Ones",
+    "iD" : "1277",
+    "url" : "https:\/\/leetcode.com\/problems\/count-square-submatrices-with-all-ones"
+  },
+  {
+    "acceptance" : "59.9%",
+    "difficulty" : "Hard",
+    "title" : "Palindrome Partitioning III",
+    "iD" : "1278",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-partitioning-iii"
+  },
+  {
+    "acceptance" : "58.1%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Insertion Steps to Make a String Palindrome",
+    "iD" : "1312",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-insertion-steps-to-make-a-string-palindrome"
+  },
+  {
+    "acceptance" : "62.3%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Distance to Type a Word Using Two Fingers",
+    "iD" : "1320",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-distance-to-type-a-word-using-two-fingers"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Number of Taps to Open to Water a Garden",
+    "iD" : "1326",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "acceptance" : "57.5%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Difficulty of a Job Schedule",
+    "iD" : "1335",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-difficulty-of-a-job-schedule"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Hard",
+    "title" : "Count All Valid Pickup and Delivery Options",
+    "iD" : "1359",
+    "url" : "https:\/\/leetcode.com\/problems\/count-all-valid-pickup-and-delivery-options"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Product of Splitted Binary Tree",
+    "iD" : "1339",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-product-of-splitted-binary-tree"
+  },
+  {
+    "acceptance" : "57.5%",
+    "difficulty" : "Hard",
+    "title" : "Jump Game V",
+    "iD" : "1340",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game-v"
+  },
+  {
+    "acceptance" : "41.8%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Students Taking Exam",
+    "iD" : "1349",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-students-taking-exam"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "Longest ZigZag Path in a Binary Tree",
+    "iD" : "1372",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-zigzag-path-in-a-binary-tree"
+  },
+  {
+    "acceptance" : "40.2%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Sum BST in Binary Tree",
+    "iD" : "1373",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-sum-bst-in-binary-tree"
+  },
+  {
+    "acceptance" : "39.7%",
+    "difficulty" : "Medium",
+    "title" : "Linked List in Binary Tree",
+    "iD" : "1367",
+    "url" : "https:\/\/leetcode.com\/problems\/linked-list-in-binary-tree"
+  },
+  {
+    "acceptance" : "44.6%",
+    "difficulty" : "Hard",
+    "title" : "Pizza With 3n Slices",
+    "iD" : "1388",
+    "url" : "https:\/\/leetcode.com\/problems\/pizza-with-3n-slices"
+  },
+  {
+    "acceptance" : "72.8%",
+    "difficulty" : "Hard",
+    "title" : "Reducing Dishes",
+    "iD" : "1402",
+    "url" : "https:\/\/leetcode.com\/problems\/reducing-dishes"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Hard",
+    "title" : "Find All Good Strings",
+    "iD" : "1397",
+    "url" : "https:\/\/leetcode.com\/problems\/find-all-good-strings"
+  },
+  {
+    "acceptance" : "36.7%",
+    "difficulty" : "Hard",
+    "title" : "Restore The Array",
+    "iD" : "1416",
+    "url" : "https:\/\/leetcode.com\/problems\/restore-the-array"
+  },
+  {
+    "acceptance" : "56.0%",
+    "difficulty" : "Hard",
+    "title" : "Stone Game III",
+    "iD" : "1406",
+    "url" : "https:\/\/leetcode.com\/problems\/stone-game-iii"
+  },
+  {
+    "acceptance" : "61.2%",
+    "difficulty" : "Hard",
+    "title" : "Number of Ways to Paint N × 3 Grid",
+    "iD" : "1411",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-ways-to-paint-n-3-grid"
+  },
+  {
+    "acceptance" : "37.9%",
+    "difficulty" : "Hard",
+    "title" : "Number of Ways to Wear Different Hats to Each Other",
+    "iD" : "1434",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-ways-to-wear-different-hats-to-each-other"
+  },
+  {
+    "acceptance" : "65.2%",
+    "difficulty" : "Hard",
+    "title" : "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "iD" : "1420",
+    "url" : "https:\/\/leetcode.com\/problems\/build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+  },
+  {
+    "acceptance" : "42.5%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Points You Can Obtain from Cards",
+    "iD" : "1423",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-points-you-can-obtain-from-cards"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Form Largest Integer With Digits That Add up to Target",
+    "iD" : "1449",
+    "url" : "https:\/\/leetcode.com\/problems\/form-largest-integer-with-digits-that-add-up-to-target"
+  },
+  {
+    "acceptance" : "52.7%",
+    "difficulty" : "Hard",
+    "title" : "Number of Ways of Cutting a Pizza",
+    "iD" : "1444",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-ways-of-cutting-a-pizza"
+  },
+  {
+    "acceptance" : "65.5%",
+    "difficulty" : "Hard",
+    "title" : "Cherry Pickup II",
+    "iD" : "1463",
+    "url" : "https:\/\/leetcode.com\/problems\/cherry-pickup-ii"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Hard",
+    "title" : "Max Dot Product of Two Subsequences",
+    "iD" : "1458",
+    "url" : "https:\/\/leetcode.com\/problems\/max-dot-product-of-two-subsequences"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Hard",
+    "title" : "Allocate Mailboxes",
+    "iD" : "1478",
+    "url" : "https:\/\/leetcode.com\/problems\/allocate-mailboxes"
+  },
+  {
+    "acceptance" : "29.7%",
+    "difficulty" : "Medium",
+    "title" : "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+    "iD" : "1477",
+    "url" : "https:\/\/leetcode.com\/problems\/find-two-non-overlapping-sub-arrays-each-with-target-sum"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Hard",
+    "title" : "Paint House III",
+    "iD" : "1473",
+    "url" : "https:\/\/leetcode.com\/problems\/paint-house-iii"
+  },
+  {
+    "acceptance" : "50.1%",
+    "difficulty" : "Hard",
+    "title" : "Stone Game IV",
+    "iD" : "1510",
+    "url" : "https:\/\/leetcode.com\/problems\/stone-game-iv"
+  },
+  {
+    "acceptance" : "61.6%",
+    "difficulty" : "Medium",
+    "title" : "Count Submatrices With All Ones",
+    "iD" : "1504",
+    "url" : "https:\/\/leetcode.com\/problems\/count-submatrices-with-all-ones"
+  },
+  {
+    "acceptance" : "28.5%",
+    "difficulty" : "Hard",
+    "title" : "String Compression II",
+    "iD" : "1531",
+    "url" : "https:\/\/leetcode.com\/problems\/string-compression-ii"
+  },
+  {
+    "acceptance" : "35.7%",
+    "difficulty" : "Hard",
+    "title" : "Get the Maximum Score",
+    "iD" : "1537",
+    "url" : "https:\/\/leetcode.com\/problems\/get-the-maximum-score"
+  }
+]
+

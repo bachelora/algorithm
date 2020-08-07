@@ -1,0 +1,297 @@
+[
+  {
+    "acceptance" : "26.8%",
+    "difficulty" : "Hard",
+    "title" : "Regular Expression Matching",
+    "iD" : "10",
+    "url" : "https:\/\/leetcode.com\/problems\/regular-expression-matching"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Letter Combinations of a Phone Number",
+    "iD" : "17",
+    "url" : "https:\/\/leetcode.com\/problems\/letter-combinations-of-a-phone-number"
+  },
+  {
+    "acceptance" : "62.6%",
+    "difficulty" : "Medium",
+    "title" : "Generate Parentheses",
+    "iD" : "22",
+    "url" : "https:\/\/leetcode.com\/problems\/generate-parentheses"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Hard",
+    "title" : "Sudoku Solver",
+    "iD" : "37",
+    "url" : "https:\/\/leetcode.com\/problems\/sudoku-solver"
+  },
+  {
+    "acceptance" : "56.0%",
+    "difficulty" : "Medium",
+    "title" : "Combination Sum",
+    "iD" : "39",
+    "url" : "https:\/\/leetcode.com\/problems\/combination-sum"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Medium",
+    "title" : "Combination Sum II",
+    "iD" : "40",
+    "url" : "https:\/\/leetcode.com\/problems\/combination-sum-ii"
+  },
+  {
+    "acceptance" : "24.7%",
+    "difficulty" : "Hard",
+    "title" : "Wildcard Matching",
+    "iD" : "44",
+    "url" : "https:\/\/leetcode.com\/problems\/wildcard-matching"
+  },
+  {
+    "acceptance" : "63.5%",
+    "difficulty" : "Medium",
+    "title" : "Permutations",
+    "iD" : "46",
+    "url" : "https:\/\/leetcode.com\/problems\/permutations"
+  },
+  {
+    "acceptance" : "46.4%",
+    "difficulty" : "Medium",
+    "title" : "Permutations II",
+    "iD" : "47",
+    "url" : "https:\/\/leetcode.com\/problems\/permutations-ii"
+  },
+  {
+    "acceptance" : "46.6%",
+    "difficulty" : "Hard",
+    "title" : "N-Queens",
+    "iD" : "51",
+    "url" : "https:\/\/leetcode.com\/problems\/n-queens"
+  },
+  {
+    "acceptance" : "57.8%",
+    "difficulty" : "Hard",
+    "title" : "N-Queens II",
+    "iD" : "52",
+    "url" : "https:\/\/leetcode.com\/problems\/n-queens-ii"
+  },
+  {
+    "acceptance" : "38.4%",
+    "difficulty" : "Hard",
+    "title" : "Permutation Sequence",
+    "iD" : "60",
+    "url" : "https:\/\/leetcode.com\/problems\/permutation-sequence"
+  },
+  {
+    "acceptance" : "54.6%",
+    "difficulty" : "Medium",
+    "title" : "Combinations",
+    "iD" : "77",
+    "url" : "https:\/\/leetcode.com\/problems\/combinations"
+  },
+  {
+    "acceptance" : "61.9%",
+    "difficulty" : "Medium",
+    "title" : "Subsets",
+    "iD" : "78",
+    "url" : "https:\/\/leetcode.com\/problems\/subsets"
+  },
+  {
+    "acceptance" : "35.6%",
+    "difficulty" : "Medium",
+    "title" : "Word Search",
+    "iD" : "79",
+    "url" : "https:\/\/leetcode.com\/problems\/word-search"
+  },
+  {
+    "acceptance" : "49.1%",
+    "difficulty" : "Medium",
+    "title" : "Gray Code",
+    "iD" : "89",
+    "url" : "https:\/\/leetcode.com\/problems\/gray-code"
+  },
+  {
+    "acceptance" : "47.0%",
+    "difficulty" : "Medium",
+    "title" : "Subsets II",
+    "iD" : "90",
+    "url" : "https:\/\/leetcode.com\/problems\/subsets-ii"
+  },
+  {
+    "acceptance" : "35.5%",
+    "difficulty" : "Medium",
+    "title" : "Restore IP Addresses",
+    "iD" : "93",
+    "url" : "https:\/\/leetcode.com\/problems\/restore-ip-addresses"
+  },
+  {
+    "acceptance" : "22.1%",
+    "difficulty" : "Hard",
+    "title" : "Word Ladder II",
+    "iD" : "126",
+    "url" : "https:\/\/leetcode.com\/problems\/word-ladder-ii"
+  },
+  {
+    "acceptance" : "47.4%",
+    "difficulty" : "Medium",
+    "title" : "Palindrome Partitioning",
+    "iD" : "131",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-partitioning"
+  },
+  {
+    "acceptance" : "32.6%",
+    "difficulty" : "Hard",
+    "title" : "Word Break II",
+    "iD" : "140",
+    "url" : "https:\/\/leetcode.com\/problems\/word-break-ii"
+  },
+  {
+    "acceptance" : "38.0%",
+    "difficulty" : "Medium",
+    "title" : "Add and Search Word - Data structure design",
+    "iD" : "211",
+    "url" : "https:\/\/leetcode.com\/problems\/add-and-search-word-data-structure-design"
+  },
+  {
+    "acceptance" : "34.8%",
+    "difficulty" : "Hard",
+    "title" : "Word Search II",
+    "iD" : "212",
+    "url" : "https:\/\/leetcode.com\/problems\/word-search-ii"
+  },
+  {
+    "acceptance" : "56.5%",
+    "difficulty" : "Medium",
+    "title" : "Combination Sum III",
+    "iD" : "216",
+    "url" : "https:\/\/leetcode.com\/problems\/combination-sum-iii"
+  },
+  {
+    "acceptance" : "29.3%",
+    "difficulty" : "Medium",
+    "title" : "Additive Number",
+    "iD" : "306",
+    "url" : "https:\/\/leetcode.com\/problems\/additive-number"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Count Numbers with Unique Digits",
+    "iD" : "357",
+    "url" : "https:\/\/leetcode.com\/problems\/count-numbers-with-unique-digits"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Easy",
+    "title" : "Binary Watch",
+    "iD" : "401",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-watch"
+  },
+  {
+    "acceptance" : "57.8%",
+    "difficulty" : "Medium",
+    "title" : "Beautiful Arrangement",
+    "iD" : "526",
+    "url" : "https:\/\/leetcode.com\/problems\/beautiful-arrangement"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Hard",
+    "title" : "Stickers to Spell Word",
+    "iD" : "691",
+    "url" : "https:\/\/leetcode.com\/problems\/stickers-to-spell-word"
+  },
+  {
+    "acceptance" : "64.6%",
+    "difficulty" : "Medium",
+    "title" : "Letter Case Permutation",
+    "iD" : "784",
+    "url" : "https:\/\/leetcode.com\/problems\/letter-case-permutation"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Split Array into Fibonacci Sequence",
+    "iD" : "842",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-into-fibonacci-sequence"
+  },
+  {
+    "acceptance" : "73.3%",
+    "difficulty" : "Hard",
+    "title" : "Unique Paths III",
+    "iD" : "980",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-paths-iii"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Hard",
+    "title" : "Number of Squareful Arrays",
+    "iD" : "996",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-squareful-arrays"
+  },
+  {
+    "acceptance" : "75.4%",
+    "difficulty" : "Medium",
+    "title" : "Letter Tile Possibilities",
+    "iD" : "1079",
+    "url" : "https:\/\/leetcode.com\/problems\/letter-tile-possibilities"
+  },
+  {
+    "acceptance" : "68.1%",
+    "difficulty" : "Medium",
+    "title" : "Iterator for Combination",
+    "iD" : "1286",
+    "url" : "https:\/\/leetcode.com\/problems\/iterator-for-combination"
+  },
+  {
+    "acceptance" : "53.4%",
+    "difficulty" : "Medium",
+    "title" : "Sequential Digits",
+    "iD" : "1291",
+    "url" : "https:\/\/leetcode.com\/problems\/sequential-digits"
+  },
+  {
+    "acceptance" : "65.0%",
+    "difficulty" : "Medium",
+    "title" : "Path with Maximum Gold",
+    "iD" : "1219",
+    "url" : "https:\/\/leetcode.com\/problems\/path-with-maximum-gold"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Length of a Concatenated String with Unique Characters",
+    "iD" : "1239",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-length-of-a-concatenated-string-with-unique-characters"
+  },
+  {
+    "acceptance" : "50.1%",
+    "difficulty" : "Hard",
+    "title" : "Tiling a Rectangle with the Fewest Squares",
+    "iD" : "1240",
+    "url" : "https:\/\/leetcode.com\/problems\/tiling-a-rectangle-with-the-fewest-squares"
+  },
+  {
+    "acceptance" : "37.6%",
+    "difficulty" : "Hard",
+    "title" : "Verbal Arithmetic Puzzle",
+    "iD" : "1307",
+    "url" : "https:\/\/leetcode.com\/problems\/verbal-arithmetic-puzzle"
+  },
+  {
+    "acceptance" : "70.4%",
+    "difficulty" : "Medium",
+    "title" : "The k-th Lexicographical String of All Happy Strings of Length n",
+    "iD" : "1415",
+    "url" : "https:\/\/leetcode.com\/problems\/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
+  },
+  {
+    "acceptance" : "61.1%",
+    "difficulty" : "Hard",
+    "title" : "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "iD" : "1467",
+    "url" : "https:\/\/leetcode.com\/problems\/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls"
+  }
+]
+

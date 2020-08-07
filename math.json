@@ -1,0 +1,1081 @@
+[
+  {
+    "acceptance" : "33.9%",
+    "difficulty" : "Medium",
+    "title" : "Add Two Numbers",
+    "iD" : "2",
+    "url" : "https:\/\/leetcode.com\/problems\/add-two-numbers"
+  },
+  {
+    "acceptance" : "25.8%",
+    "difficulty" : "Easy",
+    "title" : "Reverse Integer",
+    "iD" : "7",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-integer"
+  },
+  {
+    "acceptance" : "15.4%",
+    "difficulty" : "Medium",
+    "title" : "String to Integer (atoi)",
+    "iD" : "8",
+    "url" : "https:\/\/leetcode.com\/problems\/string-to-integer-atoi"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Easy",
+    "title" : "Palindrome Number",
+    "iD" : "9",
+    "url" : "https:\/\/leetcode.com\/problems\/palindrome-number"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Medium",
+    "title" : "Integer to Roman",
+    "iD" : "12",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-to-roman"
+  },
+  {
+    "acceptance" : "55.7%",
+    "difficulty" : "Easy",
+    "title" : "Roman to Integer",
+    "iD" : "13",
+    "url" : "https:\/\/leetcode.com\/problems\/roman-to-integer"
+  },
+  {
+    "acceptance" : "16.4%",
+    "difficulty" : "Medium",
+    "title" : "Divide Two Integers",
+    "iD" : "29",
+    "url" : "https:\/\/leetcode.com\/problems\/divide-two-integers"
+  },
+  {
+    "acceptance" : "33.9%",
+    "difficulty" : "Medium",
+    "title" : "Multiply Strings",
+    "iD" : "43",
+    "url" : "https:\/\/leetcode.com\/problems\/multiply-strings"
+  },
+  {
+    "acceptance" : "30.3%",
+    "difficulty" : "Medium",
+    "title" : "Pow(x, n)",
+    "iD" : "50",
+    "url" : "https:\/\/leetcode.com\/problems\/powx-n"
+  },
+  {
+    "acceptance" : "38.4%",
+    "difficulty" : "Hard",
+    "title" : "Permutation Sequence",
+    "iD" : "60",
+    "url" : "https:\/\/leetcode.com\/problems\/permutation-sequence"
+  },
+  {
+    "acceptance" : "15.3%",
+    "difficulty" : "Hard",
+    "title" : "Valid Number",
+    "iD" : "65",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-number"
+  },
+  {
+    "acceptance" : "45.2%",
+    "difficulty" : "Easy",
+    "title" : "Add Binary",
+    "iD" : "67",
+    "url" : "https:\/\/leetcode.com\/problems\/add-binary"
+  },
+  {
+    "acceptance" : "33.9%",
+    "difficulty" : "Easy",
+    "title" : "Sqrt(x)",
+    "iD" : "69",
+    "url" : "https:\/\/leetcode.com\/problems\/sqrtx"
+  },
+  {
+    "acceptance" : "16.9%",
+    "difficulty" : "Hard",
+    "title" : "Max Points on a Line",
+    "iD" : "149",
+    "url" : "https:\/\/leetcode.com\/problems\/max-points-on-a-line"
+  },
+  {
+    "acceptance" : "21.6%",
+    "difficulty" : "Medium",
+    "title" : "Fraction to Recurring Decimal",
+    "iD" : "166",
+    "url" : "https:\/\/leetcode.com\/problems\/fraction-to-recurring-decimal"
+  },
+  {
+    "acceptance" : "31.0%",
+    "difficulty" : "Easy",
+    "title" : "Excel Sheet Column Title",
+    "iD" : "168",
+    "url" : "https:\/\/leetcode.com\/problems\/excel-sheet-column-title"
+  },
+  {
+    "acceptance" : "54.6%",
+    "difficulty" : "Easy",
+    "title" : "Excel Sheet Column Number",
+    "iD" : "171",
+    "url" : "https:\/\/leetcode.com\/problems\/excel-sheet-column-number"
+  },
+  {
+    "acceptance" : "37.8%",
+    "difficulty" : "Easy",
+    "title" : "Factorial Trailing Zeroes",
+    "iD" : "172",
+    "url" : "https:\/\/leetcode.com\/problems\/factorial-trailing-zeroes"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Easy",
+    "title" : "Happy Number",
+    "iD" : "202",
+    "url" : "https:\/\/leetcode.com\/problems\/happy-number"
+  },
+  {
+    "acceptance" : "31.4%",
+    "difficulty" : "Easy",
+    "title" : "Count Primes",
+    "iD" : "204",
+    "url" : "https:\/\/leetcode.com\/problems\/count-primes"
+  },
+  {
+    "acceptance" : "37.8%",
+    "difficulty" : "Medium",
+    "title" : "Rectangle Area",
+    "iD" : "223",
+    "url" : "https:\/\/leetcode.com\/problems\/rectangle-area"
+  },
+  {
+    "acceptance" : "36.8%",
+    "difficulty" : "Hard",
+    "title" : "Basic Calculator",
+    "iD" : "224",
+    "url" : "https:\/\/leetcode.com\/problems\/basic-calculator"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Easy",
+    "title" : "Power of Two",
+    "iD" : "231",
+    "url" : "https:\/\/leetcode.com\/problems\/power-of-two"
+  },
+  {
+    "acceptance" : "31.3%",
+    "difficulty" : "Hard",
+    "title" : "Number of Digit One",
+    "iD" : "233",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-digit-one"
+  },
+  {
+    "acceptance" : "57.6%",
+    "difficulty" : "Easy",
+    "title" : "Add Digits",
+    "iD" : "258",
+    "url" : "https:\/\/leetcode.com\/problems\/add-digits"
+  },
+  {
+    "acceptance" : "41.6%",
+    "difficulty" : "Easy",
+    "title" : "Ugly Number",
+    "iD" : "263",
+    "url" : "https:\/\/leetcode.com\/problems\/ugly-number"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Medium",
+    "title" : "Ugly Number II",
+    "iD" : "264",
+    "url" : "https:\/\/leetcode.com\/problems\/ugly-number-ii"
+  },
+  {
+    "acceptance" : "51.7%",
+    "difficulty" : "Easy",
+    "title" : "Missing Number",
+    "iD" : "268",
+    "url" : "https:\/\/leetcode.com\/problems\/missing-number"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Integer to English Words",
+    "iD" : "273",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-to-english-words"
+  },
+  {
+    "acceptance" : "47.3%",
+    "difficulty" : "Medium",
+    "title" : "Perfect Squares",
+    "iD" : "279",
+    "url" : "https:\/\/leetcode.com\/problems\/perfect-squares"
+  },
+  {
+    "acceptance" : "45.0%",
+    "difficulty" : "Medium",
+    "title" : "Super Ugly Number",
+    "iD" : "313",
+    "url" : "https:\/\/leetcode.com\/problems\/super-ugly-number"
+  },
+  {
+    "acceptance" : "45.4%",
+    "difficulty" : "Medium",
+    "title" : "Bulb Switcher",
+    "iD" : "319",
+    "url" : "https:\/\/leetcode.com\/problems\/bulb-switcher"
+  },
+  {
+    "acceptance" : "42.1%",
+    "difficulty" : "Easy",
+    "title" : "Power of Three",
+    "iD" : "326",
+    "url" : "https:\/\/leetcode.com\/problems\/power-of-three"
+  },
+  {
+    "acceptance" : "28.0%",
+    "difficulty" : "Hard",
+    "title" : "Self Crossing",
+    "iD" : "335",
+    "url" : "https:\/\/leetcode.com\/problems\/self-crossing"
+  },
+  {
+    "acceptance" : "50.4%",
+    "difficulty" : "Medium",
+    "title" : "Integer Break",
+    "iD" : "343",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-break"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Medium",
+    "title" : "Count Numbers with Unique Digits",
+    "iD" : "357",
+    "url" : "https:\/\/leetcode.com\/problems\/count-numbers-with-unique-digits"
+  },
+  {
+    "acceptance" : "30.6%",
+    "difficulty" : "Medium",
+    "title" : "Water and Jug Problem",
+    "iD" : "365",
+    "url" : "https:\/\/leetcode.com\/problems\/water-and-jug-problem"
+  },
+  {
+    "acceptance" : "41.7%",
+    "difficulty" : "Easy",
+    "title" : "Valid Perfect Square",
+    "iD" : "367",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-perfect-square"
+  },
+  {
+    "acceptance" : "38.1%",
+    "difficulty" : "Medium",
+    "title" : "Largest Divisible Subset",
+    "iD" : "368",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-divisible-subset"
+  },
+  {
+    "acceptance" : "36.4%",
+    "difficulty" : "Medium",
+    "title" : "Super Pow",
+    "iD" : "372",
+    "url" : "https:\/\/leetcode.com\/problems\/super-pow"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Rotate Function",
+    "iD" : "396",
+    "url" : "https:\/\/leetcode.com\/problems\/rotate-function"
+  },
+  {
+    "acceptance" : "32.9%",
+    "difficulty" : "Medium",
+    "title" : "Integer Replacement",
+    "iD" : "397",
+    "url" : "https:\/\/leetcode.com\/problems\/integer-replacement"
+  },
+  {
+    "acceptance" : "31.7%",
+    "difficulty" : "Medium",
+    "title" : "Nth Digit",
+    "iD" : "400",
+    "url" : "https:\/\/leetcode.com\/problems\/nth-digit"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Medium",
+    "title" : "Arithmetic Slices",
+    "iD" : "413",
+    "url" : "https:\/\/leetcode.com\/problems\/arithmetic-slices"
+  },
+  {
+    "acceptance" : "46.9%",
+    "difficulty" : "Medium",
+    "title" : "Reconstruct Original Digits from English",
+    "iD" : "423",
+    "url" : "https:\/\/leetcode.com\/problems\/reconstruct-original-digits-from-english"
+  },
+  {
+    "acceptance" : "41.8%",
+    "difficulty" : "Easy",
+    "title" : "Arranging Coins",
+    "iD" : "441",
+    "url" : "https:\/\/leetcode.com\/problems\/arranging-coins"
+  },
+  {
+    "acceptance" : "50.2%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Moves to Equal Array Elements",
+    "iD" : "453",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-moves-to-equal-array-elements"
+  },
+  {
+    "acceptance" : "47.4%",
+    "difficulty" : "Hard",
+    "title" : "Poor Pigs",
+    "iD" : "458",
+    "url" : "https:\/\/leetcode.com\/problems\/poor-pigs"
+  },
+  {
+    "acceptance" : "53.7%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Moves to Equal Array Elements II",
+    "iD" : "462",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-moves-to-equal-array-elements-ii"
+  },
+  {
+    "acceptance" : "35.7%",
+    "difficulty" : "Hard",
+    "title" : "Smallest Good Base",
+    "iD" : "483",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-good-base"
+  },
+  {
+    "acceptance" : "35.5%",
+    "difficulty" : "Easy",
+    "title" : "Perfect Number",
+    "iD" : "507",
+    "url" : "https:\/\/leetcode.com\/problems\/perfect-number"
+  },
+  {
+    "acceptance" : "38.3%",
+    "difficulty" : "Hard",
+    "title" : "Super Washing Machines",
+    "iD" : "517",
+    "url" : "https:\/\/leetcode.com\/problems\/super-washing-machines"
+  },
+  {
+    "acceptance" : "24.6%",
+    "difficulty" : "Medium",
+    "title" : "Continuous Subarray Sum",
+    "iD" : "523",
+    "url" : "https:\/\/leetcode.com\/problems\/continuous-subarray-sum"
+  },
+  {
+    "acceptance" : "79.8%",
+    "difficulty" : "Medium",
+    "title" : "Encode and Decode TinyURL",
+    "iD" : "535",
+    "url" : "https:\/\/leetcode.com\/problems\/encode-and-decode-tinyurl"
+  },
+  {
+    "acceptance" : "67.4%",
+    "difficulty" : "Medium",
+    "title" : "Complex Number Multiplication",
+    "iD" : "537",
+    "url" : "https:\/\/leetcode.com\/problems\/complex-number-multiplication"
+  },
+  {
+    "acceptance" : "56.7%",
+    "difficulty" : "Medium",
+    "title" : "Optimal Division",
+    "iD" : "553",
+    "url" : "https:\/\/leetcode.com\/problems\/optimal-division"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Fraction Addition and Subtraction",
+    "iD" : "592",
+    "url" : "https:\/\/leetcode.com\/problems\/fraction-addition-and-subtraction"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Valid Square",
+    "iD" : "593",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-square"
+  },
+  {
+    "acceptance" : "49.6%",
+    "difficulty" : "Easy",
+    "title" : "Range Addition II",
+    "iD" : "598",
+    "url" : "https:\/\/leetcode.com\/problems\/range-addition-ii"
+  },
+  {
+    "acceptance" : "47.1%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Product of Three Numbers",
+    "iD" : "628",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-product-of-three-numbers"
+  },
+  {
+    "acceptance" : "32.2%",
+    "difficulty" : "Easy",
+    "title" : "Sum of Square Numbers",
+    "iD" : "633",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-square-numbers"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Medium",
+    "title" : "Solve the Equation",
+    "iD" : "640",
+    "url" : "https:\/\/leetcode.com\/problems\/solve-the-equation"
+  },
+  {
+    "acceptance" : "42.1%",
+    "difficulty" : "Easy",
+    "title" : "Set Mismatch",
+    "iD" : "645",
+    "url" : "https:\/\/leetcode.com\/problems\/set-mismatch"
+  },
+  {
+    "acceptance" : "43.6%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Swap",
+    "iD" : "670",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-swap"
+  },
+  {
+    "acceptance" : "50.9%",
+    "difficulty" : "Medium",
+    "title" : "Bulb Switcher II",
+    "iD" : "672",
+    "url" : "https:\/\/leetcode.com\/problems\/bulb-switcher-ii"
+  },
+  {
+    "acceptance" : "74.3%",
+    "difficulty" : "Easy",
+    "title" : "Self Dividing Numbers",
+    "iD" : "728",
+    "url" : "https:\/\/leetcode.com\/problems\/self-dividing-numbers"
+  },
+  {
+    "acceptance" : "50.5%",
+    "difficulty" : "Hard",
+    "title" : "Cracking the Safe",
+    "iD" : "753",
+    "url" : "https:\/\/leetcode.com\/problems\/cracking-the-safe"
+  },
+  {
+    "acceptance" : "34.7%",
+    "difficulty" : "Medium",
+    "title" : "Reach a Number",
+    "iD" : "754",
+    "url" : "https:\/\/leetcode.com\/problems\/reach-a-number"
+  },
+  {
+    "acceptance" : "42.1%",
+    "difficulty" : "Medium",
+    "title" : "Global and Local Inversions",
+    "iD" : "775",
+    "url" : "https:\/\/leetcode.com\/problems\/global-and-local-inversions"
+  },
+  {
+    "acceptance" : "29.3%",
+    "difficulty" : "Hard",
+    "title" : "Reaching Points",
+    "iD" : "780",
+    "url" : "https:\/\/leetcode.com\/problems\/reaching-points"
+  },
+  {
+    "acceptance" : "54.5%",
+    "difficulty" : "Medium",
+    "title" : "Rabbits in Forest",
+    "iD" : "781",
+    "url" : "https:\/\/leetcode.com\/problems\/rabbits-in-forest"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Hard",
+    "title" : "Transform to Chessboard",
+    "iD" : "782",
+    "url" : "https:\/\/leetcode.com\/problems\/transform-to-chessboard"
+  },
+  {
+    "acceptance" : "57.5%",
+    "difficulty" : "Medium",
+    "title" : "Escape The Ghosts",
+    "iD" : "789",
+    "url" : "https:\/\/leetcode.com\/problems\/escape-the-ghosts"
+  },
+  {
+    "acceptance" : "32.6%",
+    "difficulty" : "Medium",
+    "title" : "Valid Tic-Tac-Toe State",
+    "iD" : "794",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-tic-tac-toe-state"
+  },
+  {
+    "acceptance" : "26.3%",
+    "difficulty" : "Hard",
+    "title" : "Split Array With Same Average",
+    "iD" : "805",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-with-same-average"
+  },
+  {
+    "acceptance" : "48.2%",
+    "difficulty" : "Hard",
+    "title" : "Chalkboard XOR Game",
+    "iD" : "810",
+    "url" : "https:\/\/leetcode.com\/problems\/chalkboard-xor-game"
+  },
+  {
+    "acceptance" : "58.3%",
+    "difficulty" : "Easy",
+    "title" : "Largest Triangle Area",
+    "iD" : "812",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-triangle-area"
+  },
+  {
+    "acceptance" : "37.3%",
+    "difficulty" : "Hard",
+    "title" : "Consecutive Numbers Sum",
+    "iD" : "829",
+    "url" : "https:\/\/leetcode.com\/problems\/consecutive-numbers-sum"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Easy",
+    "title" : "Rectangle Overlap",
+    "iD" : "836",
+    "url" : "https:\/\/leetcode.com\/problems\/rectangle-overlap"
+  },
+  {
+    "acceptance" : "53.7%",
+    "difficulty" : "Medium",
+    "title" : "Mirror Reflection",
+    "iD" : "858",
+    "url" : "https:\/\/leetcode.com\/problems\/mirror-reflection"
+  },
+  {
+    "acceptance" : "24.9%",
+    "difficulty" : "Medium",
+    "title" : "Prime Palindrome",
+    "iD" : "866",
+    "url" : "https:\/\/leetcode.com\/problems\/prime-palindrome"
+  },
+  {
+    "acceptance" : "60.6%",
+    "difficulty" : "Easy",
+    "title" : "Binary Gap",
+    "iD" : "868",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-gap"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Medium",
+    "title" : "Reordered Power of 2",
+    "iD" : "869",
+    "url" : "https:\/\/leetcode.com\/problems\/reordered-power-of-2"
+  },
+  {
+    "acceptance" : "64.8%",
+    "difficulty" : "Medium",
+    "title" : "Stone Game",
+    "iD" : "877",
+    "url" : "https:\/\/leetcode.com\/problems\/stone-game"
+  },
+  {
+    "acceptance" : "28.4%",
+    "difficulty" : "Hard",
+    "title" : "Nth Magical Number",
+    "iD" : "878",
+    "url" : "https:\/\/leetcode.com\/problems\/nth-magical-number"
+  },
+  {
+    "acceptance" : "38.5%",
+    "difficulty" : "Medium",
+    "title" : "Generate Random Point in a Circle",
+    "iD" : "478",
+    "url" : "https:\/\/leetcode.com\/problems\/generate-random-point-in-a-circle"
+  },
+  {
+    "acceptance" : "67.7%",
+    "difficulty" : "Easy",
+    "title" : "Projection Area of 3D Shapes",
+    "iD" : "883",
+    "url" : "https:\/\/leetcode.com\/problems\/projection-area-of-3d-shapes"
+  },
+  {
+    "acceptance" : "69.3%",
+    "difficulty" : "Medium",
+    "title" : "Spiral Matrix III",
+    "iD" : "885",
+    "url" : "https:\/\/leetcode.com\/problems\/spiral-matrix-iii"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Super Egg Drop",
+    "iD" : "887",
+    "url" : "https:\/\/leetcode.com\/problems\/super-egg-drop"
+  },
+  {
+    "acceptance" : "31.8%",
+    "difficulty" : "Hard",
+    "title" : "Sum of Subsequence Widths",
+    "iD" : "891",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-subsequence-widths"
+  },
+  {
+    "acceptance" : "58.9%",
+    "difficulty" : "Easy",
+    "title" : "Surface Area of 3D Shapes",
+    "iD" : "892",
+    "url" : "https:\/\/leetcode.com\/problems\/surface-area-of-3d-shapes"
+  },
+  {
+    "acceptance" : "52.1%",
+    "difficulty" : "Hard",
+    "title" : "Orderly Queue",
+    "iD" : "899",
+    "url" : "https:\/\/leetcode.com\/problems\/orderly-queue"
+  },
+  {
+    "acceptance" : "31.5%",
+    "difficulty" : "Hard",
+    "title" : "Numbers At Most N Given Digit Set",
+    "iD" : "902",
+    "url" : "https:\/\/leetcode.com\/problems\/numbers-at-most-n-given-digit-set"
+  },
+  {
+    "acceptance" : "32.7%",
+    "difficulty" : "Hard",
+    "title" : "Super Palindromes",
+    "iD" : "906",
+    "url" : "https:\/\/leetcode.com\/problems\/super-palindromes"
+  },
+  {
+    "acceptance" : "65.8%",
+    "difficulty" : "Easy",
+    "title" : "Smallest Range I",
+    "iD" : "908",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-i"
+  },
+  {
+    "acceptance" : "26.6%",
+    "difficulty" : "Medium",
+    "title" : "Smallest Range II",
+    "iD" : "910",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-ii"
+  },
+  {
+    "acceptance" : "34.8%",
+    "difficulty" : "Easy",
+    "title" : "X of a Kind in a Deck of Cards",
+    "iD" : "914",
+    "url" : "https:\/\/leetcode.com\/problems\/x-of-a-kind-in-a-deck-of-cards"
+  },
+  {
+    "acceptance" : "33.6%",
+    "difficulty" : "Hard",
+    "title" : "Three Equal Parts",
+    "iD" : "927",
+    "url" : "https:\/\/leetcode.com\/problems\/three-equal-parts"
+  },
+  {
+    "acceptance" : "72.6%",
+    "difficulty" : "Easy",
+    "title" : "DI String Match",
+    "iD" : "942",
+    "url" : "https:\/\/leetcode.com\/problems\/di-string-match"
+  },
+  {
+    "acceptance" : "35.9%",
+    "difficulty" : "Easy",
+    "title" : "Largest Time for Given Digits",
+    "iD" : "949",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-time-for-given-digits"
+  },
+  {
+    "acceptance" : "30.3%",
+    "difficulty" : "Hard",
+    "title" : "Largest Component Size by Common Factor",
+    "iD" : "952",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-component-size-by-common-factor"
+  },
+  {
+    "acceptance" : "50.8%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Area Rectangle II",
+    "iD" : "963",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-area-rectangle-ii"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Hard",
+    "title" : "Least Operators to Express Number",
+    "iD" : "964",
+    "url" : "https:\/\/leetcode.com\/problems\/least-operators-to-express-number"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Easy",
+    "title" : "Powerful Integers",
+    "iD" : "970",
+    "url" : "https:\/\/leetcode.com\/problems\/powerful-integers"
+  },
+  {
+    "acceptance" : "41.6%",
+    "difficulty" : "Hard",
+    "title" : "Equal Rational Numbers",
+    "iD" : "972",
+    "url" : "https:\/\/leetcode.com\/problems\/equal-rational-numbers"
+  },
+  {
+    "acceptance" : "57.6%",
+    "difficulty" : "Easy",
+    "title" : "Largest Perimeter Triangle",
+    "iD" : "976",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-perimeter-triangle"
+  },
+  {
+    "acceptance" : "45.5%",
+    "difficulty" : "Medium",
+    "title" : "Broken Calculator",
+    "iD" : "991",
+    "url" : "https:\/\/leetcode.com\/problems\/broken-calculator"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Hard",
+    "title" : "Number of Squareful Arrays",
+    "iD" : "996",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-squareful-arrays"
+  },
+  {
+    "acceptance" : "53.4%",
+    "difficulty" : "Medium",
+    "title" : "Clumsy Factorial",
+    "iD" : "1006",
+    "url" : "https:\/\/leetcode.com\/problems\/clumsy-factorial"
+  },
+  {
+    "acceptance" : "59.6%",
+    "difficulty" : "Easy",
+    "title" : "Complement of Base 10 Integer",
+    "iD" : "1009",
+    "url" : "https:\/\/leetcode.com\/problems\/complement-of-base-10-integer"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Hard",
+    "title" : "Numbers With Repeated Digits",
+    "iD" : "1012",
+    "url" : "https:\/\/leetcode.com\/problems\/numbers-with-repeated-digits"
+  },
+  {
+    "acceptance" : "32.1%",
+    "difficulty" : "Medium",
+    "title" : "Smallest Integer Divisible by K",
+    "iD" : "1015",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-integer-divisible-by-k"
+  },
+  {
+    "acceptance" : "59.0%",
+    "difficulty" : "Medium",
+    "title" : "Convert to Base -2",
+    "iD" : "1017",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-to-base-2"
+  },
+  {
+    "acceptance" : "66.4%",
+    "difficulty" : "Easy",
+    "title" : "Divisor Game",
+    "iD" : "1025",
+    "url" : "https:\/\/leetcode.com\/problems\/divisor-game"
+  },
+  {
+    "acceptance" : "37.9%",
+    "difficulty" : "Easy",
+    "title" : "Valid Boomerang",
+    "iD" : "1037",
+    "url" : "https:\/\/leetcode.com\/problems\/valid-boomerang"
+  },
+  {
+    "acceptance" : "49.5%",
+    "difficulty" : "Medium",
+    "title" : "Robot Bounded In Circle",
+    "iD" : "1041",
+    "url" : "https:\/\/leetcode.com\/problems\/robot-bounded-in-circle"
+  },
+  {
+    "acceptance" : "34.0%",
+    "difficulty" : "Medium",
+    "title" : "Adding Two Negabinary Numbers",
+    "iD" : "1073",
+    "url" : "https:\/\/leetcode.com\/problems\/adding-two-negabinary-numbers"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Medium",
+    "title" : "Statistics from a Large Sample",
+    "iD" : "1093",
+    "url" : "https:\/\/leetcode.com\/problems\/statistics-from-a-large-sample"
+  },
+  {
+    "acceptance" : "71.9%",
+    "difficulty" : "Medium",
+    "title" : "Path In Zigzag Labelled Binary Tree",
+    "iD" : "1104",
+    "url" : "https:\/\/leetcode.com\/problems\/path-in-zigzag-labelled-binary-tree"
+  },
+  {
+    "acceptance" : "60.5%",
+    "difficulty" : "Easy",
+    "title" : "Distribute Candies to People",
+    "iD" : "1103",
+    "url" : "https:\/\/leetcode.com\/problems\/distribute-candies-to-people"
+  },
+  {
+    "acceptance" : "52.8%",
+    "difficulty" : "Medium",
+    "title" : "Corporate Flight Bookings",
+    "iD" : "1109",
+    "url" : "https:\/\/leetcode.com\/problems\/corporate-flight-bookings"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "Maximum of Absolute Value Expression",
+    "iD" : "1131",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-of-absolute-value-expression"
+  },
+  {
+    "acceptance" : "35.0%",
+    "difficulty" : "Hard",
+    "title" : "Reverse Subarray To Maximize Array Value",
+    "iD" : "1330",
+    "url" : "https:\/\/leetcode.com\/problems\/reverse-subarray-to-maximize-array-value"
+  },
+  {
+    "acceptance" : "49.3%",
+    "difficulty" : "Easy",
+    "title" : "Day of the Year",
+    "iD" : "1154",
+    "url" : "https:\/\/leetcode.com\/problems\/day-of-the-year"
+  },
+  {
+    "acceptance" : "56.7%",
+    "difficulty" : "Medium",
+    "title" : "Closest Divisors",
+    "iD" : "1362",
+    "url" : "https:\/\/leetcode.com\/problems\/closest-divisors"
+  },
+  {
+    "acceptance" : "33.5%",
+    "difficulty" : "Hard",
+    "title" : "Largest Multiple of Three",
+    "iD" : "1363",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-multiple-of-three"
+  },
+  {
+    "acceptance" : "51.0%",
+    "difficulty" : "Easy",
+    "title" : "Prime Arrangements",
+    "iD" : "1175",
+    "url" : "https:\/\/leetcode.com\/problems\/prime-arrangements"
+  },
+  {
+    "acceptance" : "38.1%",
+    "difficulty" : "Medium",
+    "title" : "Four Divisors",
+    "iD" : "1390",
+    "url" : "https:\/\/leetcode.com\/problems\/four-divisors"
+  },
+  {
+    "acceptance" : "25.9%",
+    "difficulty" : "Medium",
+    "title" : "Ugly Number III",
+    "iD" : "1201",
+    "url" : "https:\/\/leetcode.com\/problems\/ugly-number-iii"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Easy",
+    "title" : "Play with Chips",
+    "iD" : "1217",
+    "url" : "https:\/\/leetcode.com\/problems\/play-with-chips"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Medium",
+    "title" : "Longest Arithmetic Subsequence of Given Difference",
+    "iD" : "1218",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-arithmetic-subsequence-of-given-difference"
+  },
+  {
+    "acceptance" : "45.3%",
+    "difficulty" : "Easy",
+    "title" : "Check If It Is a Straight Line",
+    "iD" : "1232",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-it-is-a-straight-line"
+  },
+  {
+    "acceptance" : "69.6%",
+    "difficulty" : "Easy",
+    "title" : "Find Positive Integer Solution for a Given Equation",
+    "iD" : "1237",
+    "url" : "https:\/\/leetcode.com\/problems\/find-positive-integer-solution-for-a-given-equation"
+  },
+  {
+    "acceptance" : "64.9%",
+    "difficulty" : "Medium",
+    "title" : "Circular Permutation in Binary Representation",
+    "iD" : "1238",
+    "url" : "https:\/\/leetcode.com\/problems\/circular-permutation-in-binary-representation"
+  },
+  {
+    "acceptance" : "61.0%",
+    "difficulty" : "Medium",
+    "title" : "Airplane Seat Assignment Probability",
+    "iD" : "1227",
+    "url" : "https:\/\/leetcode.com\/problems\/airplane-seat-assignment-probability"
+  },
+  {
+    "acceptance" : "55.7%",
+    "difficulty" : "Hard",
+    "title" : "Check If It Is a Good Array",
+    "iD" : "1250",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-it-is-a-good-array"
+  },
+  {
+    "acceptance" : "40.4%",
+    "difficulty" : "Medium",
+    "title" : "Reconstruct a 2-Row Binary Matrix",
+    "iD" : "1253",
+    "url" : "https:\/\/leetcode.com\/problems\/reconstruct-a-2-row-binary-matrix"
+  },
+  {
+    "acceptance" : "49.6%",
+    "difficulty" : "Medium",
+    "title" : "Number of Burgers with No Waste of Ingredients",
+    "iD" : "1276",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-burgers-with-no-waste-of-ingredients"
+  },
+  {
+    "acceptance" : "85.1%",
+    "difficulty" : "Easy",
+    "title" : "Subtract the Product and Sum of Digits of an Integer",
+    "iD" : "1281",
+    "url" : "https:\/\/leetcode.com\/problems\/subtract-the-product-and-sum-of-digits-of-an-integer"
+  },
+  {
+    "acceptance" : "37.6%",
+    "difficulty" : "Hard",
+    "title" : "Verbal Arithmetic Puzzle",
+    "iD" : "1307",
+    "url" : "https:\/\/leetcode.com\/problems\/verbal-arithmetic-puzzle"
+  },
+  {
+    "acceptance" : "56.8%",
+    "difficulty" : "Easy",
+    "title" : "Convert Integer to the Sum of Two No-Zero Integers",
+    "iD" : "1317",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-integer-to-the-sum-of-two-no-zero-integers"
+  },
+  {
+    "acceptance" : "61.4%",
+    "difficulty" : "Medium",
+    "title" : "Angle Between Hands of a Clock",
+    "iD" : "1344",
+    "url" : "https:\/\/leetcode.com\/problems\/angle-between-hands-of-a-clock"
+  },
+  {
+    "acceptance" : "77.9%",
+    "difficulty" : "Easy",
+    "title" : "Maximum 69 Number",
+    "iD" : "1323",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-69-number"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Hard",
+    "title" : "Count All Valid Pickup and Delivery Options",
+    "iD" : "1359",
+    "url" : "https:\/\/leetcode.com\/problems\/count-all-valid-pickup-and-delivery-options"
+  },
+  {
+    "acceptance" : "60.9%",
+    "difficulty" : "Medium",
+    "title" : "Simplified Fractions",
+    "iD" : "1447",
+    "url" : "https:\/\/leetcode.com\/problems\/simplified-fractions"
+  },
+  {
+    "acceptance" : "69.3%",
+    "difficulty" : "Medium",
+    "title" : "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "iD" : "1442",
+    "url" : "https:\/\/leetcode.com\/problems\/count-triplets-that-can-form-two-arrays-of-equal-xor"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Hard",
+    "title" : "Allocate Mailboxes",
+    "iD" : "1478",
+    "url" : "https:\/\/leetcode.com\/problems\/allocate-mailboxes"
+  },
+  {
+    "acceptance" : "61.1%",
+    "difficulty" : "Hard",
+    "title" : "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "iD" : "1467",
+    "url" : "https:\/\/leetcode.com\/problems\/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls"
+  },
+  {
+    "acceptance" : "68.0%",
+    "difficulty" : "Medium",
+    "title" : "The kth Factor of n",
+    "iD" : "1492",
+    "url" : "https:\/\/leetcode.com\/problems\/the-kth-factor-of-n"
+  },
+  {
+    "acceptance" : "41.2%",
+    "difficulty" : "Medium",
+    "title" : "Check If Array Pairs Are Divisible by k",
+    "iD" : "1497",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-array-pairs-are-divisible-by-k"
+  },
+  {
+    "acceptance" : "55.7%",
+    "difficulty" : "Easy",
+    "title" : "Count Odd Numbers in an Interval Range",
+    "iD" : "1523",
+    "url" : "https:\/\/leetcode.com\/problems\/count-odd-numbers-in-an-interval-range"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Number of Sub-arrays With Odd Sum",
+    "iD" : "1524",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-sub-arrays-with-odd-sum"
+  },
+  {
+    "acceptance" : "88.7%",
+    "difficulty" : "Easy",
+    "title" : "Number of Good Pairs",
+    "iD" : "1512",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-good-pairs"
+  },
+  {
+    "acceptance" : "40.4%",
+    "difficulty" : "Medium",
+    "title" : "Number of Substrings With Only 1s",
+    "iD" : "1513",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-substrings-with-only-1s"
+  }
+]
+

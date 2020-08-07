@@ -1,0 +1,402 @@
+[
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Easy",
+    "title" : "Symmetric Tree",
+    "iD" : "101",
+    "url" : "https:\/\/leetcode.com\/problems\/symmetric-tree"
+  },
+  {
+    "acceptance" : "54.5%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Level Order Traversal",
+    "iD" : "102",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-level-order-traversal"
+  },
+  {
+    "acceptance" : "48.2%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Zigzag Level Order Traversal",
+    "iD" : "103",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-zigzag-level-order-traversal"
+  },
+  {
+    "acceptance" : "53.5%",
+    "difficulty" : "Easy",
+    "title" : "Binary Tree Level Order Traversal II",
+    "iD" : "107",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-level-order-traversal-ii"
+  },
+  {
+    "acceptance" : "37.4%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Depth of Binary Tree",
+    "iD" : "111",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-depth-of-binary-tree"
+  },
+  {
+    "acceptance" : "22.1%",
+    "difficulty" : "Hard",
+    "title" : "Word Ladder II",
+    "iD" : "126",
+    "url" : "https:\/\/leetcode.com\/problems\/word-ladder-ii"
+  },
+  {
+    "acceptance" : "29.5%",
+    "difficulty" : "Medium",
+    "title" : "Word Ladder",
+    "iD" : "127",
+    "url" : "https:\/\/leetcode.com\/problems\/word-ladder"
+  },
+  {
+    "acceptance" : "28.1%",
+    "difficulty" : "Medium",
+    "title" : "Surrounded Regions",
+    "iD" : "130",
+    "url" : "https:\/\/leetcode.com\/problems\/surrounded-regions"
+  },
+  {
+    "acceptance" : "34.7%",
+    "difficulty" : "Medium",
+    "title" : "Clone Graph",
+    "iD" : "133",
+    "url" : "https:\/\/leetcode.com\/problems\/clone-graph"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Right Side View",
+    "iD" : "199",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-right-side-view"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Number of Islands",
+    "iD" : "200",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-islands"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule",
+    "iD" : "207",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule"
+  },
+  {
+    "acceptance" : "40.7%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule II",
+    "iD" : "210",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule-ii"
+  },
+  {
+    "acceptance" : "47.3%",
+    "difficulty" : "Medium",
+    "title" : "Perfect Squares",
+    "iD" : "279",
+    "url" : "https:\/\/leetcode.com\/problems\/perfect-squares"
+  },
+  {
+    "acceptance" : "43.3%",
+    "difficulty" : "Hard",
+    "title" : "Remove Invalid Parentheses",
+    "iD" : "301",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-invalid-parentheses"
+  },
+  {
+    "acceptance" : "32.3%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Height Trees",
+    "iD" : "310",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-height-trees"
+  },
+  {
+    "acceptance" : "42.4%",
+    "difficulty" : "Hard",
+    "title" : "Trapping Rain Water II",
+    "iD" : "407",
+    "url" : "https:\/\/leetcode.com\/problems\/trapping-rain-water-ii"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Medium",
+    "title" : "Pacific Atlantic Water Flow",
+    "iD" : "417",
+    "url" : "https:\/\/leetcode.com\/problems\/pacific-atlantic-water-flow"
+  },
+  {
+    "acceptance" : "61.5%",
+    "difficulty" : "Medium",
+    "title" : "Find Bottom Left Tree Value",
+    "iD" : "513",
+    "url" : "https:\/\/leetcode.com\/problems\/find-bottom-left-tree-value"
+  },
+  {
+    "acceptance" : "61.1%",
+    "difficulty" : "Medium",
+    "title" : "Find Largest Value in Each Tree Row",
+    "iD" : "515",
+    "url" : "https:\/\/leetcode.com\/problems\/find-largest-value-in-each-tree-row"
+  },
+  {
+    "acceptance" : "59.1%",
+    "difficulty" : "Medium",
+    "title" : "Minesweeper",
+    "iD" : "529",
+    "url" : "https:\/\/leetcode.com\/problems\/minesweeper"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Medium",
+    "title" : "01 Matrix",
+    "iD" : "542",
+    "url" : "https:\/\/leetcode.com\/problems\/01-matrix"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Hard",
+    "title" : "Cut Off Trees for Golf Event",
+    "iD" : "675",
+    "url" : "https:\/\/leetcode.com\/problems\/cut-off-trees-for-golf-event"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Easy",
+    "title" : "Employee Importance",
+    "iD" : "690",
+    "url" : "https:\/\/leetcode.com\/problems\/employee-importance"
+  },
+  {
+    "acceptance" : "44.9%",
+    "difficulty" : "Medium",
+    "title" : "Network Delay Time",
+    "iD" : "743",
+    "url" : "https:\/\/leetcode.com\/problems\/network-delay-time"
+  },
+  {
+    "acceptance" : "51.8%",
+    "difficulty" : "Medium",
+    "title" : "Open the Lock",
+    "iD" : "752",
+    "url" : "https:\/\/leetcode.com\/problems\/open-the-lock"
+  },
+  {
+    "acceptance" : "64.9%",
+    "difficulty" : "Medium",
+    "title" : "N-ary Tree Level Order Traversal",
+    "iD" : "429",
+    "url" : "https:\/\/leetcode.com\/problems\/n-ary-tree-level-order-traversal"
+  },
+  {
+    "acceptance" : "68.6%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Depth of N-ary Tree",
+    "iD" : "559",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-depth-of-n-ary-tree"
+  },
+  {
+    "acceptance" : "59.3%",
+    "difficulty" : "Hard",
+    "title" : "Sliding Puzzle",
+    "iD" : "773",
+    "url" : "https:\/\/leetcode.com\/problems\/sliding-puzzle"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Is Graph Bipartite?",
+    "iD" : "785",
+    "url" : "https:\/\/leetcode.com\/problems\/is-graph-bipartite"
+  },
+  {
+    "acceptance" : "39.3%",
+    "difficulty" : "Medium",
+    "title" : "Cheapest Flights Within K Stops",
+    "iD" : "787",
+    "url" : "https:\/\/leetcode.com\/problems\/cheapest-flights-within-k-stops"
+  },
+  {
+    "acceptance" : "42.6%",
+    "difficulty" : "Hard",
+    "title" : "Bus Routes",
+    "iD" : "815",
+    "url" : "https:\/\/leetcode.com\/problems\/bus-routes"
+  },
+  {
+    "acceptance" : "51.9%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Path Visiting All Nodes",
+    "iD" : "847",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-visiting-all-nodes"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Hard",
+    "title" : "K-Similar Strings",
+    "iD" : "854",
+    "url" : "https:\/\/leetcode.com\/problems\/k-similar-strings"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Medium",
+    "title" : "All Nodes Distance K in Binary Tree",
+    "iD" : "863",
+    "url" : "https:\/\/leetcode.com\/problems\/all-nodes-distance-k-in-binary-tree"
+  },
+  {
+    "acceptance" : "40.1%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Path to Get All Keys",
+    "iD" : "864",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-to-get-all-keys"
+  },
+  {
+    "acceptance" : "38.4%",
+    "difficulty" : "Medium",
+    "title" : "Snakes and Ladders",
+    "iD" : "909",
+    "url" : "https:\/\/leetcode.com\/problems\/snakes-and-ladders"
+  },
+  {
+    "acceptance" : "31.3%",
+    "difficulty" : "Hard",
+    "title" : "Cat and Mouse",
+    "iD" : "913",
+    "url" : "https:\/\/leetcode.com\/problems\/cat-and-mouse"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Medium",
+    "title" : "Shortest Bridge",
+    "iD" : "934",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-bridge"
+  },
+  {
+    "acceptance" : "52.0%",
+    "difficulty" : "Easy",
+    "title" : "Cousins in Binary Tree",
+    "iD" : "993",
+    "url" : "https:\/\/leetcode.com\/problems\/cousins-in-binary-tree"
+  },
+  {
+    "acceptance" : "47.8%",
+    "difficulty" : "Medium",
+    "title" : "Rotting Oranges",
+    "iD" : "994",
+    "url" : "https:\/\/leetcode.com\/problems\/rotting-oranges"
+  },
+  {
+    "acceptance" : "35.4%",
+    "difficulty" : "Hard",
+    "title" : "Escape a Large Maze",
+    "iD" : "1036",
+    "url" : "https:\/\/leetcode.com\/problems\/escape-a-large-maze"
+  },
+  {
+    "acceptance" : "43.4%",
+    "difficulty" : "Medium",
+    "title" : "As Far from Land as Possible",
+    "iD" : "1162",
+    "url" : "https:\/\/leetcode.com\/problems\/as-far-from-land-as-possible"
+  },
+  {
+    "acceptance" : "38.2%",
+    "difficulty" : "Medium",
+    "title" : "Shortest Path in Binary Matrix",
+    "iD" : "1091",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-in-binary-matrix"
+  },
+  {
+    "acceptance" : "38.9%",
+    "difficulty" : "Medium",
+    "title" : "Shortest Path with Alternating Colors",
+    "iD" : "1129",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-with-alternating-colors"
+  },
+  {
+    "acceptance" : "45.2%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Moves to Reach Target with Rotations",
+    "iD" : "1210",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-moves-to-reach-target-with-rotations"
+  },
+  {
+    "acceptance" : "41.4%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Moves to Move a Box to Their Target Location",
+    "iD" : "1263",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-moves-to-move-a-box-to-their-target-location"
+  },
+  {
+    "acceptance" : "69.5%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "iD" : "1284",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Hard",
+    "title" : "Shortest Path in a Grid with Obstacles Elimination",
+    "iD" : "1293",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-path-in-a-grid-with-obstacles-elimination"
+  },
+  {
+    "acceptance" : "58.9%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Candies You Can Get from Boxes",
+    "iD" : "1298",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-candies-you-can-get-from-boxes"
+  },
+  {
+    "acceptance" : "60.5%",
+    "difficulty" : "Medium",
+    "title" : "Jump Game III",
+    "iD" : "1306",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game-iii"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Get Watched Videos by Your Friends",
+    "iD" : "1311",
+    "url" : "https:\/\/leetcode.com\/problems\/get-watched-videos-by-your-friends"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Operations to Make Network Connected",
+    "iD" : "1319",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-operations-to-make-network-connected"
+  },
+  {
+    "acceptance" : "38.1%",
+    "difficulty" : "Hard",
+    "title" : "Jump Game IV",
+    "iD" : "1345",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game-iv"
+  },
+  {
+    "acceptance" : "54.3%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "iD" : "1368",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Medium",
+    "title" : "Check if There is a Valid Path in a Grid",
+    "iD" : "1391",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-there-is-a-valid-path-in-a-grid"
+  },
+  {
+    "acceptance" : "35.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Nodes in the Sub-Tree With the Same Label",
+    "iD" : "1519",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-nodes-in-the-sub-tree-with-the-same-label"
+  }
+]
+

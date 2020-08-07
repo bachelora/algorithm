@@ -1,0 +1,738 @@
+[
+  {
+    "acceptance" : "27.8%",
+    "difficulty" : "Medium",
+    "title" : "Validate Binary Search Tree",
+    "iD" : "98",
+    "url" : "https:\/\/leetcode.com\/problems\/validate-binary-search-tree"
+  },
+  {
+    "acceptance" : "39.6%",
+    "difficulty" : "Hard",
+    "title" : "Recover Binary Search Tree",
+    "iD" : "99",
+    "url" : "https:\/\/leetcode.com\/problems\/recover-binary-search-tree"
+  },
+  {
+    "acceptance" : "53.4%",
+    "difficulty" : "Easy",
+    "title" : "Same Tree",
+    "iD" : "100",
+    "url" : "https:\/\/leetcode.com\/problems\/same-tree"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Easy",
+    "title" : "Symmetric Tree",
+    "iD" : "101",
+    "url" : "https:\/\/leetcode.com\/problems\/symmetric-tree"
+  },
+  {
+    "acceptance" : "66.0%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Depth of Binary Tree",
+    "iD" : "104",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-depth-of-binary-tree"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Tree from Preorder and Inorder Traversal",
+    "iD" : "105",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-tree-from-preorder-and-inorder-traversal"
+  },
+  {
+    "acceptance" : "47.1%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Tree from Inorder and Postorder Traversal",
+    "iD" : "106",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-tree-from-inorder-and-postorder-traversal"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Easy",
+    "title" : "Convert Sorted Array to Binary Search Tree",
+    "iD" : "108",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-sorted-array-to-binary-search-tree"
+  },
+  {
+    "acceptance" : "47.6%",
+    "difficulty" : "Medium",
+    "title" : "Convert Sorted List to Binary Search Tree",
+    "iD" : "109",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-sorted-list-to-binary-search-tree"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Easy",
+    "title" : "Balanced Binary Tree",
+    "iD" : "110",
+    "url" : "https:\/\/leetcode.com\/problems\/balanced-binary-tree"
+  },
+  {
+    "acceptance" : "37.4%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Depth of Binary Tree",
+    "iD" : "111",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-depth-of-binary-tree"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Easy",
+    "title" : "Path Sum",
+    "iD" : "112",
+    "url" : "https:\/\/leetcode.com\/problems\/path-sum"
+  },
+  {
+    "acceptance" : "46.6%",
+    "difficulty" : "Medium",
+    "title" : "Path Sum II",
+    "iD" : "113",
+    "url" : "https:\/\/leetcode.com\/problems\/path-sum-ii"
+  },
+  {
+    "acceptance" : "49.2%",
+    "difficulty" : "Medium",
+    "title" : "Flatten Binary Tree to Linked List",
+    "iD" : "114",
+    "url" : "https:\/\/leetcode.com\/problems\/flatten-binary-tree-to-linked-list"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Medium",
+    "title" : "Populating Next Right Pointers in Each Node",
+    "iD" : "116",
+    "url" : "https:\/\/leetcode.com\/problems\/populating-next-right-pointers-in-each-node"
+  },
+  {
+    "acceptance" : "39.1%",
+    "difficulty" : "Medium",
+    "title" : "Populating Next Right Pointers in Each Node II",
+    "iD" : "117",
+    "url" : "https:\/\/leetcode.com\/problems\/populating-next-right-pointers-in-each-node-ii"
+  },
+  {
+    "acceptance" : "34.3%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Maximum Path Sum",
+    "iD" : "124",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-maximum-path-sum"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Sum Root to Leaf Numbers",
+    "iD" : "129",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-root-to-leaf-numbers"
+  },
+  {
+    "acceptance" : "28.1%",
+    "difficulty" : "Medium",
+    "title" : "Surrounded Regions",
+    "iD" : "130",
+    "url" : "https:\/\/leetcode.com\/problems\/surrounded-regions"
+  },
+  {
+    "acceptance" : "34.7%",
+    "difficulty" : "Medium",
+    "title" : "Clone Graph",
+    "iD" : "133",
+    "url" : "https:\/\/leetcode.com\/problems\/clone-graph"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Right Side View",
+    "iD" : "199",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-right-side-view"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Number of Islands",
+    "iD" : "200",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-islands"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule",
+    "iD" : "207",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule"
+  },
+  {
+    "acceptance" : "40.7%",
+    "difficulty" : "Medium",
+    "title" : "Course Schedule II",
+    "iD" : "210",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule-ii"
+  },
+  {
+    "acceptance" : "51.4%",
+    "difficulty" : "Easy",
+    "title" : "Binary Tree Paths",
+    "iD" : "257",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-paths"
+  },
+  {
+    "acceptance" : "43.3%",
+    "difficulty" : "Hard",
+    "title" : "Remove Invalid Parentheses",
+    "iD" : "301",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-invalid-parentheses"
+  },
+  {
+    "acceptance" : "43.4%",
+    "difficulty" : "Hard",
+    "title" : "Longest Increasing Path in a Matrix",
+    "iD" : "329",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-increasing-path-in-a-matrix"
+  },
+  {
+    "acceptance" : "36.7%",
+    "difficulty" : "Medium",
+    "title" : "Reconstruct Itinerary",
+    "iD" : "332",
+    "url" : "https:\/\/leetcode.com\/problems\/reconstruct-itinerary"
+  },
+  {
+    "acceptance" : "50.6%",
+    "difficulty" : "Medium",
+    "title" : "House Robber III",
+    "iD" : "337",
+    "url" : "https:\/\/leetcode.com\/problems\/house-robber-iii"
+  },
+  {
+    "acceptance" : "49.9%",
+    "difficulty" : "Medium",
+    "title" : "Decode String",
+    "iD" : "394",
+    "url" : "https:\/\/leetcode.com\/problems\/decode-string"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Medium",
+    "title" : "Pacific Atlantic Water Flow",
+    "iD" : "417",
+    "url" : "https:\/\/leetcode.com\/problems\/pacific-atlantic-water-flow"
+  },
+  {
+    "acceptance" : "43.6%",
+    "difficulty" : "Hard",
+    "title" : "Concatenated Words",
+    "iD" : "472",
+    "url" : "https:\/\/leetcode.com\/problems\/concatenated-words"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Medium",
+    "title" : "Matchsticks to Square",
+    "iD" : "473",
+    "url" : "https:\/\/leetcode.com\/problems\/matchsticks-to-square"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Hard",
+    "title" : "Zuma Game",
+    "iD" : "488",
+    "url" : "https:\/\/leetcode.com\/problems\/zuma-game"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Medium",
+    "title" : "Increasing Subsequences",
+    "iD" : "491",
+    "url" : "https:\/\/leetcode.com\/problems\/increasing-subsequences"
+  },
+  {
+    "acceptance" : "46.3%",
+    "difficulty" : "Medium",
+    "title" : "Target Sum",
+    "iD" : "494",
+    "url" : "https:\/\/leetcode.com\/problems\/target-sum"
+  },
+  {
+    "acceptance" : "61.5%",
+    "difficulty" : "Medium",
+    "title" : "Find Bottom Left Tree Value",
+    "iD" : "513",
+    "url" : "https:\/\/leetcode.com\/problems\/find-bottom-left-tree-value"
+  },
+  {
+    "acceptance" : "43.0%",
+    "difficulty" : "Hard",
+    "title" : "Freedom Trail",
+    "iD" : "514",
+    "url" : "https:\/\/leetcode.com\/problems\/freedom-trail"
+  },
+  {
+    "acceptance" : "61.1%",
+    "difficulty" : "Medium",
+    "title" : "Find Largest Value in Each Tree Row",
+    "iD" : "515",
+    "url" : "https:\/\/leetcode.com\/problems\/find-largest-value-in-each-tree-row"
+  },
+  {
+    "acceptance" : "59.1%",
+    "difficulty" : "Medium",
+    "title" : "Minesweeper",
+    "iD" : "529",
+    "url" : "https:\/\/leetcode.com\/problems\/minesweeper"
+  },
+  {
+    "acceptance" : "39.8%",
+    "difficulty" : "Medium",
+    "title" : "01 Matrix",
+    "iD" : "542",
+    "url" : "https:\/\/leetcode.com\/problems\/01-matrix"
+  },
+  {
+    "acceptance" : "42.6%",
+    "difficulty" : "Hard",
+    "title" : "Remove Boxes",
+    "iD" : "546",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-boxes"
+  },
+  {
+    "acceptance" : "58.5%",
+    "difficulty" : "Medium",
+    "title" : "Friend Circles",
+    "iD" : "547",
+    "url" : "https:\/\/leetcode.com\/problems\/friend-circles"
+  },
+  {
+    "acceptance" : "35.1%",
+    "difficulty" : "Medium",
+    "title" : "Out of Boundary Paths",
+    "iD" : "576",
+    "url" : "https:\/\/leetcode.com\/problems\/out-of-boundary-paths"
+  },
+  {
+    "acceptance" : "51.5%",
+    "difficulty" : "Medium",
+    "title" : "Shopping Offers",
+    "iD" : "638",
+    "url" : "https:\/\/leetcode.com\/problems\/shopping-offers"
+  },
+  {
+    "acceptance" : "40.1%",
+    "difficulty" : "Hard",
+    "title" : "Strange Printer",
+    "iD" : "664",
+    "url" : "https:\/\/leetcode.com\/problems\/strange-printer"
+  },
+  {
+    "acceptance" : "46.4%",
+    "difficulty" : "Hard",
+    "title" : "24 Game",
+    "iD" : "679",
+    "url" : "https:\/\/leetcode.com\/problems\/24-game"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "Redundant Connection II",
+    "iD" : "685",
+    "url" : "https:\/\/leetcode.com\/problems\/redundant-connection-ii"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Easy",
+    "title" : "Employee Importance",
+    "iD" : "690",
+    "url" : "https:\/\/leetcode.com\/problems\/employee-importance"
+  },
+  {
+    "acceptance" : "62.7%",
+    "difficulty" : "Medium",
+    "title" : "Max Area of Island",
+    "iD" : "695",
+    "url" : "https:\/\/leetcode.com\/problems\/max-area-of-island"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Accounts Merge",
+    "iD" : "721",
+    "url" : "https:\/\/leetcode.com\/problems\/accounts-merge"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Easy",
+    "title" : "Flood Fill",
+    "iD" : "733",
+    "url" : "https:\/\/leetcode.com\/problems\/flood-fill"
+  },
+  {
+    "acceptance" : "44.9%",
+    "difficulty" : "Medium",
+    "title" : "Network Delay Time",
+    "iD" : "743",
+    "url" : "https:\/\/leetcode.com\/problems\/network-delay-time"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Hard",
+    "title" : "Contain Virus",
+    "iD" : "749",
+    "url" : "https:\/\/leetcode.com\/problems\/contain-virus"
+  },
+  {
+    "acceptance" : "50.5%",
+    "difficulty" : "Hard",
+    "title" : "Cracking the Safe",
+    "iD" : "753",
+    "url" : "https:\/\/leetcode.com\/problems\/cracking-the-safe"
+  },
+  {
+    "acceptance" : "54.6%",
+    "difficulty" : "Medium",
+    "title" : "Pyramid Transition Matrix",
+    "iD" : "756",
+    "url" : "https:\/\/leetcode.com\/problems\/pyramid-transition-matrix"
+  },
+  {
+    "acceptance" : "55.1%",
+    "difficulty" : "Medium",
+    "title" : "Flatten a Multilevel Doubly Linked List",
+    "iD" : "430",
+    "url" : "https:\/\/leetcode.com\/problems\/flatten-a-multilevel-doubly-linked-list"
+  },
+  {
+    "acceptance" : "68.6%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Depth of N-ary Tree",
+    "iD" : "559",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-depth-of-n-ary-tree"
+  },
+  {
+    "acceptance" : "53.0%",
+    "difficulty" : "Hard",
+    "title" : "Swim in Rising Water",
+    "iD" : "778",
+    "url" : "https:\/\/leetcode.com\/problems\/swim-in-rising-water"
+  },
+  {
+    "acceptance" : "47.5%",
+    "difficulty" : "Medium",
+    "title" : "Is Graph Bipartite?",
+    "iD" : "785",
+    "url" : "https:\/\/leetcode.com\/problems\/is-graph-bipartite"
+  },
+  {
+    "acceptance" : "48.9%",
+    "difficulty" : "Medium",
+    "title" : "Find Eventual Safe States",
+    "iD" : "802",
+    "url" : "https:\/\/leetcode.com\/problems\/find-eventual-safe-states"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Hard",
+    "title" : "Making A Large Island",
+    "iD" : "827",
+    "url" : "https:\/\/leetcode.com\/problems\/making-a-large-island"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Hard",
+    "title" : "Sum of Distances in Tree",
+    "iD" : "834",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-distances-in-tree"
+  },
+  {
+    "acceptance" : "38.6%",
+    "difficulty" : "Hard",
+    "title" : "Similar String Groups",
+    "iD" : "839",
+    "url" : "https:\/\/leetcode.com\/problems\/similar-string-groups"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Medium",
+    "title" : "Keys and Rooms",
+    "iD" : "841",
+    "url" : "https:\/\/leetcode.com\/problems\/keys-and-rooms"
+  },
+  {
+    "acceptance" : "51.6%",
+    "difficulty" : "Medium",
+    "title" : "Loud and Rich",
+    "iD" : "851",
+    "url" : "https:\/\/leetcode.com\/problems\/loud-and-rich"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Medium",
+    "title" : "All Nodes Distance K in Binary Tree",
+    "iD" : "863",
+    "url" : "https:\/\/leetcode.com\/problems\/all-nodes-distance-k-in-binary-tree"
+  },
+  {
+    "acceptance" : "64.5%",
+    "difficulty" : "Easy",
+    "title" : "Leaf-Similar Trees",
+    "iD" : "872",
+    "url" : "https:\/\/leetcode.com\/problems\/leaf-similar-trees"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Medium",
+    "title" : "Possible Bipartition",
+    "iD" : "886",
+    "url" : "https:\/\/leetcode.com\/problems\/possible-bipartition"
+  },
+  {
+    "acceptance" : "70.7%",
+    "difficulty" : "Easy",
+    "title" : "Increasing Order Search Tree",
+    "iD" : "897",
+    "url" : "https:\/\/leetcode.com\/problems\/increasing-order-search-tree"
+  },
+  {
+    "acceptance" : "42.0%",
+    "difficulty" : "Hard",
+    "title" : "Minimize Malware Spread",
+    "iD" : "924",
+    "url" : "https:\/\/leetcode.com\/problems\/minimize-malware-spread"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Hard",
+    "title" : "Minimize Malware Spread II",
+    "iD" : "928",
+    "url" : "https:\/\/leetcode.com\/problems\/minimize-malware-spread-ii"
+  },
+  {
+    "acceptance" : "48.1%",
+    "difficulty" : "Medium",
+    "title" : "Shortest Bridge",
+    "iD" : "934",
+    "url" : "https:\/\/leetcode.com\/problems\/shortest-bridge"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Medium",
+    "title" : "Most Stones Removed with Same Row or Column",
+    "iD" : "947",
+    "url" : "https:\/\/leetcode.com\/problems\/most-stones-removed-with-same-row-or-column"
+  },
+  {
+    "acceptance" : "66.2%",
+    "difficulty" : "Medium",
+    "title" : "Regions Cut By Slashes",
+    "iD" : "959",
+    "url" : "https:\/\/leetcode.com\/problems\/regions-cut-by-slashes"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Cameras",
+    "iD" : "968",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-cameras"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Flip Binary Tree To Match Preorder Traversal",
+    "iD" : "971",
+    "url" : "https:\/\/leetcode.com\/problems\/flip-binary-tree-to-match-preorder-traversal"
+  },
+  {
+    "acceptance" : "68.8%",
+    "difficulty" : "Medium",
+    "title" : "Distribute Coins in Binary Tree",
+    "iD" : "979",
+    "url" : "https:\/\/leetcode.com\/problems\/distribute-coins-in-binary-tree"
+  },
+  {
+    "acceptance" : "73.3%",
+    "difficulty" : "Hard",
+    "title" : "Unique Paths III",
+    "iD" : "980",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-paths-iii"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Medium",
+    "title" : "Smallest String Starting From Leaf",
+    "iD" : "988",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-string-starting-from-leaf"
+  },
+  {
+    "acceptance" : "57.7%",
+    "difficulty" : "Medium",
+    "title" : "Number of Enclaves",
+    "iD" : "1020",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-enclaves"
+  },
+  {
+    "acceptance" : "65.9%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Difference Between Node and Ancestor",
+    "iD" : "1026",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-difference-between-node-and-ancestor"
+  },
+  {
+    "acceptance" : "69.9%",
+    "difficulty" : "Hard",
+    "title" : "Recover a Tree From Preorder Traversal",
+    "iD" : "1028",
+    "url" : "https:\/\/leetcode.com\/problems\/recover-a-tree-from-preorder-traversal"
+  },
+  {
+    "acceptance" : "44.7%",
+    "difficulty" : "Medium",
+    "title" : "Coloring A Border",
+    "iD" : "1034",
+    "url" : "https:\/\/leetcode.com\/problems\/coloring-a-border"
+  },
+  {
+    "acceptance" : "49.3%",
+    "difficulty" : "Medium",
+    "title" : "Insufficient Nodes in Root to Leaf Paths",
+    "iD" : "1080",
+    "url" : "https:\/\/leetcode.com\/problems\/insufficient-nodes-in-root-to-leaf-paths"
+  },
+  {
+    "acceptance" : "67.0%",
+    "difficulty" : "Medium",
+    "title" : "Delete Nodes And Return Forest",
+    "iD" : "1110",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-nodes-and-return-forest"
+  },
+  {
+    "acceptance" : "66.8%",
+    "difficulty" : "Medium",
+    "title" : "Lowest Common Ancestor of Deepest Leaves",
+    "iD" : "1123",
+    "url" : "https:\/\/leetcode.com\/problems\/lowest-common-ancestor-of-deepest-leaves"
+  },
+  {
+    "acceptance" : "83.5%",
+    "difficulty" : "Medium",
+    "title" : "Sum of Nodes with Even-Valued Grandparent",
+    "iD" : "1315",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-nodes-with-even-valued-grandparent"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Coloring Game",
+    "iD" : "1145",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-coloring-game"
+  },
+  {
+    "acceptance" : "83.6%",
+    "difficulty" : "Medium",
+    "title" : "Deepest Leaves Sum",
+    "iD" : "1302",
+    "url" : "https:\/\/leetcode.com\/problems\/deepest-leaves-sum"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Hard",
+    "title" : "Critical Connections in a Network",
+    "iD" : "1192",
+    "url" : "https:\/\/leetcode.com\/problems\/critical-connections-in-a-network"
+  },
+  {
+    "acceptance" : "47.6%",
+    "difficulty" : "Hard",
+    "title" : "Sort Items by Groups Respecting Dependencies",
+    "iD" : "1203",
+    "url" : "https:\/\/leetcode.com\/problems\/sort-items-by-groups-respecting-dependencies"
+  },
+  {
+    "acceptance" : "60.3%",
+    "difficulty" : "Medium",
+    "title" : "Number of Closed Islands",
+    "iD" : "1254",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-closed-islands"
+  },
+  {
+    "acceptance" : "53.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Operations to Make Network Connected",
+    "iD" : "1319",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-operations-to-make-network-connected"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Product of Splitted Binary Tree",
+    "iD" : "1339",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-product-of-splitted-binary-tree"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Medium",
+    "title" : "Time Needed to Inform All Employees",
+    "iD" : "1376",
+    "url" : "https:\/\/leetcode.com\/problems\/time-needed-to-inform-all-employees"
+  },
+  {
+    "acceptance" : "33.6%",
+    "difficulty" : "Hard",
+    "title" : "Frog Position After T Seconds",
+    "iD" : "1377",
+    "url" : "https:\/\/leetcode.com\/problems\/frog-position-after-t-seconds"
+  },
+  {
+    "acceptance" : "44.5%",
+    "difficulty" : "Medium",
+    "title" : "Check if There is a Valid Path in a Grid",
+    "iD" : "1391",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-there-is-a-valid-path-in-a-grid"
+  },
+  {
+    "acceptance" : "70.7%",
+    "difficulty" : "Medium",
+    "title" : "Count Good Nodes in Binary Tree",
+    "iD" : "1448",
+    "url" : "https:\/\/leetcode.com\/problems\/count-good-nodes-in-binary-tree"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Time to Collect All Apples in a Tree",
+    "iD" : "1443",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-time-to-collect-all-apples-in-a-tree"
+  },
+  {
+    "acceptance" : "67.2%",
+    "difficulty" : "Medium",
+    "title" : "Pseudo-Palindromic Paths in a Binary Tree",
+    "iD" : "1457",
+    "url" : "https:\/\/leetcode.com\/problems\/pseudo-palindromic-paths-in-a-binary-tree"
+  },
+  {
+    "acceptance" : "63.6%",
+    "difficulty" : "Medium",
+    "title" : "Reorder Routes to Make All Paths Lead to the City Zero",
+    "iD" : "1466",
+    "url" : "https:\/\/leetcode.com\/problems\/reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+  },
+  {
+    "acceptance" : "50.5%",
+    "difficulty" : "Hard",
+    "title" : "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "iD" : "1489",
+    "url" : "https:\/\/leetcode.com\/problems\/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
+  },
+  {
+    "acceptance" : "35.1%",
+    "difficulty" : "Medium",
+    "title" : "Number of Nodes in the Sub-Tree With the Same Label",
+    "iD" : "1519",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-nodes-in-the-sub-tree-with-the-same-label"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Medium",
+    "title" : "Number of Good Leaf Nodes Pairs",
+    "iD" : "1530",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-good-leaf-nodes-pairs"
+  }
+]
+

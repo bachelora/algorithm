@@ -1,0 +1,521 @@
+
+[
+  {
+    "acceptance" : "24.7%",
+    "difficulty" : "Hard",
+    "title" : "Wildcard Matching",
+    "iD" : "44",
+    "url" : "https:\/\/leetcode.com\/problems\/wildcard-matching"
+  },
+  {
+    "acceptance" : "30.5%",
+    "difficulty" : "Hard",
+    "title" : "Jump Game II",
+    "iD" : "45",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game-ii"
+  },
+  {
+    "acceptance" : "34.6%",
+    "difficulty" : "Medium",
+    "title" : "Jump Game",
+    "iD" : "55",
+    "url" : "https:\/\/leetcode.com\/problems\/jump-game"
+  },
+  {
+    "acceptance" : "56.9%",
+    "difficulty" : "Easy",
+    "title" : "Best Time to Buy and Sell Stock II",
+    "iD" : "122",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-ii"
+  },
+  {
+    "acceptance" : "38.5%",
+    "difficulty" : "Medium",
+    "title" : "Gas Station",
+    "iD" : "134",
+    "url" : "https:\/\/leetcode.com\/problems\/gas-station"
+  },
+  {
+    "acceptance" : "31.6%",
+    "difficulty" : "Hard",
+    "title" : "Candy",
+    "iD" : "135",
+    "url" : "https:\/\/leetcode.com\/problems\/candy"
+  },
+  {
+    "acceptance" : "35.8%",
+    "difficulty" : "Hard",
+    "title" : "Remove Duplicate Letters",
+    "iD" : "316",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-duplicate-letters"
+  },
+  {
+    "acceptance" : "27.0%",
+    "difficulty" : "Hard",
+    "title" : "Create Maximum Number",
+    "iD" : "321",
+    "url" : "https:\/\/leetcode.com\/problems\/create-maximum-number"
+  },
+  {
+    "acceptance" : "34.5%",
+    "difficulty" : "Hard",
+    "title" : "Patching Array",
+    "iD" : "330",
+    "url" : "https:\/\/leetcode.com\/problems\/patching-array"
+  },
+  {
+    "acceptance" : "39.6%",
+    "difficulty" : "Medium",
+    "title" : "Wiggle Subsequence",
+    "iD" : "376",
+    "url" : "https:\/\/leetcode.com\/problems\/wiggle-subsequence"
+  },
+  {
+    "acceptance" : "49.2%",
+    "difficulty" : "Easy",
+    "title" : "Is Subsequence",
+    "iD" : "392",
+    "url" : "https:\/\/leetcode.com\/problems\/is-subsequence"
+  },
+  {
+    "acceptance" : "28.4%",
+    "difficulty" : "Medium",
+    "title" : "Remove K Digits",
+    "iD" : "402",
+    "url" : "https:\/\/leetcode.com\/problems\/remove-k-digits"
+  },
+  {
+    "acceptance" : "66.8%",
+    "difficulty" : "Medium",
+    "title" : "Queue Reconstruction by Height",
+    "iD" : "406",
+    "url" : "https:\/\/leetcode.com\/problems\/queue-reconstruction-by-height"
+  },
+  {
+    "acceptance" : "42.9%",
+    "difficulty" : "Medium",
+    "title" : "Non-overlapping Intervals",
+    "iD" : "435",
+    "url" : "https:\/\/leetcode.com\/problems\/non-overlapping-intervals"
+  },
+  {
+    "acceptance" : "49.6%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Number of Arrows to Burst Balloons",
+    "iD" : "452",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-arrows-to-burst-balloons"
+  },
+  {
+    "acceptance" : "49.9%",
+    "difficulty" : "Easy",
+    "title" : "Assign Cookies",
+    "iD" : "455",
+    "url" : "https:\/\/leetcode.com\/problems\/assign-cookies"
+  },
+  {
+    "acceptance" : "40.4%",
+    "difficulty" : "Hard",
+    "title" : "IPO",
+    "iD" : "502",
+    "url" : "https:\/\/leetcode.com\/problems\/ipo"
+  },
+  {
+    "acceptance" : "50.0%",
+    "difficulty" : "Medium",
+    "title" : "Task Scheduler",
+    "iD" : "621",
+    "url" : "https:\/\/leetcode.com\/problems\/task-scheduler"
+  },
+  {
+    "acceptance" : "33.5%",
+    "difficulty" : "Hard",
+    "title" : "Course Schedule III",
+    "iD" : "630",
+    "url" : "https:\/\/leetcode.com\/problems\/course-schedule-iii"
+  },
+  {
+    "acceptance" : "39.2%",
+    "difficulty" : "Medium",
+    "title" : "Dota2 Senate",
+    "iD" : "649",
+    "url" : "https:\/\/leetcode.com\/problems\/dota2-senate"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Medium",
+    "title" : "Split Array into Consecutive Subsequences",
+    "iD" : "659",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-into-consecutive-subsequences"
+  },
+  {
+    "acceptance" : "54.7%",
+    "difficulty" : "Medium",
+    "title" : "Best Time to Buy and Sell Stock with Transaction Fee",
+    "iD" : "714",
+    "url" : "https:\/\/leetcode.com\/problems\/best-time-to-buy-and-sell-stock-with-transaction-fee"
+  },
+  {
+    "acceptance" : "44.3%",
+    "difficulty" : "Medium",
+    "title" : "Monotone Increasing Digits",
+    "iD" : "738",
+    "url" : "https:\/\/leetcode.com\/problems\/monotone-increasing-digits"
+  },
+  {
+    "acceptance" : "40.1%",
+    "difficulty" : "Hard",
+    "title" : "Set Intersection Size At Least Two",
+    "iD" : "757",
+    "url" : "https:\/\/leetcode.com\/problems\/set-intersection-size-at-least-two"
+  },
+  {
+    "acceptance" : "76.0%",
+    "difficulty" : "Medium",
+    "title" : "Partition Labels",
+    "iD" : "763",
+    "url" : "https:\/\/leetcode.com\/problems\/partition-labels"
+  },
+  {
+    "acceptance" : "54.3%",
+    "difficulty" : "Hard",
+    "title" : "Couples Holding Hands",
+    "iD" : "765",
+    "url" : "https:\/\/leetcode.com\/problems\/couples-holding-hands"
+  },
+  {
+    "acceptance" : "48.6%",
+    "difficulty" : "Medium",
+    "title" : "Reorganize String",
+    "iD" : "767",
+    "url" : "https:\/\/leetcode.com\/problems\/reorganize-string"
+  },
+  {
+    "acceptance" : "36.3%",
+    "difficulty" : "Medium",
+    "title" : "Split Array into Fibonacci Sequence",
+    "iD" : "842",
+    "url" : "https:\/\/leetcode.com\/problems\/split-array-into-fibonacci-sequence"
+  },
+  {
+    "acceptance" : "51.6%",
+    "difficulty" : "Easy",
+    "title" : "Lemonade Change",
+    "iD" : "860",
+    "url" : "https:\/\/leetcode.com\/problems\/lemonade-change"
+  },
+  {
+    "acceptance" : "72.8%",
+    "difficulty" : "Medium",
+    "title" : "Score After Flipping Matrix",
+    "iD" : "861",
+    "url" : "https:\/\/leetcode.com\/problems\/score-after-flipping-matrix"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Advantage Shuffle",
+    "iD" : "870",
+    "url" : "https:\/\/leetcode.com\/problems\/advantage-shuffle"
+  },
+  {
+    "acceptance" : "35.2%",
+    "difficulty" : "Easy",
+    "title" : "Walking Robot Simulation",
+    "iD" : "874",
+    "url" : "https:\/\/leetcode.com\/problems\/walking-robot-simulation"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Medium",
+    "title" : "Boats to Save People",
+    "iD" : "881",
+    "url" : "https:\/\/leetcode.com\/problems\/boats-to-save-people"
+  },
+  {
+    "acceptance" : "26.6%",
+    "difficulty" : "Medium",
+    "title" : "Smallest Range II",
+    "iD" : "910",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-range-ii"
+  },
+  {
+    "acceptance" : "73.6%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Add to Make Parentheses Valid",
+    "iD" : "921",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-add-to-make-parentheses-valid"
+  },
+  {
+    "acceptance" : "33.6%",
+    "difficulty" : "Hard",
+    "title" : "Three Equal Parts",
+    "iD" : "927",
+    "url" : "https:\/\/leetcode.com\/problems\/three-equal-parts"
+  },
+  {
+    "acceptance" : "42.8%",
+    "difficulty" : "Hard",
+    "title" : "Stamping The Sequence",
+    "iD" : "936",
+    "url" : "https:\/\/leetcode.com\/problems\/stamping-the-sequence"
+  },
+  {
+    "acceptance" : "70.3%",
+    "difficulty" : "Easy",
+    "title" : "Delete Columns to Make Sorted",
+    "iD" : "944",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-columns-to-make-sorted"
+  },
+  {
+    "acceptance" : "40.8%",
+    "difficulty" : "Medium",
+    "title" : "Bag of Tokens",
+    "iD" : "948",
+    "url" : "https:\/\/leetcode.com\/problems\/bag-of-tokens"
+  },
+  {
+    "acceptance" : "33.2%",
+    "difficulty" : "Medium",
+    "title" : "Delete Columns to Make Sorted II",
+    "iD" : "955",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-columns-to-make-sorted-ii"
+  },
+  {
+    "acceptance" : "37.7%",
+    "difficulty" : "Medium",
+    "title" : "String Without AAA or BBB",
+    "iD" : "984",
+    "url" : "https:\/\/leetcode.com\/problems\/string-without-aaa-or-bbb"
+  },
+  {
+    "acceptance" : "45.5%",
+    "difficulty" : "Medium",
+    "title" : "Broken Calculator",
+    "iD" : "991",
+    "url" : "https:\/\/leetcode.com\/problems\/broken-calculator"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Number of K Consecutive Bit Flips",
+    "iD" : "995",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-k-consecutive-bit-flips"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Easy",
+    "title" : "Maximize Sum Of Array After K Negations",
+    "iD" : "1005",
+    "url" : "https:\/\/leetcode.com\/problems\/maximize-sum-of-array-after-k-negations"
+  },
+  {
+    "acceptance" : "50.0%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Domino Rotations For Equal Row",
+    "iD" : "1007",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-domino-rotations-for-equal-row"
+  },
+  {
+    "acceptance" : "56.1%",
+    "difficulty" : "Easy",
+    "title" : "Two City Scheduling",
+    "iD" : "1029",
+    "url" : "https:\/\/leetcode.com\/problems\/two-city-scheduling"
+  },
+  {
+    "acceptance" : "62.2%",
+    "difficulty" : "Easy",
+    "title" : "Last Stone Weight",
+    "iD" : "1046",
+    "url" : "https:\/\/leetcode.com\/problems\/last-stone-weight"
+  },
+  {
+    "acceptance" : "48.5%",
+    "difficulty" : "Medium",
+    "title" : "Previous Permutation With One Swap",
+    "iD" : "1053",
+    "url" : "https:\/\/leetcode.com\/problems\/previous-permutation-with-one-swap"
+  },
+  {
+    "acceptance" : "58.8%",
+    "difficulty" : "Medium",
+    "title" : "Largest Values From Labels",
+    "iD" : "1090",
+    "url" : "https:\/\/leetcode.com\/problems\/largest-values-from-labels"
+  },
+  {
+    "acceptance" : "56.7%",
+    "difficulty" : "Medium",
+    "title" : "Car Pooling",
+    "iD" : "1094",
+    "url" : "https:\/\/leetcode.com\/problems\/car-pooling"
+  },
+  {
+    "acceptance" : "70.4%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "iD" : "1111",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-nesting-depth-of-two-valid-parentheses-strings"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Longest Happy String",
+    "iD" : "1405",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-happy-string"
+  },
+  {
+    "acceptance" : "64.3%",
+    "difficulty" : "Easy",
+    "title" : "Play with Chips",
+    "iD" : "1217",
+    "url" : "https:\/\/leetcode.com\/problems\/play-with-chips"
+  },
+  {
+    "acceptance" : "83.2%",
+    "difficulty" : "Easy",
+    "title" : "Split a String in Balanced Strings",
+    "iD" : "1221",
+    "url" : "https:\/\/leetcode.com\/problems\/split-a-string-in-balanced-strings"
+  },
+  {
+    "acceptance" : "60.0%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Swaps to Make Strings Equal",
+    "iD" : "1247",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-swaps-to-make-strings-equal"
+  },
+  {
+    "acceptance" : "40.4%",
+    "difficulty" : "Medium",
+    "title" : "Reconstruct a 2-Row Binary Matrix",
+    "iD" : "1253",
+    "url" : "https:\/\/leetcode.com\/problems\/reconstruct-a-2-row-binary-matrix"
+  },
+  {
+    "acceptance" : "49.6%",
+    "difficulty" : "Medium",
+    "title" : "Number of Burgers with No Waste of Ingredients",
+    "iD" : "1276",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-burgers-with-no-waste-of-ingredients"
+  },
+  {
+    "acceptance" : "83.9%",
+    "difficulty" : "Medium",
+    "title" : "Group the People Given the Group Size They Belong To",
+    "iD" : "1282",
+    "url" : "https:\/\/leetcode.com\/problems\/group-the-people-given-the-group-size-they-belong-to"
+  },
+  {
+    "acceptance" : "53.7%",
+    "difficulty" : "Medium",
+    "title" : "Divide Array in Sets of K Consecutive Numbers",
+    "iD" : "1296",
+    "url" : "https:\/\/leetcode.com\/problems\/divide-array-in-sets-of-k-consecutive-numbers"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Number of Taps to Open to Water a Garden",
+    "iD" : "1326",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-number-of-taps-to-open-to-water-a-garden"
+  },
+  {
+    "acceptance" : "66.4%",
+    "difficulty" : "Medium",
+    "title" : "Reduce Array Size to The Half",
+    "iD" : "1338",
+    "url" : "https:\/\/leetcode.com\/problems\/reduce-array-size-to-the-half"
+  },
+  {
+    "acceptance" : "30.5%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Number of Events That Can Be Attended",
+    "iD" : "1353",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-events-that-can-be-attended"
+  },
+  {
+    "acceptance" : "31.9%",
+    "difficulty" : "Hard",
+    "title" : "Construct Target Array With Multiple Sums",
+    "iD" : "1354",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-target-array-with-multiple-sums"
+  },
+  {
+    "acceptance" : "34.8%",
+    "difficulty" : "Medium",
+    "title" : "Cinema Seat Allocation",
+    "iD" : "1386",
+    "url" : "https:\/\/leetcode.com\/problems\/cinema-seat-allocation"
+  },
+  {
+    "acceptance" : "31.8%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Performance of a Team",
+    "iD" : "1383",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-performance-of-a-team"
+  },
+  {
+    "acceptance" : "60.3%",
+    "difficulty" : "Medium",
+    "title" : "Construct K Palindrome Strings",
+    "iD" : "1400",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-k-palindrome-strings"
+  },
+  {
+    "acceptance" : "62.0%",
+    "difficulty" : "Medium",
+    "title" : "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "iD" : "1414",
+    "url" : "https:\/\/leetcode.com\/problems\/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k"
+  },
+  {
+    "acceptance" : "70.8%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Subsequence in Non-Increasing Order",
+    "iD" : "1403",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-subsequence-in-non-increasing-order"
+  },
+  {
+    "acceptance" : "65.7%",
+    "difficulty" : "Medium",
+    "title" : "Check If a String Can Break Another String",
+    "iD" : "1433",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-a-string-can-break-another-string"
+  },
+  {
+    "acceptance" : "41.2%",
+    "difficulty" : "Medium",
+    "title" : "Check If Array Pairs Are Divisible by k",
+    "iD" : "1497",
+    "url" : "https:\/\/leetcode.com\/problems\/check-if-array-pairs-are-divisible-by-k"
+  },
+  {
+    "acceptance" : "36.0%",
+    "difficulty" : "Hard",
+    "title" : "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "iD" : "1505",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits"
+  },
+  {
+    "acceptance" : "63.1%",
+    "difficulty" : "Easy",
+    "title" : "Water Bottles",
+    "iD" : "1518",
+    "url" : "https:\/\/leetcode.com\/problems\/water-bottles"
+  },
+  {
+    "acceptance" : "32.7%",
+    "difficulty" : "Hard",
+    "title" : "Maximum Number of Non-Overlapping Substrings",
+    "iD" : "1520",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-number-of-non-overlapping-substrings"
+  },
+  {
+    "acceptance" : "41.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Swaps to Arrange a Binary Grid",
+    "iD" : "1536",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-swaps-to-arrange-a-binary-grid"
+  }
+]

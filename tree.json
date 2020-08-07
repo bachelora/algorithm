@@ -1,0 +1,787 @@
+
+[
+  {
+    "acceptance" : "63.3%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Inorder Traversal",
+    "iD" : "94",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-inorder-traversal"
+  },
+  {
+    "acceptance" : "40.6%",
+    "difficulty" : "Medium",
+    "title" : "Unique Binary Search Trees II",
+    "iD" : "95",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-binary-search-trees-ii"
+  },
+  {
+    "acceptance" : "52.8%",
+    "difficulty" : "Medium",
+    "title" : "Unique Binary Search Trees",
+    "iD" : "96",
+    "url" : "https:\/\/leetcode.com\/problems\/unique-binary-search-trees"
+  },
+  {
+    "acceptance" : "27.8%",
+    "difficulty" : "Medium",
+    "title" : "Validate Binary Search Tree",
+    "iD" : "98",
+    "url" : "https:\/\/leetcode.com\/problems\/validate-binary-search-tree"
+  },
+  {
+    "acceptance" : "39.6%",
+    "difficulty" : "Hard",
+    "title" : "Recover Binary Search Tree",
+    "iD" : "99",
+    "url" : "https:\/\/leetcode.com\/problems\/recover-binary-search-tree"
+  },
+  {
+    "acceptance" : "53.4%",
+    "difficulty" : "Easy",
+    "title" : "Same Tree",
+    "iD" : "100",
+    "url" : "https:\/\/leetcode.com\/problems\/same-tree"
+  },
+  {
+    "acceptance" : "46.8%",
+    "difficulty" : "Easy",
+    "title" : "Symmetric Tree",
+    "iD" : "101",
+    "url" : "https:\/\/leetcode.com\/problems\/symmetric-tree"
+  },
+  {
+    "acceptance" : "54.5%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Level Order Traversal",
+    "iD" : "102",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-level-order-traversal"
+  },
+  {
+    "acceptance" : "48.2%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Zigzag Level Order Traversal",
+    "iD" : "103",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-zigzag-level-order-traversal"
+  },
+  {
+    "acceptance" : "66.0%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Depth of Binary Tree",
+    "iD" : "104",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-depth-of-binary-tree"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Tree from Preorder and Inorder Traversal",
+    "iD" : "105",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-tree-from-preorder-and-inorder-traversal"
+  },
+  {
+    "acceptance" : "47.1%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Tree from Inorder and Postorder Traversal",
+    "iD" : "106",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-tree-from-inorder-and-postorder-traversal"
+  },
+  {
+    "acceptance" : "53.5%",
+    "difficulty" : "Easy",
+    "title" : "Binary Tree Level Order Traversal II",
+    "iD" : "107",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-level-order-traversal-ii"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Easy",
+    "title" : "Convert Sorted Array to Binary Search Tree",
+    "iD" : "108",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-sorted-array-to-binary-search-tree"
+  },
+  {
+    "acceptance" : "43.5%",
+    "difficulty" : "Easy",
+    "title" : "Balanced Binary Tree",
+    "iD" : "110",
+    "url" : "https:\/\/leetcode.com\/problems\/balanced-binary-tree"
+  },
+  {
+    "acceptance" : "37.4%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Depth of Binary Tree",
+    "iD" : "111",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-depth-of-binary-tree"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Easy",
+    "title" : "Path Sum",
+    "iD" : "112",
+    "url" : "https:\/\/leetcode.com\/problems\/path-sum"
+  },
+  {
+    "acceptance" : "46.6%",
+    "difficulty" : "Medium",
+    "title" : "Path Sum II",
+    "iD" : "113",
+    "url" : "https:\/\/leetcode.com\/problems\/path-sum-ii"
+  },
+  {
+    "acceptance" : "49.2%",
+    "difficulty" : "Medium",
+    "title" : "Flatten Binary Tree to Linked List",
+    "iD" : "114",
+    "url" : "https:\/\/leetcode.com\/problems\/flatten-binary-tree-to-linked-list"
+  },
+  {
+    "acceptance" : "45.1%",
+    "difficulty" : "Medium",
+    "title" : "Populating Next Right Pointers in Each Node",
+    "iD" : "116",
+    "url" : "https:\/\/leetcode.com\/problems\/populating-next-right-pointers-in-each-node"
+  },
+  {
+    "acceptance" : "39.1%",
+    "difficulty" : "Medium",
+    "title" : "Populating Next Right Pointers in Each Node II",
+    "iD" : "117",
+    "url" : "https:\/\/leetcode.com\/problems\/populating-next-right-pointers-in-each-node-ii"
+  },
+  {
+    "acceptance" : "34.3%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Maximum Path Sum",
+    "iD" : "124",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-maximum-path-sum"
+  },
+  {
+    "acceptance" : "49.0%",
+    "difficulty" : "Medium",
+    "title" : "Sum Root to Leaf Numbers",
+    "iD" : "129",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-root-to-leaf-numbers"
+  },
+  {
+    "acceptance" : "55.6%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Preorder Traversal",
+    "iD" : "144",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-preorder-traversal"
+  },
+  {
+    "acceptance" : "54.9%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Postorder Traversal",
+    "iD" : "145",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-postorder-traversal"
+  },
+  {
+    "acceptance" : "56.5%",
+    "difficulty" : "Medium",
+    "title" : "Binary Search Tree Iterator",
+    "iD" : "173",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-search-tree-iterator"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Right Side View",
+    "iD" : "199",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-right-side-view"
+  },
+  {
+    "acceptance" : "46.7%",
+    "difficulty" : "Medium",
+    "title" : "Count Complete Tree Nodes",
+    "iD" : "222",
+    "url" : "https:\/\/leetcode.com\/problems\/count-complete-tree-nodes"
+  },
+  {
+    "acceptance" : "64.9%",
+    "difficulty" : "Easy",
+    "title" : "Invert Binary Tree",
+    "iD" : "226",
+    "url" : "https:\/\/leetcode.com\/problems\/invert-binary-tree"
+  },
+  {
+    "acceptance" : "60.2%",
+    "difficulty" : "Medium",
+    "title" : "Kth Smallest Element in a BST",
+    "iD" : "230",
+    "url" : "https:\/\/leetcode.com\/problems\/kth-smallest-element-in-a-bst"
+  },
+  {
+    "acceptance" : "49.9%",
+    "difficulty" : "Easy",
+    "title" : "Lowest Common Ancestor of a Binary Search Tree",
+    "iD" : "235",
+    "url" : "https:\/\/leetcode.com\/problems\/lowest-common-ancestor-of-a-binary-search-tree"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Lowest Common Ancestor of a Binary Tree",
+    "iD" : "236",
+    "url" : "https:\/\/leetcode.com\/problems\/lowest-common-ancestor-of-a-binary-tree"
+  },
+  {
+    "acceptance" : "51.4%",
+    "difficulty" : "Easy",
+    "title" : "Binary Tree Paths",
+    "iD" : "257",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-paths"
+  },
+  {
+    "acceptance" : "47.4%",
+    "difficulty" : "Hard",
+    "title" : "Serialize and Deserialize Binary Tree",
+    "iD" : "297",
+    "url" : "https:\/\/leetcode.com\/problems\/serialize-and-deserialize-binary-tree"
+  },
+  {
+    "acceptance" : "50.6%",
+    "difficulty" : "Medium",
+    "title" : "House Robber III",
+    "iD" : "337",
+    "url" : "https:\/\/leetcode.com\/problems\/house-robber-iii"
+  },
+  {
+    "acceptance" : "50.9%",
+    "difficulty" : "Easy",
+    "title" : "Sum of Left Leaves",
+    "iD" : "404",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-left-leaves"
+  },
+  {
+    "acceptance" : "46.1%",
+    "difficulty" : "Medium",
+    "title" : "Path Sum III",
+    "iD" : "437",
+    "url" : "https:\/\/leetcode.com\/problems\/path-sum-iii"
+  },
+  {
+    "acceptance" : "52.0%",
+    "difficulty" : "Medium",
+    "title" : "Serialize and Deserialize BST",
+    "iD" : "449",
+    "url" : "https:\/\/leetcode.com\/problems\/serialize-and-deserialize-bst"
+  },
+  {
+    "acceptance" : "43.1%",
+    "difficulty" : "Medium",
+    "title" : "Delete Node in a BST",
+    "iD" : "450",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-node-in-a-bst"
+  },
+  {
+    "acceptance" : "42.3%",
+    "difficulty" : "Easy",
+    "title" : "Find Mode in Binary Search Tree",
+    "iD" : "501",
+    "url" : "https:\/\/leetcode.com\/problems\/find-mode-in-binary-search-tree"
+  },
+  {
+    "acceptance" : "57.9%",
+    "difficulty" : "Medium",
+    "title" : "Most Frequent Subtree Sum",
+    "iD" : "508",
+    "url" : "https:\/\/leetcode.com\/problems\/most-frequent-subtree-sum"
+  },
+  {
+    "acceptance" : "61.5%",
+    "difficulty" : "Medium",
+    "title" : "Find Bottom Left Tree Value",
+    "iD" : "513",
+    "url" : "https:\/\/leetcode.com\/problems\/find-bottom-left-tree-value"
+  },
+  {
+    "acceptance" : "61.1%",
+    "difficulty" : "Medium",
+    "title" : "Find Largest Value in Each Tree Row",
+    "iD" : "515",
+    "url" : "https:\/\/leetcode.com\/problems\/find-largest-value-in-each-tree-row"
+  },
+  {
+    "acceptance" : "53.7%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Absolute Difference in BST",
+    "iD" : "530",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-absolute-difference-in-bst"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Easy",
+    "title" : "Convert BST to Greater Tree",
+    "iD" : "538",
+    "url" : "https:\/\/leetcode.com\/problems\/convert-bst-to-greater-tree"
+  },
+  {
+    "acceptance" : "48.4%",
+    "difficulty" : "Easy",
+    "title" : "Diameter of Binary Tree",
+    "iD" : "543",
+    "url" : "https:\/\/leetcode.com\/problems\/diameter-of-binary-tree"
+  },
+  {
+    "acceptance" : "48.7%",
+    "difficulty" : "Easy",
+    "title" : "Binary Tree Tilt",
+    "iD" : "563",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-tilt"
+  },
+  {
+    "acceptance" : "44.1%",
+    "difficulty" : "Easy",
+    "title" : "Subtree of Another Tree",
+    "iD" : "572",
+    "url" : "https:\/\/leetcode.com\/problems\/subtree-of-another-tree"
+  },
+  {
+    "acceptance" : "54.1%",
+    "difficulty" : "Easy",
+    "title" : "Construct String from Binary Tree",
+    "iD" : "606",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-string-from-binary-tree"
+  },
+  {
+    "acceptance" : "74.1%",
+    "difficulty" : "Easy",
+    "title" : "Merge Two Binary Trees",
+    "iD" : "617",
+    "url" : "https:\/\/leetcode.com\/problems\/merge-two-binary-trees"
+  },
+  {
+    "acceptance" : "49.7%",
+    "difficulty" : "Medium",
+    "title" : "Add One Row to Tree",
+    "iD" : "623",
+    "url" : "https:\/\/leetcode.com\/problems\/add-one-row-to-tree"
+  },
+  {
+    "acceptance" : "63.0%",
+    "difficulty" : "Easy",
+    "title" : "Average of Levels in Binary Tree",
+    "iD" : "637",
+    "url" : "https:\/\/leetcode.com\/problems\/average-of-levels-in-binary-tree"
+  },
+  {
+    "acceptance" : "50.1%",
+    "difficulty" : "Medium",
+    "title" : "Find Duplicate Subtrees",
+    "iD" : "652",
+    "url" : "https:\/\/leetcode.com\/problems\/find-duplicate-subtrees"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Easy",
+    "title" : "Two Sum IV - Input is a BST",
+    "iD" : "653",
+    "url" : "https:\/\/leetcode.com\/problems\/two-sum-iv-input-is-a-bst"
+  },
+  {
+    "acceptance" : "79.9%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Binary Tree",
+    "iD" : "654",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-binary-tree"
+  },
+  {
+    "acceptance" : "55.0%",
+    "difficulty" : "Medium",
+    "title" : "Print Binary Tree",
+    "iD" : "655",
+    "url" : "https:\/\/leetcode.com\/problems\/print-binary-tree"
+  },
+  {
+    "acceptance" : "41.1%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Width of Binary Tree",
+    "iD" : "662",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-width-of-binary-tree"
+  },
+  {
+    "acceptance" : "63.0%",
+    "difficulty" : "Easy",
+    "title" : "Trim a Binary Search Tree",
+    "iD" : "669",
+    "url" : "https:\/\/leetcode.com\/problems\/trim-a-binary-search-tree"
+  },
+  {
+    "acceptance" : "42.7%",
+    "difficulty" : "Easy",
+    "title" : "Second Minimum Node In a Binary Tree",
+    "iD" : "671",
+    "url" : "https:\/\/leetcode.com\/problems\/second-minimum-node-in-a-binary-tree"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Medium",
+    "title" : "Redundant Connection",
+    "iD" : "684",
+    "url" : "https:\/\/leetcode.com\/problems\/redundant-connection"
+  },
+  {
+    "acceptance" : "32.4%",
+    "difficulty" : "Hard",
+    "title" : "Redundant Connection II",
+    "iD" : "685",
+    "url" : "https:\/\/leetcode.com\/problems\/redundant-connection-ii"
+  },
+  {
+    "acceptance" : "36.2%",
+    "difficulty" : "Easy",
+    "title" : "Longest Univalue Path",
+    "iD" : "687",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-univalue-path"
+  },
+  {
+    "acceptance" : "64.9%",
+    "difficulty" : "Medium",
+    "title" : "N-ary Tree Level Order Traversal",
+    "iD" : "429",
+    "url" : "https:\/\/leetcode.com\/problems\/n-ary-tree-level-order-traversal"
+  },
+  {
+    "acceptance" : "68.6%",
+    "difficulty" : "Easy",
+    "title" : "Maximum Depth of N-ary Tree",
+    "iD" : "559",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-depth-of-n-ary-tree"
+  },
+  {
+    "acceptance" : "72.0%",
+    "difficulty" : "Easy",
+    "title" : "N-ary Tree Preorder Traversal",
+    "iD" : "589",
+    "url" : "https:\/\/leetcode.com\/problems\/n-ary-tree-preorder-traversal"
+  },
+  {
+    "acceptance" : "72.0%",
+    "difficulty" : "Easy",
+    "title" : "N-ary Tree Postorder Traversal",
+    "iD" : "590",
+    "url" : "https:\/\/leetcode.com\/problems\/n-ary-tree-postorder-traversal"
+  },
+  {
+    "acceptance" : "73.1%",
+    "difficulty" : "Easy",
+    "title" : "Search in a Binary Search Tree",
+    "iD" : "700",
+    "url" : "https:\/\/leetcode.com\/problems\/search-in-a-binary-search-tree"
+  },
+  {
+    "acceptance" : "77.8%",
+    "difficulty" : "Medium",
+    "title" : "Insert into a Binary Search Tree",
+    "iD" : "701",
+    "url" : "https:\/\/leetcode.com\/problems\/insert-into-a-binary-search-tree"
+  },
+  {
+    "acceptance" : "52.6%",
+    "difficulty" : "Easy",
+    "title" : "Minimum Distance Between BST Nodes",
+    "iD" : "783",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-distance-between-bst-nodes"
+  },
+  {
+    "acceptance" : "74.5%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Pruning",
+    "iD" : "814",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-pruning"
+  },
+  {
+    "acceptance" : "43.7%",
+    "difficulty" : "Hard",
+    "title" : "Sum of Distances in Tree",
+    "iD" : "834",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-distances-in-tree"
+  },
+  {
+    "acceptance" : "55.3%",
+    "difficulty" : "Medium",
+    "title" : "All Nodes Distance K in Binary Tree",
+    "iD" : "863",
+    "url" : "https:\/\/leetcode.com\/problems\/all-nodes-distance-k-in-binary-tree"
+  },
+  {
+    "acceptance" : "60.8%",
+    "difficulty" : "Medium",
+    "title" : "Smallest Subtree with all the Deepest Nodes",
+    "iD" : "865",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-subtree-with-all-the-deepest-nodes"
+  },
+  {
+    "acceptance" : "64.5%",
+    "difficulty" : "Easy",
+    "title" : "Leaf-Similar Trees",
+    "iD" : "872",
+    "url" : "https:\/\/leetcode.com\/problems\/leaf-similar-trees"
+  },
+  {
+    "acceptance" : "66.1%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Tree from Preorder and Postorder Traversal",
+    "iD" : "889",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-tree-from-preorder-and-postorder-traversal"
+  },
+  {
+    "acceptance" : "75.2%",
+    "difficulty" : "Medium",
+    "title" : "All Possible Full Binary Trees",
+    "iD" : "894",
+    "url" : "https:\/\/leetcode.com\/problems\/all-possible-full-binary-trees"
+  },
+  {
+    "acceptance" : "70.7%",
+    "difficulty" : "Easy",
+    "title" : "Increasing Order Search Tree",
+    "iD" : "897",
+    "url" : "https:\/\/leetcode.com\/problems\/increasing-order-search-tree"
+  },
+  {
+    "acceptance" : "57.3%",
+    "difficulty" : "Medium",
+    "title" : "Complete Binary Tree Inserter",
+    "iD" : "919",
+    "url" : "https:\/\/leetcode.com\/problems\/complete-binary-tree-inserter"
+  },
+  {
+    "acceptance" : "81.3%",
+    "difficulty" : "Easy",
+    "title" : "Range Sum of BST",
+    "iD" : "938",
+    "url" : "https:\/\/leetcode.com\/problems\/range-sum-of-bst"
+  },
+  {
+    "acceptance" : "65.8%",
+    "difficulty" : "Medium",
+    "title" : "Flip Equivalent Binary Trees",
+    "iD" : "951",
+    "url" : "https:\/\/leetcode.com\/problems\/flip-equivalent-binary-trees"
+  },
+  {
+    "acceptance" : "52.0%",
+    "difficulty" : "Medium",
+    "title" : "Check Completeness of a Binary Tree",
+    "iD" : "958",
+    "url" : "https:\/\/leetcode.com\/problems\/check-completeness-of-a-binary-tree"
+  },
+  {
+    "acceptance" : "67.7%",
+    "difficulty" : "Easy",
+    "title" : "Univalued Binary Tree",
+    "iD" : "965",
+    "url" : "https:\/\/leetcode.com\/problems\/univalued-binary-tree"
+  },
+  {
+    "acceptance" : "37.5%",
+    "difficulty" : "Hard",
+    "title" : "Binary Tree Cameras",
+    "iD" : "968",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-cameras"
+  },
+  {
+    "acceptance" : "45.6%",
+    "difficulty" : "Medium",
+    "title" : "Flip Binary Tree To Match Preorder Traversal",
+    "iD" : "971",
+    "url" : "https:\/\/leetcode.com\/problems\/flip-binary-tree-to-match-preorder-traversal"
+  },
+  {
+    "acceptance" : "68.8%",
+    "difficulty" : "Medium",
+    "title" : "Distribute Coins in Binary Tree",
+    "iD" : "979",
+    "url" : "https:\/\/leetcode.com\/problems\/distribute-coins-in-binary-tree"
+  },
+  {
+    "acceptance" : "35.6%",
+    "difficulty" : "Medium",
+    "title" : "Vertical Order Traversal of a Binary Tree",
+    "iD" : "987",
+    "url" : "https:\/\/leetcode.com\/problems\/vertical-order-traversal-of-a-binary-tree"
+  },
+  {
+    "acceptance" : "46.0%",
+    "difficulty" : "Medium",
+    "title" : "Smallest String Starting From Leaf",
+    "iD" : "988",
+    "url" : "https:\/\/leetcode.com\/problems\/smallest-string-starting-from-leaf"
+  },
+  {
+    "acceptance" : "52.0%",
+    "difficulty" : "Easy",
+    "title" : "Cousins in Binary Tree",
+    "iD" : "993",
+    "url" : "https:\/\/leetcode.com\/problems\/cousins-in-binary-tree"
+  },
+  {
+    "acceptance" : "62.9%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Binary Tree II",
+    "iD" : "998",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-binary-tree-ii"
+  },
+  {
+    "acceptance" : "78.4%",
+    "difficulty" : "Medium",
+    "title" : "Construct Binary Search Tree from Preorder Traversal",
+    "iD" : "1008",
+    "url" : "https:\/\/leetcode.com\/problems\/construct-binary-search-tree-from-preorder-traversal"
+  },
+  {
+    "acceptance" : "67.1%",
+    "difficulty" : "Easy",
+    "title" : "Sum of Root To Leaf Binary Numbers",
+    "iD" : "1022",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-root-to-leaf-binary-numbers"
+  },
+  {
+    "acceptance" : "65.9%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Difference Between Node and Ancestor",
+    "iD" : "1026",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-difference-between-node-and-ancestor"
+  },
+  {
+    "acceptance" : "69.9%",
+    "difficulty" : "Hard",
+    "title" : "Recover a Tree From Preorder Traversal",
+    "iD" : "1028",
+    "url" : "https:\/\/leetcode.com\/problems\/recover-a-tree-from-preorder-traversal"
+  },
+  {
+    "acceptance" : "71.9%",
+    "difficulty" : "Medium",
+    "title" : "Path In Zigzag Labelled Binary Tree",
+    "iD" : "1104",
+    "url" : "https:\/\/leetcode.com\/problems\/path-in-zigzag-labelled-binary-tree"
+  },
+  {
+    "acceptance" : "67.0%",
+    "difficulty" : "Medium",
+    "title" : "Delete Nodes And Return Forest",
+    "iD" : "1110",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-nodes-and-return-forest"
+  },
+  {
+    "acceptance" : "66.8%",
+    "difficulty" : "Medium",
+    "title" : "Lowest Common Ancestor of Deepest Leaves",
+    "iD" : "1123",
+    "url" : "https:\/\/leetcode.com\/problems\/lowest-common-ancestor-of-deepest-leaves"
+  },
+  {
+    "acceptance" : "66.1%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Cost Tree From Leaf Values",
+    "iD" : "1130",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-cost-tree-from-leaf-values"
+  },
+  {
+    "acceptance" : "83.5%",
+    "difficulty" : "Medium",
+    "title" : "Sum of Nodes with Even-Valued Grandparent",
+    "iD" : "1315",
+    "url" : "https:\/\/leetcode.com\/problems\/sum-of-nodes-with-even-valued-grandparent"
+  },
+  {
+    "acceptance" : "51.3%",
+    "difficulty" : "Medium",
+    "title" : "Binary Tree Coloring Game",
+    "iD" : "1145",
+    "url" : "https:\/\/leetcode.com\/problems\/binary-tree-coloring-game"
+  },
+  {
+    "acceptance" : "83.6%",
+    "difficulty" : "Medium",
+    "title" : "Deepest Leaves Sum",
+    "iD" : "1302",
+    "url" : "https:\/\/leetcode.com\/problems\/deepest-leaves-sum"
+  },
+  {
+    "acceptance" : "74.3%",
+    "difficulty" : "Medium",
+    "title" : "Find Elements in a Contaminated Binary Tree",
+    "iD" : "1261",
+    "url" : "https:\/\/leetcode.com\/problems\/find-elements-in-a-contaminated-binary-tree"
+  },
+  {
+    "acceptance" : "76.1%",
+    "difficulty" : "Medium",
+    "title" : "All Elements in Two Binary Search Trees",
+    "iD" : "1305",
+    "url" : "https:\/\/leetcode.com\/problems\/all-elements-in-two-binary-search-trees"
+  },
+  {
+    "acceptance" : "72.9%",
+    "difficulty" : "Medium",
+    "title" : "Delete Leaves With a Given Value",
+    "iD" : "1325",
+    "url" : "https:\/\/leetcode.com\/problems\/delete-leaves-with-a-given-value"
+  },
+  {
+    "acceptance" : "37.2%",
+    "difficulty" : "Medium",
+    "title" : "Maximum Product of Splitted Binary Tree",
+    "iD" : "1339",
+    "url" : "https:\/\/leetcode.com\/problems\/maximum-product-of-splitted-binary-tree"
+  },
+  {
+    "acceptance" : "54.0%",
+    "difficulty" : "Medium",
+    "title" : "Longest ZigZag Path in a Binary Tree",
+    "iD" : "1372",
+    "url" : "https:\/\/leetcode.com\/problems\/longest-zigzag-path-in-a-binary-tree"
+  },
+  {
+    "acceptance" : "39.7%",
+    "difficulty" : "Medium",
+    "title" : "Linked List in Binary Tree",
+    "iD" : "1367",
+    "url" : "https:\/\/leetcode.com\/problems\/linked-list-in-binary-tree"
+  },
+  {
+    "acceptance" : "83.8%",
+    "difficulty" : "Medium",
+    "title" : "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+    "iD" : "1379",
+    "url" : "https:\/\/leetcode.com\/problems\/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree"
+  },
+  {
+    "acceptance" : "70.7%",
+    "difficulty" : "Medium",
+    "title" : "Count Good Nodes in Binary Tree",
+    "iD" : "1448",
+    "url" : "https:\/\/leetcode.com\/problems\/count-good-nodes-in-binary-tree"
+  },
+  {
+    "acceptance" : "55.5%",
+    "difficulty" : "Medium",
+    "title" : "Minimum Time to Collect All Apples in a Tree",
+    "iD" : "1443",
+    "url" : "https:\/\/leetcode.com\/problems\/minimum-time-to-collect-all-apples-in-a-tree"
+  },
+  {
+    "acceptance" : "67.2%",
+    "difficulty" : "Medium",
+    "title" : "Pseudo-Palindromic Paths in a Binary Tree",
+    "iD" : "1457",
+    "url" : "https:\/\/leetcode.com\/problems\/pseudo-palindromic-paths-in-a-binary-tree"
+  },
+  {
+    "acceptance" : "63.6%",
+    "difficulty" : "Medium",
+    "title" : "Reorder Routes to Make All Paths Lead to the City Zero",
+    "iD" : "1466",
+    "url" : "https:\/\/leetcode.com\/problems\/reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+  },
+  {
+    "acceptance" : "53.3%",
+    "difficulty" : "Medium",
+    "title" : "Number of Good Leaf Nodes Pairs",
+    "iD" : "1530",
+    "url" : "https:\/\/leetcode.com\/problems\/number-of-good-leaf-nodes-pairs"
+  }
+]
